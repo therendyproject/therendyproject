@@ -6,6 +6,7 @@ Have knowledge of automation tools such as Katalon, Selenium, Appium.
 Familiar with Project Management tools such as JIRA, Trello, TestRail.
 
 ---
+
 ## 💻 Programming Languages
 
 ![HTML](https://img.shields.io/badge/-html-181717?style=for-the-badge&logo=html)
@@ -13,6 +14,7 @@ Familiar with Project Management tools such as JIRA, Trello, TestRail.
 ![PHP](https://img.shields.io/badge/-php-181717?style=for-the-badge&logo=java)
 ![Java](https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java)
                                                                                                                            
+
 ## 🧰 Toolbox
 
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)
@@ -23,16 +25,19 @@ Familiar with Project Management tools such as JIRA, Trello, TestRail.
 ![Apache JMeter](https://img.shields.io/badge/-apache%20jmeter-181717?style=for-the-badge&logo=apache-jmeter)
 ![Appium](https://img.shields.io/badge/-appium-181717?style=for-the-badge&logo=appium)
 
+
 ## 🛠 Framework
 
 ![Selenium Webdriver](https://img.shields.io/badge/-selenium-181717?style=for-the-badge&logo=selenium)
 ![Cucumber](https://img.shields.io/badge/-cucumber-181717?style=for-the-badge&logo=cucumber)
 ![Serenity](https://img.shields.io/badge/-serenity-181717?style=for-the-badge&logo=serenity)
 
+
 ## 📂 Database
 
 ![MySQL](https://img.shields.io/badge/-mysql-181717?style=for-the-badge&logo=mysql)
 ![Microsoft SQL](https://img.shields.io/badge/-oracle-181717?style=for-the-badge&logo=oracle)
+
 
 ## 📔 Project Management
 
@@ -43,6 +48,7 @@ Familiar with Project Management tools such as JIRA, Trello, TestRail.
 ---
 
 ## 🔗 Find ME!
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/rndsetiawan/">
     <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
@@ -58,3 +64,10 @@ Familiar with Project Management tools such as JIRA, Trello, TestRail.
   </a>
 </div>
     
+---
+
+## 🔥 My Stats
+
+![Rendy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rndsetiawan&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rndsetiawan&layout=compact&theme=radical)](https://github.com/rndsetiawan/github-readme-stats)
