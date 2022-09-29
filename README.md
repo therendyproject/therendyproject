@@ -1,5 +1,4 @@
 # Hi there 👋 !
-
 Currently working as Freelance Tutor. Still learning the testing method using automation tools, already fluent in manual testing.
 Familiar with Postman, MySQL, Oracle, HTML, PHP, CSS
 Have knowledge of automation tools such as Katalon, Selenium, Appium.
