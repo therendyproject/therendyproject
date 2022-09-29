@@ -5,21 +5,56 @@ Familiar with Postman, MySQL, Oracle, HTML, PHP, CSS
 Have knowledge of automation tools such as Katalon, Selenium, Appium.
 Familiar with Project Management tools such as JIRA, Trello, TestRail.
 
-## 🛠 Tools
+---
+## 💻 Programming Languages
+
+![HTML](https://img.shields.io/badge/-html-181717?style=for-the-badge&logo=html)
+![CSS](https://img.shields.io/badge/-css-181717?style=for-the-badge&logo=css)
+![PHP](https://img.shields.io/badge/-php-181717?style=for-the-badge&logo=java)
 ![Java](https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java)
+                                                                                                                           
+## 🧰 Toolbox
+
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/-postman-181717?style=for-the-badge&logo=postman)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-181717?style=for-the-badge&logo=intellij-idea)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-181717?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
+![Katalon Studio](https://img.shields.io/badge/-katalon%20studio-181717?style=for-the-badge&logo=katalon-studio)
+![Apache JMeter](https://img.shields.io/badge/-apache%20jmeter-181717?style=for-the-badge&logo=apache-jmeter)
+![Appium](https://img.shields.io/badge/-appium-181717?style=for-the-badge&logo=appium)
+
+## 🛠 Framework
+
 ![Selenium Webdriver](https://img.shields.io/badge/-selenium-181717?style=for-the-badge&logo=selenium)
 ![Cucumber](https://img.shields.io/badge/-cucumber-181717?style=for-the-badge&logo=cucumber)
-![Postman](https://img.shields.io/badge/-postman-181717?style=for-the-badge&logo=postman)
-![Serenity BDD](https://img.shields.io/badge/-serenitybdd-181717?style=for-the-badge&logo=serenitybdd)
+![Serenity](https://img.shields.io/badge/-serenity-181717?style=for-the-badge&logo=serenity)
+
+## 📂 Database
+
 ![MySQL](https://img.shields.io/badge/-mysql-181717?style=for-the-badge&logo=mysql)
 ![Microsoft SQL](https://img.shields.io/badge/-oracle-181717?style=for-the-badge&logo=oracle)
-![Jira](https://img.shields.io/badge/-jira-181717?style=for-the-badge&logo=jira)
-![Trello](https://img.shields.io/badge/-trello-181717?style=for-the-badge&logo=trello)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🔗Find ME!
-<p>
-    <a href="https://www.linkedin.com/in/rndsetiawan/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
-    <a href="https://www.twitter.com/rndsetiawan/" target="blank"><img src="https://img.shields.io/badge/twitter-blue?logo=twitter&logoColor=white&style=for-the-badge"/></a>
+## 📔 Project Management
+
+![Jira](https://img.shields.io/badge/-jira-181717?style=for-the-badge&logo=jira)
+![TestRail](https://img.shields.io/badge/-testrail-181717?style=for-the-badge&logo=testrail)
+![Trello](https://img.shields.io/badge/-trello-181717?style=for-the-badge&logo=trello)
+
+---
+
+## 🔗 Find ME!
+<div id="badges">
+  <a href="https://www.linkedin.com/in/rndsetiawan/">
+    <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.twitter.com/RndSetiawan/">
+    <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.instagram.com/Rnd.Setiawan/">
+    <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=purple" alt="Instagram Badge"/>
+  </a>
+  <a href="https://rndsetiawan.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
+  </a>
+</div>
+    
