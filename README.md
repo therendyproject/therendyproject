@@ -61,9 +61,5 @@ Familiar with Project Management tools such as JIRA, Trello, TestRail.
 ---
 
 ## 🔥 My Stats
-<a href="https://github.com/RndSetiawan/RndSetiawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RndSetiawan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rendy's GitHub Stats" />
-</a>
-<a href="https://github.com/RndSetiawan/RndSetiawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RndSetiawan&show=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rndsetiawan&layout=compact&theme=radical)](https://github.com/rndsetiawan/github-readme-stats)
+[![Rendy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rndsetiawan&count_private=true&show_icons=true&theme=radical)](https://github.com/rndsetiawan/github-readme-stats)
