@@ -24,12 +24,12 @@ Familiar with Project Management tools such as JIRA, Trello, TestRail.
 ---
 
 ## 💻 Programming Languages
-![HTML](https://img.shields.io/badge/-Html-181717?style=for-the-badge&logo=html)
-![CSS](https://img.shields.io/badge/-Css-181717?style=for-the-badge&logo=css)
-![PHP](https://img.shields.io/badge/-Php-181717?style=for-the-badge&logo=java)
-![Java](https://img.shields.io/badge/-Java-181717?style=for-the-badge&logo=java)
-![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-181717?style=for-the-badge&logo=visual-basic)
-![R-Programming](https://img.shields.io/badge/-R%20Programming-181717?style=for-the-badge&logo=r-programming)
+![HTML](https://img.shields.io/badge/-Html-181717?style=for-the-badge&logo=HTML)
+![CSS](https://img.shields.io/badge/-Css-181717?style=for-the-badge&logo=CSS)
+![PHP](https://img.shields.io/badge/-Php-181717?style=for-the-badge&logo=PHP)
+![Java](https://img.shields.io/badge/-Java-181717?style=for-the-badge&logo=Java)
+![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-181717?style=for-the-badge&logo=Visual%20Basic)
+![R-Programming](https://img.shields.io/badge/-R%20Programming-181717?style=for-the-badge&logo=R-Programming)
                                                                                                                            
 ## 🧰 Toolbox
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)
@@ -61,6 +61,9 @@ Familiar with Project Management tools such as JIRA, Trello, TestRail.
 ---
 
 ## 🔥 My Stats
-![Rendy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rndsetiawan&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rndsetiawan&layout=compact&theme=radical)](https://github.com/rndsetiawan/github-readme-stats)
+<a href="https://github.com/RndSetiawan/RndSetiawan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+<a href="https://github.com/RndSetiawan/RndSetiawan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
