@@ -130,10 +130,12 @@ Have knowledge of automation tools such as Katalon, Selenium, Appium, and Famili
 
 [![Rendy's GitHub top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=rndsetiawan&layout=compact&theme=radical&langs_count=10)](https://github.com/rndsetiawan/github-readme-stats)
 
-<!-- Resources -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
+<!--Resources-->
+<!--GitHub Stats: https://github.com/anuraghazra/github-readme-stats-->
+<!--Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme-->
+<!--Icons: https://simpleicons.org/-->
+<!--Emojis: https://emojipedia.org/emoji/-->
+<!--HTML Emojis: https://www.fileformat.info/index.htm -->
+<!--Shields: https://shields.io/-->
+<!--Icont8:https://icons8.com/-->
+<!--Create Self Updating README.md: https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91-->
