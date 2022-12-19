@@ -60,7 +60,7 @@ Have knowledge of automation tools such as Katalon, Selenium, Appium, and Famili
 
 ---
 
-## 📈 My Stats
+### 📈 My Stats
 [![Rendy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rndsetiawan&count_private=true&show_icons=true&theme=radical)](https://github.com/rndsetiawan/github-readme-stats)
 
 [![Rendy's GitHub top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=rndsetiawan&layout=compact&theme=radical&langs_count=10)](https://github.com/rndsetiawan/github-readme-stats)
