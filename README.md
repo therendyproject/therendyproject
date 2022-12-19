@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<p align='justify'>
+<p align="justify">
 Welcome to my profile! Still learning the testing method using automation tools, already fluent in manual testing.
 Familiar with Postman, MySQL, Oracle, HTML, PHP, CSS.
 Have knowledge of automation tools such as Katalon, Selenium, Appium, and Familiar with Project Management tools such as JIRA, Trello, TestRail.
@@ -27,8 +27,100 @@ Have knowledge of automation tools such as Katalon, Selenium, Appium, and Famili
 
 ### 💻 Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML5-181717?style=for-the-badge&logo=html5&logoColor=) ![CSS](https://img.shields.io/badge/-CSS3-181717?style=for-the-badge&logo=css3&logoColor=) ![PHP](https://img.shields.io/badge/-php-181717?style=for-the-badge&logo=php&logoColor=777BB4) ![Java](https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java&logoColor=) ![Microsoft Visual Basic](https://img.shields.io/badge/-Microsoft%20Visual%20Basic-181717?style=for-the-badge&logo=microsoft-visual-basic&logoColor=) ![R](https://img.shields.io/badge/-R-181717?style=for-the-badge&logo=r&logoColor=276DC3) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=) ![Postman](https://img.shields.io/badge/-Postman-181717?style=for-the-badge&logo=postman&logoColor=FF6C37) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-181717?style=for-the-badge&logo=intellij-idea&logoColor=) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-181717?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC) ![Katalon Studio](https://img.shields.io/badge/-Katalon%20Studio-181717?style=for-the-badge&logo=katalon-studio&logoColor=) ![Apache JMeter](https://img.shields.io/badge/-Apache%20JMeter-181717?style=for-the-badge&logo=apache-jmeter&logoColor=D22128) ![Appium](https://img.shields.io/badge/-Appium-181717?style=for-the-badge&logo=appium&logoColor=) ![Selenium Webdriver](https://img.shields.io/badge/-Selenium-181717?style=for-the-badge&logo=selenium&logoColor=43B02A) ![Cucumber](https://img.shields.io/badge/-Cucumber-181717?style=for-the-badge&logo=cucumber&logoColor=23D96C) ![Serenity](https://img.shields.io/badge/-Serenity-181717?style=for-the-badge&logo=serenity&logoColor=) ![MySQL](https://img.shields.io/badge/-MySQL-181717?style=for-the-badge&logo=mysql&logoColor=4479A1) ![Oracle](https://img.shields.io/badge/-Oracle-181717?style=for-the-badge&logo=oracle&logoColor=F80000)![Jira](https://img.shields.io/badge/-Jira-181717?style=for-the-badge&logo=jira&logoColor=0052CC) ![TestRail](https://img.shields.io/badge/-TestRail-181717?style=for-the-badge&logo=testrail&logoColor=)
- ![Trello](https://img.shields.io/badge/-Trello-181717?style=for-the-badge&logo=trello&logoColor=0052CC) ![Windows](https://img.shields.io/badge/-Windows-181717?style=for-the-badge&logo=windows&logoColor=0078D6) ![Linux](https://img.shields.io/badge/-Linux-181717?style=for-the-badge&logo=linux&logoColor=FCC624)
+<p align="justify">
+<!--[HTML]-->
+<a href="">
+  <img src="https://img.shields.io/badge/-HTML5-181717?style=for-the-badge&logo=html5&logoColor="/>
+</a>
+<!--[CSS]-->
+<a href="">
+  <img src="https://img.shields.io/badge/-CSS3-181717?style=for-the-badge&logo=css3&logoColor="/>
+</a>
+<!--[PHP]-->
+<a href="">
+  <img src="https://img.shields.io/badge/-php-181717?style=for-the-badge&logo=php&logoColor=777BB4"/>
+</a>
+<!--[Java]-->
+<a href="">
+  <img src="https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java&logoColor="/>
+</a>
+<!--[Microsoft Visual Basic]-->
+<a href="">
+  <img src="https://img.shields.io/badge/-Microsoft%20Visual%20Basic-181717?style=for-the-badge&logo=microsoft-visual-basic&logoColor="/>
+</a>
+<!--[R]-->
+<a href="">
+  <img src="https://img.shields.io/badge/-R-181717?style=for-the-badge&logo=r&logoColor=276DC3"/>
+</a>
+<!--[GitHub]-->
+<a href="">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor="/>
+</a>
+<!--[Postman]-->
+<a href="">
+  <img src="https://img.shields.io/badge/-Postman-181717?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+</a>
+<!--[IntelliJ IDEA]-->
+<a href="">
+  <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-181717?style=for-the-badge&logo=intellij-idea&logoColor="/>
+</a>
+<!--[Visual Studio Code]-->
+<a href="">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-181717?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
+</a>
+<!--[Katalon Studio]-->
+<a href="">
+  <img src="https://img.shields.io/badge/-Katalon%20Studio-181717?style=for-the-badge&logo=katalon-studio&logoColor="/>
+</a>
+<!--[Apache JMeter]-->
+<a href="">
+  <img src="https://img.shields.io/badge/-Apache%20JMeter-181717?style=for-the-badge&logo=apache-jmeter&logoColor=D22128"/>
+</a>
+<!--[Appium]-->
+<a href="">
+  <img src="https://img.shields.io/badge/-Appium-181717?style=for-the-badge&logo=appium&logoColor="/>
+</a>
+<!--[Selenium Webdriver]-->
+<a href="">
+  <img src="https://img.shields.io/badge/-Selenium-181717?style=for-the-badge&logo=selenium&logoColor=43B02A"/>
+</a>
+<!--[Cucumber]-->
+<a href="">
+  <img src="https://img.shields.io/badge/-Cucumber-181717?style=for-the-badge&logo=cucumber&logoColor=23D96C"/>
+</a>
+<!--[Serenity]-->
+<a href="">
+  <img src="https://img.shields.io/badge/-Serenity-181717?style=for-the-badge&logo=serenity&logoColor="/>
+</a>
+<!--[MySQL]-->
+<a href="">
+  <img src="https://img.shields.io/badge/-MySQL-181717?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+</a>
+<!--[Oracle]-->
+<a href="">
+  <img src="https://img.shields.io/badge/-Oracle-181717?style=for-the-badge&logo=oracle&logoColor=F80000"/>
+</a>
+<!--[Jira]-->
+<a href="">
+  <img src="https://img.shields.io/badge/-Jira-181717?style=for-the-badge&logo=jira&logoColor=0052CC"/>
+</a>
+<!--[TestRail]-->
+<a href="">
+  <img src="https://img.shields.io/badge/-TestRail-181717?style=for-the-badge&logo=testrail&logoColor="/>
+</a>
+<!--[Trello]-->
+<a href="">
+  <img src="https://img.shields.io/badge/-Trello-181717?style=for-the-badge&logo=trello&logoColor=0052CC"/>
+</a>
+<!--[Windows]-->
+<a href="">
+  <img src="https://img.shields.io/badge/-Windows-181717?style=for-the-badge&logo=windows&logoColor=0078D6"/>
+</a>
+<!--[Linux]-->
+<a href="">
+  <img src="https://img.shields.io/badge/-Linux-181717?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+</a>
+</p>
 
 ---
 
