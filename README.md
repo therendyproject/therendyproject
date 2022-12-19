@@ -61,12 +61,9 @@ Have knowledge of automation tools such as Katalon, Selenium, Appium, and Famili
 ---
 
 ## 📈 My Stats
-<a href="https://github.com/rndsetiawan/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rndsetiawan&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rndsetiawan&layout=compact&theme=radical&langs_count=10" />
-</a>
+[![Rendy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rndsetiawan&count_private=true&show_icons=true&theme=radical)](https://github.com/rndsetiawan/github-readme-stats)
+
+[![Rendy's GitHub top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=rndsetiawan&layout=compact&theme=radical&langs_count=10)](https://github.com/rndsetiawan/github-readme-stats)
 
 <!-- Resources -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
