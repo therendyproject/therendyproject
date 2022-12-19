@@ -1,26 +1,25 @@
-# Hi there <img src="https://raw.githubusercontent.com/rndsetiawan/rndsetiawan/master/wave.gif" width="30px" height="30px" /> !
+# Hi there <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/tech-stack-logo/wave.gif" width="30px" height="30px" /> !
 <div id="badges">
   <a href="https://www.linkedin.com/in/rndsetiawan/">
-    <img src="https://img.shields.io/badge/LinkedIn-white?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-white?style=social&logo=linkedin&logoColor=0A66C2" alt="Rendy's LinkedIn"/>
   </a>
   <a href="https://www.twitter.com/RndSetiawan/">
-    <img src="https://img.shields.io/badge/Twitter-white?style=flat-square&logo=twitter&logoColor=1DA1F2" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/-white?style=social&logo=twitter&logoColor=1DA1F2" alt="Rendy's Twitter"/>
   </a>
   <a href="https://www.instagram.com/Rnd.Setiawan/">
-    <img src="https://img.shields.io/badge/Instagram-white?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/-white?style=social&logo=instagram&logoColor=E4405F" alt="Rendy's Instagram"/>
   </a>
   <a href="https://rndsetiawan.hashnode.dev/">
-      <img src="https://img.shields.io/badge/Hashnode-white?style=flat-square&logo=hashnode&logoColor=2962FF" alt="Hashnode Badge"/>
+      <img src="https://img.shields.io/badge/-white?style=social&logo=hashnode&logoColor=2962FF" alt="Rendy's Hashnode"/>
   </a>
 </div>
-
----
 
 <p align='justify'>
 I'm Rendy, still learning the testing method using automation tools, already fluent in manual testing.
 Familiar with Postman, MySQL, Oracle, HTML, PHP, CSS.
 Have knowledge of automation tools such as Katalon, Selenium, Appium, and Familiar with Project Management tools such as JIRA, Trello, TestRail.
 </p>
+
 ---
 
 ### 💻 Programming Languages
