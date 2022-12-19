@@ -80,7 +80,7 @@ Welcome to my profile!
 </a>
 <!--[Visual Studio Code]-->
 <a href="">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-181717?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
+  <img src="https://img.shields.io/badge/VS%20Code-181717?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
 </a>
 <!--[Katalon Studio]-->
 <a href="">
