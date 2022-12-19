@@ -18,9 +18,7 @@
 </p>
 
 <p align="justify">
-Welcome to my profile! Still learning the testing method using automation tools, already fluent in manual testing.
-Familiar with Postman, MySQL, Oracle, HTML, PHP, CSS.
-Have knowledge of automation tools such as Katalon, Selenium, Appium, and Familiar with Project Management tools such as JIRA, Trello, TestRail.
+Welcome to my profile!
 </p>
 
 ---
