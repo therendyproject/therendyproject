@@ -24,18 +24,18 @@ Have knowledge of automation tools such as Katalon, Selenium, Appium, and Famili
 ---
 
 ## 💻 Programming Languages
-![HTML](https://img.shields.io/badge/-Html-181717?style=for-the-badge&logo=HTML)
-![CSS](https://img.shields.io/badge/-Css-181717?style=for-the-badge&logo=CSS)
-![PHP](https://img.shields.io/badge/-Php-181717?style=for-the-badge&logo=PHP)
-![Java](https://img.shields.io/badge/-Java-181717?style=for-the-badge&logo=Java)
-![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-181717?style=for-the-badge&logo=Visual%20Basic)
-![R-Programming](https://img.shields.io/badge/-R%20Programming-181717?style=for-the-badge&logo=R-Programming)
+![HTML](https://img.shields.io/badge/-html-181717?style=for-the-badge&logo=html)
+![CSS](https://img.shields.io/badge/-css-181717?style=for-the-badge&logo=css)
+![PHP](https://img.shields.io/badge/-php-181717?style=for-the-badge&logo=php)
+![Java](https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java)
+![Visual Basic](https://img.shields.io/badge/-visual_basic-181717?style=for-the-badge&logo=visual_basic)
+![R](https://img.shields.io/badge/-r-181717?style=for-the-badge&logo=r&logoColor=276DC3)
                                                                                                                            
 ## 🧰 Toolbox
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)
+![Github](https://img.shields.io/badge/-github-181717?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/-postman-181717?style=for-the-badge&logo=postman)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-181717?style=for-the-badge&logo=intellij-idea)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-181717?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
+![IntelliJ IDEA](https://img.shields.io/badge/-intellijidea-181717?style=for-the-badge&logo=intellij-idea)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-181717?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Katalon Studio](https://img.shields.io/badge/-katalon%20studio-181717?style=for-the-badge&logo=katalon-studio)
 ![Apache JMeter](https://img.shields.io/badge/-apache%20jmeter-181717?style=for-the-badge&logo=apache-jmeter)
 ![Appium](https://img.shields.io/badge/-appium-181717?style=for-the-badge&logo=appium)
@@ -46,17 +46,17 @@ Have knowledge of automation tools such as Katalon, Selenium, Appium, and Famili
 ![Serenity](https://img.shields.io/badge/-serenity-181717?style=for-the-badge&logo=serenity)
 
 ## 📂 Database
-![MySQL](https://img.shields.io/badge/-mysql-181717?style=for-the-badge&logo=mysql)
-![Microsoft SQL](https://img.shields.io/badge/-oracle-181717?style=for-the-badge&logo=oracle)
+![MySQL](https://img.shields.io/badge/-mysql-181717?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Microsoft SQL](https://img.shields.io/badge/-oracle-181717?style=for-the-badge&logo=oracle&logoColor=F80000)
 
 ## 📔 Project Management
-![Jira](https://img.shields.io/badge/-jira-181717?style=for-the-badge&logo=jira)
-![TestRail](https://img.shields.io/badge/-testrail-181717?style=for-the-badge&logo=testrail)
-![Trello](https://img.shields.io/badge/-trello-181717?style=for-the-badge&logo=trello)
+![Jira](https://img.shields.io/badge/-jira-181717?style=for-the-badge&logo=jira&logoColor=0052CC)
+![TestRail](https://img.shields.io/badge/-testrail-181717?style=for-the-badge&logo=testrail&logoColor=)
+![Trello](https://img.shields.io/badge/-trello-181717?style=for-the-badge&logo=trello&logoColor=0052CC)
 
 ## 🖥️ Operating System
-![Windows](https://img.shields.io/badge/-windows-181717?style=for-the-badge&logo=windows)
-![Linux](https://img.shields.io/badge/-linux-181717?style=for-the-badge&logo=linux)
+![Windows](https://img.shields.io/badge/-windows-181717?style=for-the-badge&logo=windows&logoColor=0078D6)
+![Linux](https://img.shields.io/badge/-linux-181717?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 ---
 
@@ -68,3 +68,7 @@ Have knowledge of automation tools such as Katalon, Selenium, Appium, and Famili
 <!-- Resources -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
