@@ -50,6 +50,10 @@ Welcome to my profile!
 <a href="">
   <img src="https://img.shields.io/badge/-R-181717?style=for-the-badge&logo=r&logoColor=276DC3"/>
 </a>
+<!--[Git]-->
+<a href="">
+  <img src="https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=git&logoColor="/>
+</a>
 <!--[GitHub]-->
 <a href="">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor="/>
