@@ -52,7 +52,7 @@ Welcome to my profile!
 </a>
 <!--[Java Script]-->
 <a href="">
-  <img src="https://img.shields.io/badge/-Java%20Script-181717?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/-JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </a>
 <!--[Microsoft Visual Basic]-->
 <a href="">
