@@ -61,5 +61,9 @@ Familiar with Project Management tools such as JIRA, Trello, TestRail.
 ---
 
 ## 🔥 My Stats
-[![Rendy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rndsetiawan&count_private=true&show_icons=true&theme=radical)](https://github.com/rndsetiawan/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rndsetiawan&layout=compact&theme=radical)](https://github.com/rndsetiawan/github-readme-stats)
+<a href="https://github.com/rndsetiawan/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rndsetiawan&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rndsetiawan&layout=compact&theme=radical&langs_count=10" />
+</a>
