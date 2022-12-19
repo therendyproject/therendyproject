@@ -1,19 +1,27 @@
-<h1 align='center'>
+<h1 align="center">
 <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/tech-stack-logo/wave.gif" width="30px" height="30px" /> Hi I'm Rendy
 </h1>
 
 <p align="center">
+<!--[LinkedIn]-->
   <a href="https://www.linkedin.com/in/rndsetiawan/">
     <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=linkedin&logoColor=0A66C2" alt="Rendy's LinkedIn"/>
   </a>
+<!--[Twitter]-->
   <a href="https://www.twitter.com/RndSetiawan/">
     <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=twitter&logoColor=1DA1F2" alt="Rendy's Twitter"/>
   </a>
+<!--[Instagram]-->
   <a href="https://www.instagram.com/Rnd.Setiawan/">
     <img src="https://img.shields.io/badge/rnd.setiawan-white?style=social&logo=instagram&logoColor=E4405F" alt="Rendy's Instagram"/>
   </a>
+<!--[Hashnode]-->
   <a href="https://rndsetiawan.hashnode.dev/">
       <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=hashnode&logoColor=2962FF" alt="Rendy's Hashnode"/>
+  </a>
+<!--[Replit]-->
+  <a href="https://replit.com/@rndsetiawan">
+      <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=replit&logoColor=#F26207" alt="Rendy's Replit"/>
   </a>
 </p>
 
