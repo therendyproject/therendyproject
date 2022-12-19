@@ -28,7 +28,7 @@ Have knowledge of automation tools such as Katalon, Selenium, Appium, and Famili
 ![CSS](https://img.shields.io/badge/-css-181717?style=for-the-badge&logo=css&logoColor=)
 ![PHP](https://img.shields.io/badge/-php-181717?style=for-the-badge&logo=php&logoColor=777BB4)
 ![Java](https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java&logoColor=)
-![Visual Basic](https://img.shields.io/badge/-visual%20basic-181717?style=for-the-badge&logo=visual-basic&logoColor=)
+![Microsoft Visual Basic](https://img.shields.io/badge/-microsoft%20visual%20basic-181717?style=for-the-badge&logo=microsoft-visual-basic&logoColor=)
 ![R](https://img.shields.io/badge/-r-181717?style=for-the-badge&logo=r&logoColor=276DC3)
                                                                                                                            
 ## 🧰 Toolbox
