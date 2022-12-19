@@ -1,5 +1,8 @@
-# Hi there <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/tech-stack-logo/wave.gif" width="30px" height="30px" /> !
-<div id="badges">
+<h1 align='center'>
+<img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/tech-stack-logo/wave.gif" width="30px" height="30px" /> Hi there !
+</h1>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/rndsetiawan/">
     <img src="https://img.shields.io/badge/-white?style=social&logo=linkedin&logoColor=0A66C2" alt="Rendy's LinkedIn"/>
   </a>
@@ -12,7 +15,7 @@
   <a href="https://rndsetiawan.hashnode.dev/">
       <img src="https://img.shields.io/badge/-white?style=social&logo=hashnode&logoColor=2962FF" alt="Rendy's Hashnode"/>
   </a>
-</div>
+</p>
 
 <p align='justify'>
 I'm Rendy, still learning the testing method using automation tools, already fluent in manual testing.
