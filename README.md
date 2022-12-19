@@ -1,4 +1,4 @@
-# Hi there 👋 !
+# Hi there <img src="https://raw.githubusercontent.com/rndsetiawan/rndsetiawan/master/wave.gif" width="30px" height="30px" /> !
 <div id="badges">
   <a href="https://www.linkedin.com/in/rndsetiawan/">
     <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
@@ -60,10 +60,14 @@ Familiar with Project Management tools such as JIRA, Trello, TestRail.
 
 ---
 
-## 🔥 My Stats
+## 📈 My Stats
 <a href="https://github.com/rndsetiawan/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rndsetiawan&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rndsetiawan&layout=compact&theme=radical&langs_count=10" />
 </a>
+
+<!-- Resources -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
