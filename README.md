@@ -16,11 +16,11 @@
 
 ---
 
+<p align='justify'>
 Still learning the testing method using automation tools, already fluent in manual testing.
-Familiar with Postman, MySQL, Oracle, HTML, PHP, CSS
-Have knowledge of automation tools such as Katalon, Selenium, Appium.
-Familiar with Project Management tools such as JIRA, Trello, TestRail.
-
+Familiar with Postman, MySQL, Oracle, HTML, PHP, CSS.
+Have knowledge of automation tools such as Katalon, Selenium, Appium, and Familiar with Project Management tools such as JIRA, Trello, TestRail.
+</p>
 ---
 
 ## 💻 Programming Languages
