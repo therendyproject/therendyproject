@@ -50,6 +50,10 @@ Welcome to my profile!
 <a href="">
   <img src="https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java&logoColor="/>
 </a>
+<!--[Java Script]-->
+<a href="">
+  <img src="https://img.shields.io/badge/-Java%20Script-181717?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</a>
 <!--[Microsoft Visual Basic]-->
 <a href="">
   <img src="https://img.shields.io/badge/-Microsoft%20Visual%20Basic-181717?style=for-the-badge&logo=microsoft-visual-basic&logoColor="/>
