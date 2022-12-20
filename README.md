@@ -180,7 +180,7 @@
 <p align="center">
   <!--[Rendy's GitHub streak-stats]-->
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=rndsetiawan&theme=radical&hide_border=true&border_radius=20&mode=weekly"/>
+    <img length+"50%" width="50%" src="https://streak-stats.demolab.com/?user=rndsetiawan&theme=radical&hide_border=true&border_radius=20&mode=weekly"/>
   </a>
     <!--[Rendy's GitHub stats]-->
   <a href="https://github.com/rndsetiawan/github-readme-stats">
