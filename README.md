@@ -5,51 +5,51 @@
 <p align="center"> 
   <!--[GMail]
   <a href="">
-    <img src="https://img.shields.io/badge/rnd.setiawan89-white?style=social&logo=gmail&logoColor=" alt="Rendy's GMail"/>
+    <img src="https://img.shields.io/badge/rnd.setiawan89-white?style=social&logo=gmail&logoColor=" title="Rendy's GMail"/>
   </a>-->
   <!--[LinkedIn]-->
   <a href="https://www.linkedin.com/in/rndsetiawan/">
-    <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=linkedin&logoColor=0A66C2" alt="Rendy's LinkedIn"/>
+    <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=linkedin&logoColor=0A66C2" title="Rendy's LinkedIn"/>
   </a>
   <!--[Discord]
   <a href="">
-    <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=discord&logoColor=" alt="Rendy's Discord"/>
+    <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=discord&logoColor=" title="Rendy's Discord"/>
   </a>-->
   <!--[Twitch]
   <a href="">
-    <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=twitch&logoColor=" alt="Rendy's Twitch"/>
+    <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=twitch&logoColor=" title="Rendy's Twitch"/>
   </a>-->
   <!--[Twitter]-->
   <a href="https://www.twitter.com/RndSetiawan/">
-    <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=twitter&logoColor=1DA1F2" alt="Rendy's Twitter"/>
+    <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=twitter&logoColor=1DA1F2" title="Rendy's Twitter"/>
   </a>
   <!--[Instagram]-->
   <a href="https://www.instagram.com/Rnd.Setiawan/">
-    <img src="https://img.shields.io/badge/rnd.setiawan-white?style=social&logo=instagram&logoColor=E4405F" alt="Rendy's Instagram"/>
+    <img src="https://img.shields.io/badge/rnd.setiawan-white?style=social&logo=instagram&logoColor=E4405F" title="Rendy's Instagram"/>
   </a>
   <!--[Facebook]
   <a href="">
-    <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=facebook&logoColor=" alt="Rendy's Facebook"/>
+    <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=facebook&logoColor=" title="Rendy's Facebook"/>
   </a>-->
   <!--[YouTube]
   <a href="">
-    <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=youtube&logoColor=" alt="Rendy's YouTube"/>
+    <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=youtube&logoColor=" title="Rendy's YouTube"/>
   </a>-->
   <!--[Hashnode]-->
   <a href="https://rndsetiawan.hashnode.dev/">
-      <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=hashnode&logoColor=2962FF" alt="Rendy's Hashnode"/>
+      <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=hashnode&logoColor=2962FF" title="Rendy's Hashnode"/>
   </a>
   <!--[Medium]-->
   <a href="https://rndsetiawan.medium.com">
-    <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=medium&logoColor=" alt="Rendy's Medium"/>
+    <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=medium&logoColor=" title="Rendy's Medium"/>
   </a>
   <!--[Replit]-->
   <a href="https://replit.com/@rndsetiawan">
-      <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=replit&logoColor=#F26207" alt="Rendy's Replit"/>
+      <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=replit&logoColor=#F26207" title="Rendy's Replit"/>
   </a>
   <!--[CodePen]
   <a href="">
-    <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=codepen&logoColor=" alt="Rendy's CodePen"/>
+    <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=codepen&logoColor=" title="Rendy's CodePen"/>
   </a>-->
 </p>
 
@@ -170,13 +170,20 @@
 
 ### 📈 My Stats
 
-[![Rendy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rndsetiawan&count_private=true&show_icons=true&theme=radical)](https://github.com/rndsetiawan/github-readme-stats)
+[![Rendy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rndsetiawan&count_private=true&show_icons=true&theme=radical&hide_border=true&border_radius=20)](https://github.com/rndsetiawan/github-readme-stats)
 
-[![Rendy's GitHub top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=rndsetiawan&layout=compact&theme=radical&langs_count=10)](https://github.com/rndsetiawan/github-readme-stats)
+[![Rendy's GitHub streak-stats](https://streak-stats.demolab.com/?user=rndsetiawan&theme=radical&hide_border=true&border_radius=20&mode=weekly)](https://git.io/streak-stats)
+
+[![Rendy's GitHub top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=rndsetiawan&layout=compact&theme=radical&langs_count=10&hide_border=true&border_radius=20)](https://github.com/rndsetiawan/github-readme-stats)
+
+![Rendy's GitHub profile-views-counter](https://komarev.com/ghpvc/?username=rndsetiawan&color=blue&style=for-the-badge&label=VISITOR)
+
+---
 
 <!--Resources-->
 <!--GitHub Stats: https://github.com/anuraghazra/github-readme-stats-->
 <!--Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme-->
+<!--Development Language and Tool Logo: https://github.com/devicons/devicon#getting-started-font-->
 <!--Icons: https://simpleicons.org/-->
 <!--Emojis: https://emojipedia.org/emoji/-->
 <!--HTML Emojis: https://www.fileformat.info/index.htm -->
