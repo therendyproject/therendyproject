@@ -4,10 +4,10 @@
 
 <p align="center">
   
-  <!--[LinkedIn]-->
+  <!--[GMail]
   <a href="">
     <img src="https://img.shields.io/badge/rnd.setiawan89-white?style=social&logo=gmail&logoColor=" alt="Rendy's GMail"/>
-  </a>
+  </a>-->
   <!--[LinkedIn]-->
   <a href="https://www.linkedin.com/in/rndsetiawan/">
     <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=linkedin&logoColor=0A66C2" alt="Rendy's LinkedIn"/>
