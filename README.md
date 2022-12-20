@@ -180,8 +180,12 @@
     <img src="https://streak-stats.demolab.com/?user=rndsetiawan&theme=radical&hide_border=true&border_radius=20&mode=weekly"/>
   </a>
 </p>
-
-[![Rendy's GitHub top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=rndsetiawan&layout=compact&theme=radical&langs_count=10&hide_border=true&border_radius=20)](https://github.com/rndsetiawan/github-readme-stats)
+<p align="center">
+  <!--[Rendy's GitHub top-lang]-->
+  <a href="https://github.com/rndsetiawan/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rndsetiawan&layout=compact&theme=radical&langs_count=10&hide_border=true&border_radius=20"/>
+  </a>
+</p>
 
 ![Rendy's GitHub profile-views-counter](https://komarev.com/ghpvc/?username=rndsetiawan&color=blue&style=for-the-badge&label=VISITOR)
 
