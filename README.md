@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/wave.gif" width="30px" height="30px" /> Hi I'm Rendy
+  <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/tech-stack-logo/wave.gif" width="30px" height="30px" /> Hi I'm Rendy
 </h1>
 
 <p align="center"> 
