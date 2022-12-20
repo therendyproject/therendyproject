@@ -2,8 +2,7 @@
   <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/tech-stack-logo/wave.gif" width="30px" height="30px" /> Hi I'm Rendy
 </h1>
 
-<p align="center">
-  
+<p align="center"> 
   <!--[GMail]
   <a href="">
     <img src="https://img.shields.io/badge/rnd.setiawan89-white?style=social&logo=gmail&logoColor=" alt="Rendy's GMail"/>
@@ -12,6 +11,14 @@
   <a href="https://www.linkedin.com/in/rndsetiawan/">
     <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=linkedin&logoColor=0A66C2" alt="Rendy's LinkedIn"/>
   </a>
+  <!--[Discord]
+  <a href="">
+    <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=discord&logoColor=" alt="Rendy's Discord"/>
+  </a>-->
+  <!--[Twitch]
+  <a href="">
+    <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=twitch&logoColor=" alt="Rendy's Twitch"/>
+  </a>-->
   <!--[Twitter]-->
   <a href="https://www.twitter.com/RndSetiawan/">
     <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=twitter&logoColor=1DA1F2" alt="Rendy's Twitter"/>
@@ -20,15 +27,33 @@
   <a href="https://www.instagram.com/Rnd.Setiawan/">
     <img src="https://img.shields.io/badge/rnd.setiawan-white?style=social&logo=instagram&logoColor=E4405F" alt="Rendy's Instagram"/>
   </a>
+  <!--[Facebook]
+  <a href="">
+    <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=facebook&logoColor=" alt="Rendy's Facebook"/>
+  </a>-->
+  <!--[YouTube]
+  <a href="">
+    <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=youtube&logoColor=" alt="Rendy's YouTube"/>
+  </a>-->
   <!--[Hashnode]-->
   <a href="https://rndsetiawan.hashnode.dev/">
       <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=hashnode&logoColor=2962FF" alt="Rendy's Hashnode"/>
+  </a>
+  <!--[Medium]-->
+  <a href="https://rndsetiawan.medium.com">
+    <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=medium&logoColor=" alt="Rendy's Medium"/>
   </a>
   <!--[Replit]-->
   <a href="https://replit.com/@rndsetiawan">
       <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=replit&logoColor=#F26207" alt="Rendy's Replit"/>
   </a>
+  <!--[CodePen]
+  <a href="">
+    <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=codepen&logoColor=" alt="Rendy's CodePen"/>
+  </a>-->
 </p>
+
+---
 
 <p align="justify">
   Welcome to my profile!
