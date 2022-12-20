@@ -168,6 +168,13 @@
 
 ---
 
+### Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ### 📈 My Stats
 
 <p align="center">
@@ -187,7 +194,7 @@
 
 ![Rendy's GitHub profile-views-counter](https://komarev.com/ghpvc/?username=rndsetiawan&color=blue&style=for-the-badge&label=VISITOR)
   
----
+<!----->
 
 <!--Resources-->
 <!--GitHub Stats: https://github.com/anuraghazra/github-readme-stats-->
