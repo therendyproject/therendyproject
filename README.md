@@ -182,10 +182,10 @@
   <a href="https://git.io/streak-stats">
     <img length+"250" width="350" src="https://streak-stats.demolab.com/?user=rndsetiawan&theme=radical&hide_border=true&border_radius=20&mode=weekly"/>
   </a>
-    <!--[Rendy's GitHub stats]-->
+    <!--[Rendy's GitHub stats]
   <a href="https://github.com/rndsetiawan/github-readme-stats">
     <img length+"250" width="350" src="https://github-readme-stats.vercel.app/api?username=rndsetiawan&count_private=true&show_icon=true&theme=radical&hide_border=true&border_radius=20"/>
-  </a>
+  </a>-->
   <!--[Rendy's GitHub top-lang]-->
   <a href="https://github.com/rndsetiawan/github-readme-stats">
     <img length+"200" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rndsetiawan&layout=compact&theme=radical&langs_count=10&hide_border=true&border_radius=20"/>
