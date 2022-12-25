@@ -15,4 +15,4 @@ jobs:
         with:
           max_post_count: "5"
           remove_duplicates: true
-          feed_list: "https://rndsetiawan.hashnode.dev/rss.xml,https://rndsetiawan.medium.com/feed,https://dev.to/feed/rndsetiawan"
+          feed_list: "https://dev.to/feed/rndsetiawan"
