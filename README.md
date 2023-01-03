@@ -168,7 +168,7 @@
 
 ---
 
-### Blog posts
+### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Install Java on Manjaro Linux](https://dev.to/rndsetiawan/how-to-install-java-on-manjaro-linux-19e5)
