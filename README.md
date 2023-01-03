@@ -20,11 +20,11 @@
     <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=twitch&logoColor=" title="Rendy's Twitch"/>
   </a>-->
   <!--[Twitter]-->
-  <a href="https://www.twitter.com/RndSetiawan/">
+  <a href="https://www.twitter.com/rndsetiawan/">
     <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=twitter&logoColor=1DA1F2" title="Rendy's Twitter"/>
   </a>
   <!--[Instagram]-->
-  <a href="https://www.instagram.com/Rnd.Setiawan/">
+  <a href="https://www.instagram.com/rnd.setiawan/">
     <img src="https://img.shields.io/badge/rnd.setiawan-white?style=social&logo=instagram&logoColor=E4405F" title="Rendy's Instagram"/>
   </a>
   <!--[Facebook]
@@ -39,10 +39,18 @@
   <a href="https://rndsetiawan.hashnode.dev/">
       <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=hashnode&logoColor=2962FF" title="Rendy's Hashnode"/>
   </a>
-  <!--[Medium]-->
+  <!--[Medium]
   <a href="https://rndsetiawan.medium.com">
     <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=medium&logoColor=" title="Rendy's Medium"/>
-  </a>
+  </a>-->
+  <!--[Dev.To]
+  <a href="https://dev.to/rndsetiawan">
+    <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=dev.to&logoColor=" title="Rendy's Dev.To"/>
+  </a>-->
+  <!--[daily.dev]
+  <a href="https://app.daily.dev/rndsetiawan">
+    <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=daily.dev&logoColor=" title="Rendy's daily dev"/>
+  </a>-->
   <!--[Replit]-->
   <a href="https://replit.com/@rndsetiawan">
       <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=replit&logoColor=#F26207" title="Rendy's Replit"/>
