@@ -54,10 +54,10 @@
   <a href="https://app.daily.dev/rndsetiawan">
     <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=daily.dev&logoColor=" title="Rendy's daily dev"/>
   </a>-->
-  <!--[Replit]-->
+  <!--[Replit]
   <a href="https://replit.com/@rndsetiawan">
       <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=replit&logoColor=#F26207" title="Rendy's Replit"/>
-  </a>
+  </a>-->
   <!--[CodePen]
   <a href="">
     <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=codepen&logoColor=" title="Rendy's CodePen"/>
@@ -65,12 +65,12 @@
 </p>
 
 ---
-
+<!--
 <p align="justify">
   Welcome to my profile!
-</p>
+</p>-->
 
----
+<!----->
 
 ### 💻 Tech Stack
 
