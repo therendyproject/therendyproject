@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
   <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/emoji/waving-hand_1f44b.gif" width="30px" height="30px" /> Hi I'm
 </h1>
 <h1 align="center">
@@ -72,10 +72,10 @@
 
 <!----->
 
-<!--### 💻 Tech Stack-->
-<h2 align="left">
-  <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/emoji/desktop-computer_1f5a5-fe0f.png" width="30px" height="30px" /> Tech Stack
-</h2>
+<!--[Tech Stack]-->
+<h3 align="left">
+  <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/emoji/desktop-computer_1f5a5-fe0f.png" width="15px" height="15px" /> Tech Stack
+</h3>
 <p align="justify">
   <!--[HTML]-->
   <a href="">
@@ -181,20 +181,22 @@
 
 ---
 
-<!--### Blog Posts-->
-<h2 align="left">
-  <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/emoji/globe-with-medians_1f310-1.png" width="30px" height="30px" /> Blog Post
-</h2>
+<!--[Blog Posts]-->
+<h3 align="left">
+  <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/emoji/globe-with-meridians_1f310-1.png" width="15px" height="15px" /> Blog Post
+</h3>
+
 <!-- BLOG-POST-LIST:START -->
 - [How to Install Java on Manjaro Linux](https://rndsetiawan.hashnode.dev/how-to-install-java-on-manjaro-linux-2afe47c2276)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-<!--### :chart_with_upwards_trend: My Stats-->
-<h2 align="left">
-  <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/emoji/fire_1f525.png" width="30px" height="30px" /> My Stats
-</h2>
+<!--[My Stats]-->
+<h3 align="left">
+  <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/emoji/fire_1f525.png" width="15px" height="15px" /> My Stats
+</h3>
+
 <p align="center">
   <!--[Rendy's GitHub streak-stats]-->
   <a href="https://git.io/streak-stats">
