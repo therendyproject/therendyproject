@@ -183,7 +183,7 @@
 
 <!--### Blog Posts-->
 <h2 align="left">
-  <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/emoji/globe-with-medians_1f310(1).png" width="30px" height="30px" /> Blog Post
+  <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/emoji/globe-with-medians_1f310-1.png" width="30px" height="30px" /> Blog Post
 </h2>
 <!-- BLOG-POST-LIST:START -->
 - [How to Install Java on Manjaro Linux](https://rndsetiawan.hashnode.dev/how-to-install-java-on-manjaro-linux-2afe47c2276)
