@@ -52,13 +52,12 @@
   </a>-->
 </p>
 
----
 <!--
 <p align="justify">
   Welcome to my profile!
 </p>-->
 
-<!----->
+---
 
 <!--[Tech Stack]-->
 <h3 align="left">
@@ -211,13 +210,30 @@
   
 <!----->
 
-<!--Resources-->
-<!--GitHub Stats: https://github.com/anuraghazra/github-readme-stats-->
-<!--Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme-->
-<!--Development Language and Tool Logo: https://github.com/devicons/devicon#getting-started-font-->
-<!--Icons: https://simpleicons.org/-->
-<!--Emojis: https://emojipedia.org/emoji/-->
-<!--HTML Emojis: https://www.fileformat.info/index.htm -->
-<!--Shields: https://shields.io/-->
-<!--Icont8:https://icons8.com/-->
-<!--Create Self Updating README.md: https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91-->
+<!--[Resources]-->
+<!--[GitHub Stats]-->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+
+<!--[Awesome GitHub Profile README]-->
+<!-- https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+
+<!--[Development Language and Tool Logo]-->
+<!-- https://github.com/devicons/devicon#getting-started-font -->
+
+<!--[Icons]-->
+<!-- https://simpleicons.org/ -->
+
+<!--[Emojis]-->
+<!-- https://emojipedia.org/emoji/ -->
+
+<!--[HTML Emojis]-->
+<!-- https://www.fileformat.info/index.htm -->
+
+<!--[Shields]-->
+<!-- https://shields.io/ -->
+
+<!--[Icont8]
+<!-- https://icons8.com/ -->
+
+<!--[Create Self Updating README.md]-->
+<!-- https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91 -->
