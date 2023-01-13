@@ -72,8 +72,10 @@
 
 <!----->
 
-### 💻 Tech Stack
-
+<!--### 💻 Tech Stack-->
+<h2 align="left">
+  <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/emoji/desktop-computer_1f5a5-fe0f.png" width="30px" height="30px" /> Tech Stack
+</h2>
 <p align="justify">
   <!--[HTML]-->
   <a href="">
@@ -179,16 +181,20 @@
 
 ---
 
-### Blog Posts
-
+<!--### Blog Posts-->
+<h2 align="left">
+  <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/emoji/globe-with-medians_1f310(1).png" width="30px" height="30px" /> Blog Post
+</h2>
 <!-- BLOG-POST-LIST:START -->
 - [How to Install Java on Manjaro Linux](https://rndsetiawan.hashnode.dev/how-to-install-java-on-manjaro-linux-2afe47c2276)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-### 📈 My Stats
-
+<!--### :chart_with_upwards_trend: My Stats-->
+<h2 align="left">
+  <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/emoji/fire_1f525.png" width="30px" height="30px" /> My Stats
+</h2>
 <p align="center">
   <!--[Rendy's GitHub streak-stats]-->
   <a href="https://git.io/streak-stats">
