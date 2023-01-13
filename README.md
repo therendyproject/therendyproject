@@ -1,6 +1,6 @@
 <!--[Greetings]-->
 <h1 align="left">
-  <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/emoji/waving-hand_1f44b.gif" width="30px" height="30px" /> Hi I'm
+  <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/emoji/waving-hand_1f44b.gif" width="30px" height="30px" /> Hi!
 </h1>
 
 <!--[Banner]-->
@@ -18,6 +18,10 @@
   <a href="https://www.twitter.com/rndsetiawan/">
     <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=twitter&logoColor=1DA1F2" title="Rendy's Twitter"/>
   </a>
+  <!--[Mastodon]
+  <a href="">
+    <img src="https://img.shields.io/badge/rndsetiawan@techhub-000000?style=social&logo=Mastodon&logoColor=6364FF"/>
+  </a>-->
   <!--[Instagram]-->
   <a href="https://www.instagram.com/rnd.setiawan/">
     <img src="https://img.shields.io/badge/rnd.setiawan-white?style=social&logo=instagram&logoColor=E4405F" title="Rendy's Instagram"/>
@@ -110,7 +114,7 @@
   </a>
   <!--[Visual Studio Code]-->
   <a href="">
-    <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
   </a>
   <!--[Katalon Studio]-->
   <a href="">
@@ -155,6 +159,10 @@
   <!--[Trello]-->
   <a href="">
     <img src="https://img.shields.io/badge/-Trello-000000?style=for-the-badge&logo=trello&logoColor=0052CC"/>
+  </a>
+  <!--[Adobe Dreamweaver]-->
+  <a href="">
+    <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-000000?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400"/>
   </a>
   <!--[Windows]-->
   <a href="">
