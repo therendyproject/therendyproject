@@ -8,16 +8,12 @@
   <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/header/CSP-001-b.png"/>
 </h1>
 
-┌──┤ ABOUT ME ├────────────────────────────────▰▰▰
-│
-├─▣ 🔭 I’m currently working on Freelancer 
-│<!--- 🌱 I’m currently learning-->
-│<!--- 👯 I’m looking to collaborate on-->
-│<!--- 🤔 I’m looking for help with-->
-│<!--- 💬 Ask me about-->
-│<!---  📫 How to reach me:-->
-│
-└──────────────────────────────────────────────▰▰▰
+* 🔭 I’m currently working on Freelancer 
+<!--- * 🌱 I’m currently learning-->
+<!--- * 👯 I’m looking to collaborate on-->
+<!--- * 🤔 I’m looking for help with-->
+<!--- * 💬 Ask me about-->
+* 📫 How to reach me:
 
 <!--[Social Media Badges]-->
 <p align="center"> 
