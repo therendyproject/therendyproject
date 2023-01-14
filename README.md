@@ -8,12 +8,17 @@
   <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/header/CSP-001-b.png"/>
 </h1>
 
-- 🔭 I’m currently working on Freelancer 
-<!--- 🌱 I’m currently learning-->
-<!--- 👯 I’m looking to collaborate on-->
-<!--- 🤔 I’m looking for help with-->
-<!--- 💬 Ask me about-->
-- 📫 How to reach me:
+┌──┤ ABOUT ME ├────────────────────────────────▰▰▰
+│
+├─▣ 🔭 I’m currently working on Freelancer 
+│<!--- 🌱 I’m currently learning-->
+│<!--- 👯 I’m looking to collaborate on-->
+│<!--- 🤔 I’m looking for help with-->
+│<!--- 💬 Ask me about-->
+│<!---  📫 How to reach me:-->
+│
+└──────────────────────────────────────────────▰▰▰
+
 <!--[Social Media Badges]-->
 <p align="center"> 
   <!--[LinkedIn]-->
@@ -131,7 +136,7 @@
     </a>
   <!--[Selenium Webdriver]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-Selenium-000000?style=for-the-badge&logo=selenium&logoColor=43B02A"/>
+      <img src="https://img.shields.io/badge/-Selenium-000000?style=flat-square&logo=selenium&logoColor=43B02A"/>
     </a>
   <!--[Cucumber]-->
     <a href="">
