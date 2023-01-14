@@ -1,6 +1,6 @@
 <!--[Greetings]-->
 <h1 align="left">
-  <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/emoji/waving-hand_1f44b.gif" width="30px" height="30px" /> Hi!
+  <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/emoji/waving-hand_1f44b.gif" width="30px" height="30px" /> Hello!
 </h1>
 
 <!--[Banner]-->
@@ -8,6 +8,12 @@
   <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/header/CSP-001-b.png"/>
 </h1>
 
+- 🔭 I’m currently working on Freelancer 
+<!--- 🌱 I’m currently learning-->
+<!--- 👯 I’m looking to collaborate on-->
+<!--- 🤔 I’m looking for help with-->
+<!--- 💬 Ask me about-->
+- 📫 How to reach me:
 <!--[Social Media Badges]-->
 <p align="center"> 
   <!--[LinkedIn]-->
@@ -51,11 +57,6 @@
     <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=codepen&logoColor=" title="Rendy's CodePen"/>
   </a>-->
 </p>
-
-<!--
-<p align="justify">
-  Welcome to my profile!
-</p>-->
 
 ---
 
@@ -192,10 +193,15 @@
 </h3>
 
 <p align="center">
+  <!--[trophy]-->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rndsetiawan&theme=radical&column=-1&no-bg=true&no-frame=true&title=MultiLanguage,Commits,Repositories,Followers"/>
+  </a>
+
   <!--[Rendy's GitHub streak-stats]-->
   <a href="https://git.io/streak-stats">
     <img length+"250" width="350" src="https://streak-stats.demolab.com/?user=rndsetiawan&theme=radical&hide_border=true&border_radius=20&mode=weekly"/>
-  </a>
+  </a> 
     <!--[Rendy's GitHub stats]
   <a href="https://github.com/rndsetiawan/github-readme-stats">
     <img length+"250" width="350" src="https://github-readme-stats.vercel.app/api?username=rndsetiawan&count_private=true&show_icon=true&theme=radical&hide_border=true&border_radius=20"/>
@@ -206,7 +212,10 @@
   </a>
 </p>
 
-![Rendy's GitHub profile-views-counter](https://komarev.com/ghpvc/?username=rndsetiawan&color=blue&style=for-the-badge&label=VISITOR)
+<!--[Rendy's GitHub profile-views-counter]-->
+<img src="https://komarev.com/ghpvc/?username=rndsetiawan&color=blue&style=for-the-badge&label=👁️VISITOR"/>
+
+<!--<img src="https://profile-counter.glitch.me/rndsetiawan/count.svg" alt="" />-->
   
 <!----->
 
