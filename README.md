@@ -214,10 +214,10 @@
     </a>
 </p>
 <p align="center">
-  <!--[GitHub Activity Graph]-->
-    <img src="https://activity-graph.herokuapp.com/graph?username=rndsetiawan"/>
-  <!--[GitHub metrics]-->
-    <img src="https://metrics.lecoq.io/rndsetiawan"/>
+  <!--[GitHub Activity Graph]
+    <img src="https://activity-graph.herokuapp.com/graph?username=rndsetiawan"/>-->
+  <!--[GitHub metrics]
+    <img src="https://metrics.lecoq.io/rndsetiawan"/>-->
 </p>
 
 <!--[Rendy's GitHub profile-views-counter]-->
