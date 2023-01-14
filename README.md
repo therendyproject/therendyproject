@@ -195,7 +195,7 @@
 <p align="center">
   <!--[trophy]-->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rndsetiawan&theme=radical&column=-1&no-bg=true&no-frame=true&title=MultiLanguage,Commits,Repositories,Followers"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=rndsetiawan&theme=radical&column=-1&no-bg=true&no-frame=true&rank=-?,-C"/>
   </a>
 
   <!--[Rendy's GitHub streak-stats]-->
@@ -211,6 +211,10 @@
     <img length+"200" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rndsetiawan&layout=compact&theme=radical&langs_count=10&hide_border=true&border_radius=20"/>
   </a>
 </p>
+<!--[GitHub Activity Graph]-->
+<img src="https://activity-graph.herokuapp.com/graph?username=rndsetiawan"/>
+<!--[GitHub metrics]-->
+<img src="https://metrics.lecoq.io/rndsetiawan"/>
 
 <!--[Rendy's GitHub profile-views-counter]-->
 <img src="https://komarev.com/ghpvc/?username=rndsetiawan&color=blue&style=for-the-badge&label=👁️VISITOR"/>
