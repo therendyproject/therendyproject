@@ -1,6 +1,7 @@
 <!--[Greetings]-->
 <h1 align="left">
-  <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/emoji/waving-hand_1f44b.gif" width="30px" height="30px" /> Hello!
+  <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/emoji/waving-hand_1f44b.gif" width="30px" height="30px" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F71A&vCenter=true&width=435&lines=Hello!+Welcome+to+My+Page..." alt="Typing SVG" /></a>
 </h1>
 
 <!--[Banner]-->
@@ -9,11 +10,13 @@
 </h1>
 
 * 🔭 I’m currently working on Freelancer 
-<!--- * 🌱 I’m currently learning-->
-<!--- * 👯 I’m looking to collaborate on-->
-<!--- * 🤔 I’m looking for help with-->
-<!--- * 💬 Ask me about-->
+<!-- * 🌱 I’m currently learning -->
+<!-- * 👯 I’m looking to collaborate on -->
+<!-- * 🤔 I’m looking for help with -->
+<!-- * 💬 Ask me about -->
 * 📫 How to reach me:
+<!-- * 😄 Pronouns: he/him -->
+<!-- * ⚡ Fun fact: -->
 
 <!--[Social Media Badges]-->
 <p align="center"> 
@@ -230,7 +233,7 @@
 </p>
 
 <!--[Rendy's GitHub profile-views-counter]-->
-  <img src="https://komarev.com/ghpvc/?username=rndsetiawan&color=blue&style=for-the-badge&label=👁️VISITOR"/>
+  <img src="https://komarev.com/ghpvc/?username=rndsetiawan&color=blue&style=for-the-badge&label=👁️+VISITORS"/>
 
   <!--<img src="https://profile-counter.glitch.me/rndsetiawan/count.svg" alt="" />-->
   
