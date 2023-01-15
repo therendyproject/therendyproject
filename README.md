@@ -90,13 +90,21 @@
     <a href="">
       <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
     </a>
+  <!--[R]-->
+    <a href="">
+      <img src="https://img.shields.io/badge/-R-000000?style=flat-square&logo=r&logoColor=276DC3"/>
+    </a>
   <!--[Microsoft Visual Basic]-->
     <a href="">
       <img src="https://img.shields.io/badge/-Microsoft%20Visual%20Basic-000000?style=flat-square&logo=microsoft-visual-basic&logoColor="/>
     </a>
-  <!--[R]-->
+  <!--[MySQL]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-R-000000?style=flat-square&logo=r&logoColor=276DC3"/>
+      <img src="https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1"/>
+    </a>
+  <!--[Oracle]-->
+    <a href="">
+      <img src="https://img.shields.io/badge/-Oracle-000000?style=flat-square&logo=oracle&logoColor=F80000"/>
     </a>
   <!--[Git]-->
     <a href="">
@@ -106,9 +114,9 @@
     <a href="">
       <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor="/>
     </a>
-  <!--[Postman]-->
+  <!--[Notepad++]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-Postman-000000?style=flat-square&logo=postman&logoColor=FF6C37"/>
+      <img src="https://img.shields.io/badge/-Notepad++-000000?style=flat-square&logo=notepad%2B%2B&logoColor="/>
     </a>
   <!--[IntelliJ IDEA]-->
     <a href="">
@@ -116,7 +124,19 @@
     </a>
   <!--[Visual Studio Code]-->
     <a href="">
-      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=flat-square&logo=visual-studio-code&logoColor=007ACC"/>
+      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat-square&logo=visual-studio-code&logoColor=007ACC"/>
+    </a>
+  <!--[Replit]-->
+    <a href="">
+      <img src="https://img.shields.io/badge/-Replit-000000?style=flat-square&logo=replit&logoColor="/>
+    </a>
+  <!--[Adobe Dreamweaver]-->
+    <a href="">
+      <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-000000?style=flat-squaree&logo=Adobe%20Dreamweaver&logoColor=34F400"/>
+    </a>
+  <!--[Postman]-->
+    <a href="">
+      <img src="https://img.shields.io/badge/-Postman-000000?style=flat-square&logo=postman&logoColor=FF6C37"/>
     </a>
   <!--[Katalon Studio]-->
     <a href="">
@@ -142,14 +162,6 @@
     <a href="">
       <img src="https://img.shields.io/badge/-Serenity-000000?style=flat-square&logo=serenity&logoColor="/>
     </a>
-  <!--[MySQL]-->
-    <a href="">
-      <img src="https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1"/>
-    </a>
-  <!--[Oracle]-->
-    <a href="">
-      <img src="https://img.shields.io/badge/-Oracle-000000?style=flat-square&logo=oracle&logoColor=F80000"/>
-    </a>
   <!--[Jira]-->
     <a href="">
       <img src="https://img.shields.io/badge/-Jira-000000?style=flat-square&logo=jira&logoColor=0052CC"/>
@@ -161,10 +173,6 @@
   <!--[Trello]-->
     <a href="">
       <img src="https://img.shields.io/badge/-Trello-000000?style=fflat-square&logo=trello&logoColor=0052CC"/>
-    </a>
-  <!--[Adobe Dreamweaver]-->
-    <a href="">
-      <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-000000?style=flat-squaree&logo=Adobe%20Dreamweaver&logoColor=34F400"/>
     </a>
   <!--[Windows]-->
     <a href="">
@@ -232,11 +240,17 @@
 <!--[GitHub Stats]-->
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
+<!--[GitHub README Streak Stats]>
+  <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+
 <!--[Awesome GitHub Profile README]-->
   <!-- https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
-<!--[Development Language and Tool Logo]-->
-  <!-- https://github.com/devicons/devicon#getting-started-font -->
+<!--[Blog Post Workflow]-->
+  <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
+
+<!--[GitHub Profile Trophy]-->
+  <!-- https://github.com/ryo-ma/github-profile-trophy -->
 
 <!--[Icons]-->
   <!-- https://simpleicons.org/ -->
