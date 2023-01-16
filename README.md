@@ -1,7 +1,7 @@
 <!--[Greetings]-->
 <h1 align="left">
   <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/emoji/waving-hand_1f44b.gif" width="30px" height="30px" />
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F71A&vCenter=true&width=435&lines=Hello!+Welcome+to+My+Page..." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F70A&vCenter=true&width=435&lines=Hello!+Welcome+to+My+Page..." alt="Typing SVG" /></a>
 </h1>
 
 <!--[Banner]-->
@@ -254,6 +254,9 @@
 
 <!--[GitHub Profile Trophy]-->
   <!-- https://github.com/ryo-ma/github-profile-trophy -->
+
+<!--[README Typing SVG]-->
+  <!-- https://github.com/denvercoder1/readme-typing-svg -->
 
 <!--[Icons]-->
   <!-- https://simpleicons.org/ -->
