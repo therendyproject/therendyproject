@@ -10,12 +10,8 @@
 </h1>
 
 * 🔭 I’m currently working on Freelancer 
-* 🌱 I’m currently learning Deutsch and Digital Marketing
-<!-- * 👯 I’m looking to collaborate on -->
-<!-- * 🤔 I’m looking for help with -->
-<!-- * 💬 Ask me about -->
-* 😄 Pronouns: he/him
-<!-- * ⚡ Fun fact: -->
+* 🌱 I’m currently learning Deutsch and Digital Marketing<!-- * 👯 I’m looking to collaborate on --><!-- * 🤔 I’m looking for help with --><!-- * 💬 Ask me about -->
+* 😄 Pronouns: he/him<!-- * ⚡ Fun fact: -->
 * 📫 How to reach me:
 
 <!--[Social Media Badges]-->
