@@ -6,17 +6,17 @@
 
 <!--[Banner]-->
 <h1 align="center">
-  <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/header/CSP-001-b.png"/>
+  <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/header/CSP-001-d.png"/>
 </h1>
 
 * 🔭 I’m currently working on Freelancer 
-<!-- * 🌱 I’m currently learning -->
+* 🌱 I’m currently learning Deutsch and Digital Marketing
 <!-- * 👯 I’m looking to collaborate on -->
 <!-- * 🤔 I’m looking for help with -->
 <!-- * 💬 Ask me about -->
-* 📫 How to reach me:
-<!-- * 😄 Pronouns: he/him -->
+* 😄 Pronouns: he/him
 <!-- * ⚡ Fun fact: -->
+* 📫 How to reach me:
 
 <!--[Social Media Badges]-->
 <p align="center"> 
