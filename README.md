@@ -6,7 +6,7 @@
 
 <!--[Banner]-->
 <h1 align="center">
-  <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/header/CSP-001-d.png"/>
+  <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/banner/CMB-001d.png"/>
 </h1>
 
 * 🔭 I’m currently working on Freelancer 
