@@ -258,9 +258,6 @@
 <!--[README Typing SVG]-->
   <!-- https://github.com/denvercoder1/readme-typing-svg -->
 
-<!--[Icons]-->
-  <!-- https://simpleicons.org/ -->
-
 <!--[Emojis]-->
   <!-- https://emojipedia.org/emoji/ -->
 
@@ -272,6 +269,12 @@
 
 <!--[Icont8]
   <!-- https://icons8.com/ -->
+
+<!--[Icons]-->
+  <!-- https://simpleicons.org/ -->
+
+<!--[Icons]-->
+  <!-- https://simpleicons.vercel.app/ -->
 
 <!--[Create Self Updating README.md]-->
   <!-- https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91 -->
