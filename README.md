@@ -40,10 +40,14 @@
     <a href="https://rndsetiawan.hashnode.dev/">
       <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=hashnode&logoColor=2962FF" title="Rendy's Hashnode"/>
     </a>
-  <!--[Medium]
+  <!--[Medium]-->
     <a href="https://rndsetiawan.medium.com">
       <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=medium&logoColor=" title="Rendy's Medium"/>
-    </a>-->
+    </a>
+  <!--[Substack]-->
+    <a href="https://rndsetiawan.substack.com">
+      <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=substack&logoColor=" title="Rendy's Substack"/>
+    </a>
   <!--[daily.dev]
     <a href="https://app.daily.dev/rndsetiawan">
       <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=daily.dev&logoColor=" title="Rendy's daily dev"/>
