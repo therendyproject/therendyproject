@@ -32,6 +32,10 @@
     <a href="https://www.instagram.com/rnd.setiawan/">
       <img src="https://img.shields.io/badge/rnd.setiawan-white?style=social&logo=instagram&logoColor=E4405F" title="Rendy's Instagram"/>
     </a>
+  <!--[Dev.To]-->
+    <a href="https://dev.to/rndsetiawan">
+      <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=dev.to&logoColor=" title="Rendy's Dev.To"/>
+    </a>
   <!--[Hashnode]-->
     <a href="https://rndsetiawan.hashnode.dev/">
       <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=hashnode&logoColor=2962FF" title="Rendy's Hashnode"/>
@@ -39,10 +43,6 @@
   <!--[Medium]
     <a href="https://rndsetiawan.medium.com">
       <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=medium&logoColor=" title="Rendy's Medium"/>
-    </a>-->
-  <!--[Dev.To]
-    <a href="https://dev.to/rndsetiawan">
-      <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=dev.to&logoColor=" title="Rendy's Dev.To"/>
     </a>-->
   <!--[daily.dev]
     <a href="https://app.daily.dev/rndsetiawan">
