@@ -2,7 +2,7 @@
 <p align="left">
   <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/emoji/waving-hand_1f44b.gif" width="40px" height="40px" />
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00F70A&vCenter=true&width=435&lines=Hello!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F70A&vCenter=true&width=435&lines=Hi,+Welcome+To+My+Page!" alt="Typing SVG" />
   </a>
 </p>
 
