@@ -18,35 +18,35 @@
 <p align="center"> 
   <!--[LinkedIn]-->
     <a href="https://www.linkedin.com/in/rndsetiawan/">
-      <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=linkedin&logoColor=0A66C2" title="Rendy's LinkedIn"/>
+      <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30px" title="Rendy's LinkedIn"/>
     </a>
   <!--[Twitter]-->
     <a href="https://www.twitter.com/rndsetiawan/">
-      <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=twitter&logoColor=1DA1F2" title="Rendy's Twitter"/>
+      <img src="https://cdn.simpleicons.org/twitter/1DA1F2" width="30px" title="Rendy's Twitter"/>
     </a>
   <!--[Mastodon]
-    <a href="">
-      <img src="https://img.shields.io/badge/rndsetiawan@techhub-000000?style=social&logo=Mastodon&logoColor=6364FF"/>
+    <a href="techhub.social/@rndsetiawan">
+      <img src="https://cdn.simpleicons.org/mastodon/6364FF" width="30px" title="Rendy's Mastodon"/>
     </a>-->
   <!--[Instagram]-->
     <a href="https://www.instagram.com/rnd.setiawan/">
-      <img src="https://img.shields.io/badge/rnd.setiawan-white?style=social&logo=instagram&logoColor=E4405F" title="Rendy's Instagram"/>
+      <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30px" title="Rendy's Instagram"/>
     </a>
   <!--[Dev.To]-->
     <a href="https://dev.to/rndsetiawan">
-      <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=dev.to&logoColor=" title="Rendy's Dev.To"/>
+      <img src="https://cdn.simpleicons.org/devdotto/grey" width="30px" title="Rendy's Dev.To"/>
     </a>
   <!--[Hashnode]-->
     <a href="https://rndsetiawan.hashnode.dev/">
-      <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=hashnode&logoColor=2962FF" title="Rendy's Hashnode"/>
+      <img src="https://cdn.simpleicons.org/hashnode/2962FF" width="30px" title="Rendy's Hashnode"/>
     </a>
   <!--[Medium]-->
     <a href="https://rndsetiawan.medium.com">
-      <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=medium&logoColor=" title="Rendy's Medium"/>
+      <img src="https://cdn.simpleicons.org/medium/grey" width="30px" title="Rendy's Medium"/>
     </a>
   <!--[Substack]-->
     <a href="https://rndsetiawan.substack.com">
-      <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=substack&logoColor=" title="Rendy's Substack"/>
+      <img src="https://cdn.simpleicons.org/substack" width="30px" title="Rendy's Substack"/>
     </a>
   <!--[daily.dev]
     <a href="https://app.daily.dev/rndsetiawan">
@@ -54,7 +54,7 @@
     </a>-->
   <!--[Replit]-->
     <a href="https://replit.com/@rndsetiawan">
-      <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=replit&logoColor=#F26207" title="Rendy's Replit"/>
+      <img src="https://cdn.simpleicons.org/replit/F26207" width="30px" title="Rendy's Replit"/>
     </a>
   <!--[CodePen]
     <a href="">
