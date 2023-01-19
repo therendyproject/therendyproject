@@ -1,13 +1,15 @@
 <!--[Greetings]-->
-<h1 align="left">
-  <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/emoji/waving-hand_1f44b.gif" width="30px" height="30px" />
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F70A&vCenter=true&width=435&lines=Hello!+Welcome+to+My+Page..." alt="Typing SVG" /></a>
-</h1>
+<p align="left">
+  <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/emoji/waving-hand_1f44b.gif" width="40px" height="40px" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00F70A&vCenter=true&width=435&lines=Hello!" alt="Typing SVG" />
+  </a>
+</p>
 
 <!--[Banner]-->
-<h1 align="center">
+<p align="center">
   <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/banner/CMB-001d.png"/>
-</h1>
+</p>
 
 * 🔭 I’m currently working on Freelancer 
 * 🌱 I’m currently learning Deutsch and Digital Marketing<!-- * 👯 I’m looking to collaborate on --><!-- * 🤔 I’m looking for help with --><!-- * 💬 Ask me about -->
@@ -190,8 +192,8 @@
 ---
 
 <!--[Blog Posts]-->
-<h3 align="left">
-  <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/emoji/globe-with-meridians_1f310-1.png" width="15px" height="15px" /> Blog Post
+<h3>
+<a href="https://rndsetiawan.hashnode.dev/"><img src="https://cdn.simpleicons.org/hashnode/2962FF" width="15px" title="Rendy's Hashnode"/></a> Recent Blog Post on Hashnode
 </h3>
 
 <!-- BLOG-POST-LIST:START -->
@@ -201,7 +203,7 @@
 ---
 
 <!--[My Stats]-->
-<h3 align="left">
+<h3>
   <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/emoji/fire_1f525.png" width="15px" height="15px" /> My Stats
 </h3>
 
