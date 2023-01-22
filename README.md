@@ -197,6 +197,7 @@
 </h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating GitHub Template Repository](https://rndsetiawan.hashnode.dev/creating-github-template-repository)
 - [How to Install Java on Manjaro Linux](https://rndsetiawan.hashnode.dev/how-to-install-java-on-manjaro-linux-2afe47c2276)
 <!-- BLOG-POST-LIST:END -->
 
