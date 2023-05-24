@@ -193,7 +193,7 @@
 
 <!--[Blog Posts]-->
 <h3>
-<a href="https://rndsetiawan.hashnode.dev/"><img src="https://cdn.simpleicons.org/hashnode/2962FF" width="15px" title="Rendy's Hashnode"/></a> Recent Blog Post on Hashnode
+<a href="https://rndsetiawan.medium.com/"><img src="https://cdn.simpleicons.org/medium/grey" width="15px" title="Rendy's Hashnode"/></a> Recent Blog Post on Medium
 </h3>
 
 <!-- BLOG-POST-LIST:START -->
