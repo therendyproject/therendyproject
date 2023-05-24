@@ -217,7 +217,7 @@
 <p align="center">
   <!--[Rendy's GitHub streak-stats]-->
     <a href="https://git.io/streak-stats">
-      <img length+"250" width="350" src="https://streak-stats.demolab.com/?user=rndsetiawan&theme=radical&hide_border=true&border_radius=20&mode=weekly"/>
+      <img length+"250" width="350" src="https://streak-stats.demolab.com/?user=rndsetiawan&theme=radical&hide_border=true&border_radius=20&background=transparent&mode=weekly"/>
     </a>
   <!--[Rendy's GitHub stats]
     <a href="https://github.com/rndsetiawan/github-readme-stats">
@@ -227,7 +227,7 @@
 <p align="center">    
   <!--[Rendy's GitHub top-lang]-->
     <a href="https://github.com/rndsetiawan/github-readme-stats">
-      <img length+"250" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rndsetiawan&layout=compact&theme=radical&langs_count=10&hide_border=true&border_radius=20"/>
+      <img length+"250" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rndsetiawan&layout=compact&theme=radical&langs_count=10&hide_border=true&border_radius=20&background=transparent"/>
     </a>
 </p>
 <p align="center">
@@ -238,7 +238,7 @@
 </p>
 
 <!--[Rendy's GitHub profile-views-counter]-->
-  <img src="https://komarev.com/ghpvc/?username=rndsetiawan&color=blue&style=for-the-badge&label=👁️+VISITORS"/>
+  <img src="https://komarev.com/ghpvc/?username=rndsetiawan&color=lightgray&style=for-the-badge&label=👀+VISITORS"/>
 
   <!--<img src="https://profile-counter.glitch.me/rndsetiawan/count.svg" alt="" />-->
   
