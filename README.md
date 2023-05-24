@@ -238,7 +238,7 @@
 </p>
 
 <!--[Rendy's GitHub profile-views-counter]-->
-  <img src="https://komarev.com/ghpvc/?username=rndsetiawan&color=lightgray&style=for-the-badge&label=👀+VISITORS"/>
+  <img src="https://komarev.com/ghpvc/?username=rndsetiawan&color=lightgray&style=flat-square&label=👀+VISITORS"/>
 
   <!--<img src="https://profile-counter.glitch.me/rndsetiawan/count.svg" alt="" />-->
   
