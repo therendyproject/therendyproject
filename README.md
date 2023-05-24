@@ -27,7 +27,7 @@
       <img src="https://cdn.simpleicons.org/twitter/1DA1F2" width="30px" title="Rendy's Twitter"/>
     </a>
   <!--[Mastodon]-->
-    <a href="techhub.social/@rndsetiawan">
+    <a href="https://techhub.social/@rndsetiawan">
       <img src="https://cdn.simpleicons.org/mastodon/6364FF" width="30px" title="Rendy's Mastodon"/>
     </a>
   <!--[Instagram]-->
