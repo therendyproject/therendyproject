@@ -223,7 +223,7 @@
     <a href="https://github.com/rndsetiawan/github-readme-stats">
       <img length+"250" width="350" src="https://github-readme-stats.vercel.app/api?username=rndsetiawan&count_private=true&show_icon=true&theme=radical&hide_border=true&border_radius=20"/>
     </a>
-</p>
+</p>-->
 <p align="center">    
   <!--[Rendy's GitHub top-lang]-->
     <a href="https://github.com/rndsetiawan/github-readme-stats">
