@@ -26,10 +26,10 @@
     <a href="https://www.twitter.com/rndsetiawan/">
       <img src="https://cdn.simpleicons.org/twitter/1DA1F2" width="30px" title="Rendy's Twitter"/>
     </a>
-  <!--[Mastodon]
+  <!--[Mastodon]-->
     <a href="techhub.social/@rndsetiawan">
       <img src="https://cdn.simpleicons.org/mastodon/6364FF" width="30px" title="Rendy's Mastodon"/>
-    </a>-->
+    </a>
   <!--[Instagram]-->
     <a href="https://www.instagram.com/rnd.setiawan/">
       <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30px" title="Rendy's Instagram"/>
