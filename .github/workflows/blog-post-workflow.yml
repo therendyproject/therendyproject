@@ -10,8 +10,8 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: Blog Post Workflow
-      - uses: gautamkrishnar/blog-post-workflow@1.8.4
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: "10"
           remove_duplicates: true
