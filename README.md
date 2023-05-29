@@ -279,7 +279,6 @@
 
 <!--[Icons]
   <!-- https://icons8.com/ -->
-  <!-- https://www.logologo.com/ -->
   <!-- https://logos.fandom.com/wiki/Logopedia -->
   <!-- https://simpleicons.org/ -->
   <!-- https://simpleicons.vercel.app/ -->
