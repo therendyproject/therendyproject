@@ -14,7 +14,12 @@
 * 🔭 I’m currently working on Freelancer 
 * 🌱 I’m currently learning Data Scientists <!-- * 👯 I’m looking to collaborate on --><!-- * 🤔 I’m looking for help with --><!-- * 💬 Ask me about -->
 * 😄 Pronouns: he/him<!-- * ⚡ Fun fact: -->
-* 📫 How to reach me:
+<!--* 📫 How to reach me:-->
+
+---
+
+<h3 align="center"/> Connect with me:
+</h3>
 
 <!--[Social Media Badges]-->
 <p align="center"> 
