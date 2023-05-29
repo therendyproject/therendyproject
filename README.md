@@ -277,13 +277,11 @@
 <!--[Shields]-->
   <!-- https://shields.io/ -->
 
-<!--[Icont8]
+<!--[Icons]
   <!-- https://icons8.com/ -->
-
-<!--[Icons]-->
+  <!-- https://www.logologo.com/ -->
+  <!-- https://logos.fandom.com/wiki/Logopedia -->
   <!-- https://simpleicons.org/ -->
-
-<!--[Icons]-->
   <!-- https://simpleicons.vercel.app/ -->
 
 <!--[Create Self Updating README.md]-->
