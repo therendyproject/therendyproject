@@ -12,7 +12,7 @@
 </p>
 
 * 🔭 I’m currently working on Freelancer 
-* 🌱 I’m currently learning Data Scientist <!-- * 👯 I’m looking to collaborate on --><!-- * 🤔 I’m looking for help with --><!-- * 💬 Ask me about -->
+* 🌱 I’m currently learning DS/DA <!-- * 👯 I’m looking to collaborate on --><!-- * 🤔 I’m looking for help with --><!-- * 💬 Ask me about -->
 * 😄 Pronouns: he/him<!-- * ⚡ Fun fact: -->
 <!--* 📫 How to reach me:-->
 
