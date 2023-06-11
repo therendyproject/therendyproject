@@ -67,6 +67,10 @@
     <a href="">
       <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=codepen&logoColor=" title="Rendy's CodePen"/>
   </a>-->
+    <!--[Tableau]-->
+    <a href="https://public.tableau.com/app/profile/rendy.setiawan">
+      <img src="https://cdn.simpleicons.org/tableau/lightblue" width="30px" title="Rendy's Tableau"/>
+    </a>
 </p>
 
 ---
@@ -171,6 +175,14 @@
   <!--[Serenity]-->
     <a href="">
       <img src="https://img.shields.io/badge/-Serenity-000000?style=flat-square&logo=serenity&logoColor="/>
+    </a>
+      <!--[Microsoft Excel]-->
+    <a href="">
+      <img src="https://img.shields.io/badge/-Microsoft%20Excel-000000?style=flat-square&logo=microsoft-excel&logoColor=green"/>
+    </a>
+      <!--[Tableau]-->
+    <a href="">
+      <img src="https://img.shields.io/badge/-Tableau-000000?style=flat-square&logo=tableau&logoColor=lightblue"/>
     </a>
   <!--[Jira]-->
     <a href="">
