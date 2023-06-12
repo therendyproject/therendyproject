@@ -24,11 +24,11 @@
 <!--[Social Media Badges]-->
 <p align="center"> 
   <!--[LinkedIn]-->
-    <a href="https://www.linkedin.com/in/rndsetiawan/">
+    <a href="https://www.linkedin.com/in/rensetiawandy/">
       <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30px" title="Rendy's LinkedIn"/>
     </a>
   <!--[Twitter]-->
-    <a href="https://www.twitter.com/rndsetiawan/">
+    <a href="https://www.twitter.com/rensetiawandy">
       <img src="https://cdn.simpleicons.org/twitter/1DA1F2" width="30px" title="Rendy's Twitter"/>
     </a>
   <!--[Mastodon]-->
