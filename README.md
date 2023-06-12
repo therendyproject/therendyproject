@@ -40,19 +40,19 @@
       <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30px" title="Rendy's Instagram"/>
     </a>
   <!--[Dev.To]-->
-    <a href="https://dev.to/rndsetiawan">
+    <a href="https://dev.to/rensetiawandy">
       <img src="https://cdn.simpleicons.org/devdotto/grey" width="30px" title="Rendy's Dev.To"/>
     </a>
   <!--[Hashnode]-->
-    <a href="https://rndsetiawan.hashnode.dev/">
+    <a href="https://rensetiawandy.hashnode.dev/">
       <img src="https://cdn.simpleicons.org/hashnode/2962FF" width="30px" title="Rendy's Hashnode"/>
     </a>
   <!--[Medium]-->
-    <a href="https://rndsetiawan.medium.com">
+    <a href="https://rensetiawandy.medium.com">
       <img src="https://cdn.simpleicons.org/medium/grey" width="30px" title="Rendy's Medium"/>
     </a>
   <!--[Substack]-->
-    <a href="https://rndsetiawan.substack.com">
+    <a href="https://rensetiawandy.substack.com">
       <img src="https://cdn.simpleicons.org/substack" width="30px" title="Rendy's Substack"/>
     </a>
   <!--[daily.dev]
