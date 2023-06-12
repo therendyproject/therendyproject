@@ -36,7 +36,7 @@
       <img src="https://cdn.simpleicons.org/mastodon/6364FF" width="30px" title="Rendy's Mastodon"/>
     </a>
   <!--[Instagram]-->
-    <a href="https://www.instagram.com/rnd.setiawan/">
+    <a href="https://www.instagram.com/rensetiawandy/">
       <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30px" title="Rendy's Instagram"/>
     </a>
   <!--[Dev.To]-->
