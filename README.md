@@ -1,6 +1,6 @@
 <!--[Greetings]-->
 <p align="left">
-  <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/emoji/waving-hand_1f44b.gif" width="40px" height="40px" />
+  <img src="https://github.com/rensetiawandy/rensetiawandy/blob/main/image/emoji/waving-hand_1f44b.gif" width="40px" height="40px" />
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F70A&vCenter=true&width=435&lines=Hi,+Welcome+To+My+Page!" alt="Typing SVG" />
   </a>
@@ -8,7 +8,7 @@
 
 <!--[Banner]-->
 <p align="center">
-  <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/banner/CMB-001d.png"/>
+  <img src="https://github.com/rensetiawandy/rensetiawandy/blob/main/image/banner/CMB-001d.png"/>
 </p>
 
 * 🔭 I’m currently working on Freelancer 
