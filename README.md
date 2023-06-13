@@ -210,7 +210,7 @@
 
 <!--[Blog Posts]-->
 <h3>
-<a href="https://rndsetiawan.medium.com/"><img src="https://cdn.simpleicons.org/medium/grey" width="15px" title="Rendy's Hashnode"/></a> Recent Blog Post on Medium
+<a href="https://rensetiawandy.medium.com/"><img src="https://cdn.simpleicons.org/medium/grey" width="15px" title="Rendy's Medium"/></a> Recent Blog Post on Medium
 </h3>
 
 <!-- BLOG-POST-LIST:START -->
