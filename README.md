@@ -222,42 +222,42 @@
 
 <!--[My Stats]-->
 <h3>
-  <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/emoji/fire_1f525.png" width="15px" height="15px" /> My Stats
+  <img src="https://github.com/rensetiawandy/rensetiawandy/blob/main/image/emoji/fire_1f525.png" width="15px" height="15px" /> My Stats
 </h3>
 
 <p align="center">
   <!--[trophy]-->
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=rndsetiawan&theme=radical&column=-1&no-bg=true&no-frame=true&rank=-?,-C"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=rensetiawandy&theme=radical&column=-1&no-bg=true&no-frame=true&rank=-?,-C"/>
     </a>
 </p>
 <p align="center">
   <!--[Rendy's GitHub streak-stats]-->
     <a href="https://git.io/streak-stats">
-      <img length+"250" width="350" src="https://streak-stats.demolab.com/?user=rndsetiawan&theme=radical&hide_border=true&border_radius=20&background=00000000&mode=weekly"/>
+      <img length+"250" width="350" src="https://streak-stats.demolab.com/?user=rensetiawandy&theme=radical&hide_border=true&border_radius=20&background=00000000&mode=weekly"/>
     </a>
   <!--[Rendy's GitHub stats]
-    <a href="https://github.com/rndsetiawan/github-readme-stats">
-      <img length+"250" width="350" src="https://github-readme-stats.vercel.app/api?username=rndsetiawan&count_private=true&show_icon=true&theme=radical&hide_border=true&border_radius=20"/>
+    <a href="https://github.com/rensetiawandy/github-readme-stats">
+      <img length+"250" width="350" src="https://github-readme-stats.vercel.app/api?username=rensetiawandy&count_private=true&show_icon=true&theme=radical&hide_border=true&border_radius=20"/>
     </a>
 </p>-->
 <p align="center">    
   <!--[Rendy's GitHub top-lang]-->
-    <a href="https://github.com/rndsetiawan/github-readme-stats">
-      <img length+"250" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rndsetiawan&layout=compact&theme=radical&langs_count=10&hide_border=true&border_radius=20&bg_color=00000000"/>
+    <a href="https://github.com/rensetiawandy/github-readme-stats">
+      <img length+"250" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rensetiawandy&layout=compact&theme=radical&langs_count=10&hide_border=true&border_radius=20&bg_color=00000000"/>
     </a>
 </p>
 <p align="center">
   <!--[GitHub Activity Graph]
-    <img src="https://activity-graph.herokuapp.com/graph?username=rndsetiawan"/>-->
+    <img src="https://activity-graph.herokuapp.com/graph?username=rensetiawandy"/>-->
   <!--[GitHub metrics]
-    <img src="https://metrics.lecoq.io/rndsetiawan"/>-->
+    <img src="https://metrics.lecoq.io/rensetiawandy"/>-->
 </p>
 
 <!--[Rendy's GitHub profile-views-counter]-->
-  <img src="https://komarev.com/ghpvc/?username=rndsetiawan&color=lightgray&style=flat-square&label=👀+VISITORS"/>
+  <img src="https://komarev.com/ghpvc/?username=rensetiawandy&color=lightgray&style=flat-square&label=👀+VISITORS"/>
 
-  <!--<img src="https://profile-counter.glitch.me/rndsetiawan/count.svg" alt="" />-->
+  <!--<img src="https://profile-counter.glitch.me/rensetiawandy/count.svg" alt="" />-->
   
 <!----->
 
