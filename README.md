@@ -1,6 +1,6 @@
 <!--[Greetings]-->
 <p align="left">
-  <img src="https://github.com/rensetiawandy/rensetiawandy/blob/main/image/emoji/waving-hand_1f44b.gif" width="40px" height="40px" />
+  <img src="https://github.com/rensetiawanren/rensetiawanren/blob/main/image/emoji/waving-hand_1f44b.gif" width="40px" height="40px" />
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F70A&vCenter=true&width=435&lines=Hi,+Welcome+To+My+Page!" alt="Typing SVG" />
   </a>
@@ -8,7 +8,7 @@
 
 <!--[Banner]-->
 <p align="center">
-  <img src="https://github.com/rensetiawandy/rensetiawandy/blob/main/image/banner/CMB-001d.png"/>
+  <img src="https://github.com/rensetiawanren/rensetiawanren/blob/main/image/banner/CMB-001d.png"/>
 </p>
 
 * 🔭 I’m currently working on Freelancer 
@@ -24,11 +24,11 @@
 <!--[Social Media Badges]-->
 <p align="center"> 
   <!--[LinkedIn]-->
-    <a href="https://www.linkedin.com/in/rensetiawandy/">
+    <a href="https://www.linkedin.com/in/rensetiawanren/">
       <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30px" title="Rendy's LinkedIn"/>
     </a>
   <!--[Twitter]-->
-    <a href="https://www.twitter.com/rensetiawandy">
+    <a href="https://www.twitter.com/rensetiawanren">
       <img src="https://cdn.simpleicons.org/twitter/1DA1F2" width="30px" title="Rendy's Twitter"/>
     </a>
   <!--[Mastodon]-->
@@ -36,7 +36,7 @@
       <img src="https://cdn.simpleicons.org/mastodon/6364FF" width="30px" title="Rendy's Mastodon"/>
     </a>
   <!--[Instagram]-->
-    <a href="https://www.instagram.com/rensetiawandy/">
+    <a href="https://www.instagram.com/rensetiawanren/">
       <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30px" title="Rendy's Instagram"/>
     </a>
   <!--[Dev.To]-->
@@ -77,7 +77,7 @@
 
 <!--[Tech Stack]-->
 <h3 align="left">
-  <img src="https://github.com/rndsetiawan/rndsetiawan/blob/main/image/emoji/desktop-computer_1f5a5-fe0f.png" width="15px" height="15px" /> Tech Stack
+  <img src="https://github.com/rensetiawanren/rensetiawanren/blob/main/image/emoji/desktop-computer_1f5a5-fe0f.png" width="15px" height="15px" /> Tech Stack
 </h3>
 <p align="left">
   <!--[HTML]-->
@@ -222,42 +222,42 @@
 
 <!--[My Stats]-->
 <h3>
-  <img src="https://github.com/rensetiawandy/rensetiawandy/blob/main/image/emoji/fire_1f525.png" width="15px" height="15px" /> My Stats
+  <img src="https://github.com/rensetiawanren/rensetiawanren/blob/main/image/emoji/fire_1f525.png" width="15px" height="15px" /> My Stats
 </h3>
 
 <p align="center">
   <!--[trophy]-->
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=rensetiawandy&theme=radical&column=-1&no-bg=true&no-frame=true&rank=-?,-C"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=rensetiawanren&theme=radical&column=-1&no-bg=true&no-frame=true&rank=-?,-C"/>
     </a>
 </p>
 <p align="center">
   <!--[Rendy's GitHub streak-stats]-->
     <a href="https://git.io/streak-stats">
-      <img length+"250" width="350" src="https://streak-stats.demolab.com/?user=rensetiawandy&theme=radical&hide_border=true&border_radius=20&background=00000000&mode=weekly"/>
+      <img length+"250" width="350" src="https://streak-stats.demolab.com/?user=rensetiawanren&theme=radical&hide_border=true&border_radius=20&background=00000000&mode=weekly"/>
     </a>
   <!--[Rendy's GitHub stats]
-    <a href="https://github.com/rensetiawandy/github-readme-stats">
-      <img length+"250" width="350" src="https://github-readme-stats.vercel.app/api?username=rensetiawandy&count_private=true&show_icon=true&theme=radical&hide_border=true&border_radius=20"/>
+    <a href="https://github.com/rensetiawanren/github-readme-stats">
+      <img length+"250" width="350" src="https://github-readme-stats.vercel.app/api?username=rensetiawanren&count_private=true&show_icon=true&theme=radical&hide_border=true&border_radius=20"/>
     </a>
 </p>-->
 <p align="center">    
   <!--[Rendy's GitHub top-lang]-->
-    <a href="https://github.com/rensetiawandy/github-readme-stats">
-      <img length+"250" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rensetiawandy&layout=compact&theme=radical&langs_count=10&hide_border=true&border_radius=20&bg_color=00000000"/>
+    <a href="https://github.com/rensetiawanren/github-readme-stats">
+      <img length+"250" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rensetiawanren&layout=compact&theme=radical&langs_count=10&hide_border=true&border_radius=20&bg_color=00000000"/>
     </a>
 </p>
 <p align="center">
   <!--[GitHub Activity Graph]
-    <img src="https://activity-graph.herokuapp.com/graph?username=rensetiawandy"/>-->
+    <img src="https://activity-graph.herokuapp.com/graph?username=rensetiawanren"/>-->
   <!--[GitHub metrics]
-    <img src="https://metrics.lecoq.io/rensetiawandy"/>-->
+    <img src="https://metrics.lecoq.io/rensetiawanren"/>-->
 </p>
 
 <!--[Rendy's GitHub profile-views-counter]-->
-  <img src="https://komarev.com/ghpvc/?username=rensetiawandy&color=lightgray&style=flat-square&label=👀+VISITORS"/>
+  <img src="https://komarev.com/ghpvc/?username=rensetiawanren&color=lightgray&style=flat-square&label=👀+VISITORS"/>
 
-  <!--<img src="https://profile-counter.glitch.me/rensetiawandy/count.svg" alt="" />-->
+  <!--<img src="https://profile-counter.glitch.me/rensetiawanren/count.svg" alt="" />-->
   
 <!----->
 
