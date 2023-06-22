@@ -254,7 +254,7 @@
     <img src="https://metrics.lecoq.io/rensetiawanren"/>-->
 </p>
 
-<!--[Rendy's GitHub profile-views-counter]-->
+<!--[Rendy's GitHub profile-views-counter]
   <img src="https://komarev.com/ghpvc/?username=rensetiawanren&color=lightgray&style=flat-square&label=👀+VISITORS"/>
 
   <!--<img src="https://profile-counter.glitch.me/rensetiawanren/count.svg" alt="" />-->
