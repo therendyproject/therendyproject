@@ -40,7 +40,7 @@
       <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30px" title="Rendy's Instagram"/>
     </a>
   <!--[Dev.To]-->
-    <a href="https://dev.to/rensetiawandy">
+    <a href="https://dev.to/rensetiawanren">
       <img src="https://cdn.simpleicons.org/devdotto/grey" width="30px" title="Rendy's Dev.To"/>
     </a>
   <!--[Hashnode]-->
