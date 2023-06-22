@@ -44,7 +44,7 @@
       <img src="https://cdn.simpleicons.org/devdotto/grey" width="30px" title="Rendy's Dev.To"/>
     </a>
   <!--[Hashnode]-->
-    <a href="https://rensetiawandy.hashnode.dev/">
+    <a href="https://rensetiawanren.hashnode.dev/">
       <img src="https://cdn.simpleicons.org/hashnode/2962FF" width="30px" title="Rendy's Hashnode"/>
     </a>
   <!--[Medium]-->
