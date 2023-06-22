@@ -52,7 +52,7 @@
       <img src="https://cdn.simpleicons.org/medium/grey" width="30px" title="Rendy's Medium"/>
     </a>
   <!--[Substack]-->
-    <a href="https://rensetiawandy.substack.com">
+    <a href="https://rensetiawanren.substack.com">
       <img src="https://cdn.simpleicons.org/substack" width="30px" title="Rendy's Substack"/>
     </a>
   <!--[daily.dev]
