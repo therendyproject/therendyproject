@@ -79,7 +79,7 @@
 <h3 align="left">
   <img src="https://github.com/rensetiawanren/rensetiawanren/blob/main/image/emoji/desktop-computer_1f5a5-fe0f.png" width="15px" height="15px" /> Tech Stack
 </h3>
-<p align="left">
+<p align="justify">
   <!--[HTML]-->
     <a href="">
       <img src="https://img.shields.io/badge/-HTML-000000?style=flat-square&logo=html5&logoColor="/>
@@ -100,7 +100,7 @@
     <a href="">
       <img src="https://img.shields.io/badge/-Java-000000?style=flat-square&logo=java&logoColor="/>
     </a>
-  <!--[Java Script]-->
+  <!--[Java Script]
     <a href="">
       <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
     </a>
@@ -203,6 +203,10 @@
   <!--[Linux]-->
     <a href="">
       <img src="https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=FCC624"/>
+    </a>
+    <!--[MacOS]-->
+    <a href="">
+      <img src="https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=MacOS&logoColor="/>
     </a>
 </p>
 
