@@ -234,8 +234,6 @@
     <h3>📊 My Github Statistics</h3>
   </summary>
 
-</details>
-
 <p align="center">
   <!--[trophy]-->
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -269,7 +267,9 @@
   <img src="https://komarev.com/ghpvc/?username=rensetiawanren&color=lightgray&style=flat-square&label=👀+VISITORS"/>
 
   <!--<img src="https://profile-counter.glitch.me/rensetiawanren/count.svg" alt="" />-->
-  
+
+</details>
+
 <!----->
 
 <!--[Resources]-->
