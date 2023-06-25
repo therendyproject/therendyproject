@@ -226,7 +226,7 @@
     </a>
   <!--[MacOS]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-MacOS-FF000000?style=flat-square&logo=Apple&logoColor="/>
+      <img src="https://img.shields.io/badge/-MacOS-272727?style=flat-square&logo=Apple&logoColor="/>
     </a>
 </p>
 
