@@ -210,7 +210,7 @@
     </a>
   <!--[Trello]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-Trello-00FFFFFF?style=fflat-square&logo=trello&logoColor=0052CC"/>
+      <img src="https://img.shields.io/badge/-Trello-272727?style=fflat-square&logo=trello&logoColor=0052CC"/>
     </a>
   <!--[Windows]-->
     <a href="">
