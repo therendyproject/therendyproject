@@ -86,11 +86,11 @@
 <p align="justify">
   <!--[HTML]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-HTML-000000?style=flat-square&logo=html5&logoColor="/>
+      <img src="https://img.shields.io/badge/-HTML-transparen?style=flat-square&logo=html5&logoColor="/>
     </a>
   <!--[Markdown]-->
     <a href="">
-      <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor="/>
+      <img src="https://img.shields.io/badge/-Markdown-transparen?style=flat-square&logo=markdown&logoColor="/>
     </a>
   <!--[CSS]-->
     <a href="">
@@ -116,6 +116,14 @@
     <a href="">
       <img src="https://img.shields.io/badge/-Microsoft%20Visual%20Basic-000000?style=flat-square&logo=microsoft-visual-basic&logoColor="/>
     </a>
+  <!--[Eclips]-->
+    <a href="">
+      <img src="https://img.shields.io/badge/-Eclipse-000000?style=flat-square&logo=Eclipse&logoColor="/>
+    </a>
+  <!--[Android Studio]-->
+    <a href="">
+      <img src="https://img.shields.io/badge/-Android%20Studio-000000?style=flat-square&logo=Android-Studio&logoColor="/>
+    </a>
   <!--[MySQL]-->
     <a href="">
       <img src="https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1"/>
@@ -124,6 +132,10 @@
     <a href="">
       <img src="https://img.shields.io/badge/-Oracle-000000?style=flat-square&logo=oracle&logoColor=F80000"/>
     </a>
+  <!--[PostgreSQL]-->
+    <a href="">
+      <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor="/>
+    </a>  
   <!--[Git]-->
     <a href="">
       <img src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor="/>
