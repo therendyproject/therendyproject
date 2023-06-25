@@ -229,9 +229,12 @@
 ---
 
 <!--[My Stats]-->
-<h3>
-  <img src="https://github.com/rensetiawanren/rensetiawanren/blob/main/image/emoji/fire_1f525.png" width="15px" height="15px" /> My Stats
-</h3>
+<details>
+  <summary>
+    <h3>📊 My Github Statistics</h3>
+  </summary>
+
+</details>
 
 <p align="center">
   <!--[trophy]-->
