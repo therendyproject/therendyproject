@@ -210,7 +210,7 @@
     </a>
   <!--[Trello]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-Trello-gray?style=fflat-square&logo=trello&logoColor=0052CC"/>
+      <img src="https://img.shields.io/badge/-Trello-F0F8FF?style=fflat-square&logo=trello&logoColor=0052CC"/>
     </a>
   <!--[Windows]-->
     <a href="">
@@ -218,7 +218,7 @@
     </a>
   <!--[Linux]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-Linux-CBDCCB?style=flat-square&logo=linux&logoColor="/>
+      <img src="https://img.shields.io/badge/-Linux-FFF0F8FF?style=flat-square&logo=linux&logoColor="/>
     </a>
     <!--[MacOS]-->
     <a href="">
