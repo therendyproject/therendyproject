@@ -86,143 +86,143 @@
 <p align="justify">
   <!--[HTML]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-HTML-gray?style=flat-square&logo=html5&logoColor="/>
+      <img src="https://img.shields.io/badge/-HTML-272727?style=flat-square&logo=html5&logoColor="/>
     </a>
   <!--[Markdown]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-Markdown-gray?style=flat-square&logo=markdown&logoColor="/>
+      <img src="https://img.shields.io/badge/-Markdown-272727?style=flat-square&logo=markdown&logoColor="/>
     </a>
   <!--[CSS]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-CSS-gray?style=flat-square&logo=css3&logoColor="/>
+      <img src="https://img.shields.io/badge/-CSS-272727?style=flat-square&logo=css3&logoColor="/>
     </a>
   <!--[PHP]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-php-gray?style=flat-square&logo=php&logoColor=777BB4"/>
+      <img src="https://img.shields.io/badge/-php-272727?style=flat-square&logo=php&logoColor=777BB4"/>
     </a>
   <!--[Java]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-Java-gray?style=flat-square&logo=java&logoColor="/>
+      <img src="https://img.shields.io/badge/-Java-272727?style=flat-square&logo=java&logoColor="/>
     </a>
   <!--[Java Script]
     <a href="">
-      <img src="https://img.shields.io/badge/-JavaScript-gray?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+      <img src="https://img.shields.io/badge/-JavaScript-272727?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
     </a>
   <!--[R]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-R-gray?style=flat-square&logo=r&logoColor=276DC3"/>
+      <img src="https://img.shields.io/badge/-R-272727?style=flat-square&logo=r&logoColor=276DC3"/>
     </a>
   <!--[Microsoft Visual Basic]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-Microsoft%20VB-gray?style=flat-square&logo=microsoft-visual-basic&logoColor="/>
+      <img src="https://img.shields.io/badge/-Microsoft%20VB-272727?style=flat-square&logo=microsoft-visual-basic&logoColor="/>
     </a>
   <!--[Eclips]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-Eclipse-gray?style=flat-square&logo=Eclipse&logoColor="/>
+      <img src="https://img.shields.io/badge/-Eclipse-272727?style=flat-square&logo=Eclipse&logoColor="/>
     </a>
   <!--[Android Studio]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-Android%20Studio-gray?style=flat-square&logo=Android-Studio&logoColor="/>
+      <img src="https://img.shields.io/badge/-Android%20Studio-272727?style=flat-square&logo=Android-Studio&logoColor="/>
     </a>
   <!--[MySQL]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-MySQL-gray?style=flat-square&logo=mysql&logoColor=4479A1"/>
+      <img src="https://img.shields.io/badge/-MySQL-272727?style=flat-square&logo=mysql&logoColor=4479A1"/>
     </a>
   <!--[Oracle]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-Oracle-gray?style=flat-square&logo=oracle&logoColor=F80000"/>
+      <img src="https://img.shields.io/badge/-Oracle-272727?style=flat-square&logo=oracle&logoColor=F80000"/>
     </a>
   <!--[PostgreSQL]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-PostgreSQL-gray?style=flat-square&logo=postgresql&logoColor="/>
+      <img src="https://img.shields.io/badge/-PostgreSQL-272727?style=flat-square&logo=postgresql&logoColor="/>
     </a>  
   <!--[Git]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-Git-gray?style=flat-square&logo=git&logoColor="/>
+      <img src="https://img.shields.io/badge/-Git-272727?style=flat-square&logo=git&logoColor="/>
     </a>
   <!--[GitHub]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-GitHub-gray?style=flat-square&logo=github&logoColor="/>
+      <img src="https://img.shields.io/badge/-GitHub-272727?style=flat-square&logo=github&logoColor="/>
     </a>
   <!--[Notepad++]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-Notepad++-gray?style=flat-square&logo=notepad%2B%2B&logoColor="/>
+      <img src="https://img.shields.io/badge/-Notepad++-272727?style=flat-square&logo=notepad%2B%2B&logoColor="/>
     </a>
   <!--[IntelliJ IDEA]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-gray?style=flat-square&logo=intellij-idea&logoColor="/>
+      <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-272727?style=flat-square&logo=intellij-idea&logoColor="/>
     </a>
   <!--[Visual Studio Code]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-gray?style=flat-square&logo=visual-studio-code&logoColor=007ACC"/>
+      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-272727?style=flat-square&logo=visual-studio-code&logoColor=007ACC"/>
     </a>
   <!--[Replit]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-Replit-gray?style=flat-square&logo=replit&logoColor="/>
+      <img src="https://img.shields.io/badge/-Replit-272727?style=flat-square&logo=replit&logoColor="/>
     </a>
   <!--[Adobe Dreamweaver]-->
     <a href="">
-      <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-gray?style=flat-squaree&logo=Adobe%20Dreamweaver&logoColor="/>
+      <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-272727?style=flat-square&logo=Adobe%20Dreamweaver&logoColor="/>
     </a>
   <!--[Postman]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-Postman-gray?style=flat-square&logo=postman&logoColor=FF6C37"/>
+      <img src="https://img.shields.io/badge/-Postman-272727?style=flat-square&logo=postman&logoColor=FF6C37"/>
     </a>
   <!--[Katalon Studio]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-Katalon%20Studio-gray?style=flat-square&logo=katalon-studio&logoColor="/>
+      <img src="https://img.shields.io/badge/-Katalon%20Studio-272727?style=flat-square&logo=katalon-studio&logoColor="/>
     </a>
   <!--[Apache JMeter]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-Apache%20JMeter-gray?style=flat-square&logo=apache-jmeter&logoColor=D22128"/>
+      <img src="https://img.shields.io/badge/-Apache%20JMeter-272727?style=flat-square&logo=apache-jmeter&logoColor=D22128"/>
     </a>
   <!--[Appium]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-Appium-gray?style=flat-square&logo=appium&logoColor="/>
+      <img src="https://img.shields.io/badge/-Appium-272727?style=flat-square&logo=appium&logoColor="/>
     </a>
   <!--[Selenium Webdriver]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-Selenium-gray?style=flat-square&logo=selenium&logoColor=43B02A"/>
+      <img src="https://img.shields.io/badge/-Selenium-272727?style=flat-square&logo=selenium&logoColor=43B02A"/>
     </a>
   <!--[Cucumber]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-Cucumber-gray?style=flat-square&logo=cucumber&logoColor=23D96C"/>
+      <img src="https://img.shields.io/badge/-Cucumber-272727?style=flat-square&logo=cucumber&logoColor=23D96C"/>
     </a>
   <!--[Serenity]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-Serenity-gray?style=flat-square&logo=serenity&logoColor="/>
+      <img src="https://img.shields.io/badge/-Serenity-272727?style=flat-square&logo=serenity&logoColor="/>
     </a>
       <!--[Microsoft Excel]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-Microsoft%20Excel-gray?style=flat-square&logo=microsoft-excel&logoColor=43B02A"/>
+      <img src="https://img.shields.io/badge/-Microsoft%20Excel-272727?style=flat-square&logo=microsoft-excel&logoColor=43B02A"/>
     </a>
       <!--[Tableau]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-Tableau-gray?style=flat-square&logo=tableau&logoColor=lightblue"/>
+      <img src="https://img.shields.io/badge/-Tableau-272727?style=flat-square&logo=tableau&logoColor=lightblue"/>
     </a>
   <!--[Jira]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-Jira-gray?style=flat-square&logo=jira&logoColor=0052CC"/>
+      <img src="https://img.shields.io/badge/-Jira-272727?style=flat-square&logo=jira&logoColor=0052CC"/>
     </a>
   <!--[TestRail]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-TestRail-gray?style=flat-square&logo=testrail&logoColor="/>
+      <img src="https://img.shields.io/badge/-TestRail-272727?style=flat-square&logo=testrail&logoColor="/>
     </a>
   <!--[Trello]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-Trello-272727?style=fflat-square&logo=trello&logoColor=0052CC"/>
+      <img src="https://img.shields.io/badge/-Trello-272727?style=flat-square&logo=trello&logoColor=0052CC"/>
     </a>
   <!--[Windows]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-Windows-FFFFFF?style=flat-square&logo=windows&logoColor=0078D6"/>
+      <img src="https://img.shields.io/badge/-Windows-272727?style=flat-square&logo=windows&logoColor=0078D6"/>
     </a>
   <!--[Linux]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-Linux-FFF0F8FF?style=flat-square&logo=linux&logoColor="/>
+      <img src="https://img.shields.io/badge/-Linux-272727?style=flat-square&logo=linux&logoColor="/>
     </a>
     <!--[MacOS]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=Apple&logoColor="/>
+      <img src="https://img.shields.io/badge/-MacOS-272727?style=flat-square&logo=Apple&logoColor="/>
     </a>
 </p>
 
