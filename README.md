@@ -12,7 +12,7 @@
 </p>
 
 * 😄 Pronouns: he/him
-* 🔭 I’m currently working on Freelancer 
+* 🔭 I’m currently working as Freelancer 
 * 🌱 I’m currently learning DS/DA
 <!-- * 👯 I’m looking to collaborate on -->
 <!-- * 🤔 I’m looking for help with -->
