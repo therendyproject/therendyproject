@@ -86,11 +86,11 @@
 <p align="justify">
   <!--[HTML]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-HTML-transparen?style=flat-square&logo=html5&logoColor="/>
+      <img src="https://img.shields.io/badge/-HTML-00000000?style=flat-square&logo=html5&logoColor="/>
     </a>
   <!--[Markdown]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-Markdown-transparen?style=flat-square&logo=markdown&logoColor="/>
+      <img src="https://img.shields.io/badge/-Markdown-00000000?style=flat-square&logo=markdown&logoColor="/>
     </a>
   <!--[CSS]-->
     <a href="">
