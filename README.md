@@ -108,10 +108,6 @@
     <a href="">
       <img src="https://img.shields.io/badge/-JavaScript-272727?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
     </a>
-  <!--[R]-->
-    <a href="">
-      <img src="https://img.shields.io/badge/-R-272727?style=flat-square&logo=r&logoColor=276DC3"/>
-    </a>
   <!--[Microsoft Visual Basic]-->
     <a href="">
       <img src="https://img.shields.io/badge/-Microsoft%20VB-272727?style=flat-square&logo=microsoft-visual-basic&logoColor="/>
@@ -192,13 +188,21 @@
     <a href="">
       <img src="https://img.shields.io/badge/-Serenity-272727?style=flat-square&logo=serenity&logoColor="/>
     </a>
-      <!--[Microsoft Excel]-->
+  <!--[Microsoft Excel]-->
     <a href="">
       <img src="https://img.shields.io/badge/-Microsoft%20Excel-272727?style=flat-square&logo=microsoft-excel&logoColor=43B02A"/>
     </a>
-      <!--[Tableau]-->
+  <!--[BigQuery]-->
+    <a href="">
+      <img src="https://img.shields.io/badge/-BigQuery-272727?style=flat-square&logo=bigquery&logoColor="/>
+    </a>
+  <!--[Tableau]-->
     <a href="">
       <img src="https://img.shields.io/badge/-Tableau-272727?style=flat-square&logo=tableau&logoColor=lightblue"/>
+    </a>
+  <!--[R]-->
+    <a href="">
+      <img src="https://img.shields.io/badge/-R-272727?style=flat-square&logo=r&logoColor=276DC3"/>
     </a>
   <!--[Jira]-->
     <a href="">
@@ -220,7 +224,7 @@
     <a href="">
       <img src="https://img.shields.io/badge/-Linux-272727?style=flat-square&logo=linux&logoColor="/>
     </a>
-    <!--[MacOS]-->
+  <!--[MacOS]-->
     <a href="">
       <img src="https://img.shields.io/badge/-MacOS-272727?style=flat-square&logo=Apple&logoColor="/>
     </a>
