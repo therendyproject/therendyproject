@@ -31,18 +31,18 @@
     <a href="https://www.linkedin.com/in/rensetiawanren/">
       <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30px" title="Rendy's LinkedIn"/>
     </a>
-  <!--[Twitter]-->
+  <!--[Twitter]
     <a href="https://www.twitter.com/rensetiawanren">
       <img src="https://cdn.simpleicons.org/twitter/1DA1F2" width="30px" title="Rendy's Twitter"/>
-    </a>
-  <!--[Mastodon]-->
+    </a>-->
+  <!--[Mastodon]
     <a href="https://techhub.social/@rndsetiawan">
       <img src="https://cdn.simpleicons.org/mastodon/6364FF" width="30px" title="Rendy's Mastodon"/>
-    </a>
-  <!--[Instagram]-->
+    </a>--->
+  <!--[Instagram]
     <a href="https://www.instagram.com/rensetiawanren/">
       <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30px" title="Rendy's Instagram"/>
-    </a>
+    </a>--->
   <!--[Dev.To]-->
     <a href="https://dev.to/rensetiawanren">
       <img src="https://cdn.simpleicons.org/devdotto/grey" width="30px" title="Rendy's Dev.To"/>
@@ -63,10 +63,10 @@
     <a href="https://app.daily.dev/rndsetiawan">
       <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=daily.dev&logoColor=" title="Rendy's daily dev"/>
     </a>-->
-  <!--[Replit]-->
+  <!--[Replit]
     <a href="https://replit.com/@rndsetiawan">
       <img src="https://cdn.simpleicons.org/replit/F26207" width="30px" title="Rendy's Replit"/>
-    </a>
+    </a>--->
   <!--[CodePen]
     <a href="">
       <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=codepen&logoColor=" title="Rendy's CodePen"/>
