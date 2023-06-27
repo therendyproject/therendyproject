@@ -188,6 +188,10 @@
     <a href="">
       <img src="https://img.shields.io/badge/-Serenity-272727?style=flat-square&logo=serenity&logoColor="/>
     </a>
+  <!--[REST Assured]-->
+    <a href="">
+      <img src="https://img.shields.io/badge/-REST%20Assured-272727?style=flat-square&logo=rest-assured&logoColor="/>
+    </a>
   <!--[Microsoft Excel]-->
     <a href="">
       <img src="https://img.shields.io/badge/-Microsoft%20Excel-272727?style=flat-square&logo=microsoft-excel&logoColor=43B02A"/>
