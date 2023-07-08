@@ -1,4 +1,4 @@
-<!--[Greetings]-->f
+<!--[Greetings]-->
 <p align="left">
   <img src="https://github.com/rensetiawanren/rensetiawanren/blob/main/image/emoji/waving-hand_1f44b.gif" width="40px" height="40px" />
   <a href="https://git.io/typing-svg">
