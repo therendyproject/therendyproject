@@ -11,7 +11,7 @@
   <img src="https://github.com/rensetiawanren/rensetiawanren/blob/main/image/banner/CMB-001d.png"/>
 </p>
 
-* 😄 Pronouns: he/him
+<!-- * 😄 Pronouns: he/him -->
 * 🔭 I’m currently working as Freelancer 
 * 🌱 I’m currently learning DS/DA
 <!-- * 👯 I’m looking to collaborate on -->
