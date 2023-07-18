@@ -22,7 +22,7 @@
 
 ---
 
-<h3 align="center"/> Connect with me:
+<h3 align="center"/> 🤝 Connect with me:
 </h3>
 
 <!--[Social Media Badges]-->
@@ -81,7 +81,7 @@
 
 <!--[Tech Stack]-->
 <h3 align="left">
-  <!--<img src="https://github.com/rensetiawanren/rensetiawanren/blob/main/image/emoji/desktop-computer_1f5a5-fe0f.png" width="15px" height="15px" />--> :toolbox: :bar_chart: Tech Stack
+  <!--<img src="https://github.com/rensetiawanren/rensetiawanren/blob/main/image/emoji/desktop-computer_1f5a5-fe0f.png" width="15px" height="15px" />--> 🧰 Tech Stack
 </h3>
 <p align="justify">
   <!--[HTML]-->
