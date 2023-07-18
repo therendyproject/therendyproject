@@ -108,18 +108,6 @@
     <a href="">
       <img src="https://img.shields.io/badge/-JavaScript-272727?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
     </a>
-  <!--[Microsoft Visual Basic]-->
-    <a href="">
-      <img src="https://img.shields.io/badge/-Microsoft%20VB-272727?style=flat-square&logo=microsoft-visual-basic&logoColor="/>
-    </a>
-  <!--[Eclips]-->
-    <a href="">
-      <img src="https://img.shields.io/badge/-Eclipse-272727?style=flat-square&logo=Eclipse&logoColor="/>
-    </a>
-  <!--[Android Studio]-->
-    <a href="">
-      <img src="https://img.shields.io/badge/-Android%20Studio-272727?style=flat-square&logo=Android-Studio&logoColor="/>
-    </a>
   <!--[MySQL]-->
     <a href="">
       <img src="https://img.shields.io/badge/-MySQL-272727?style=flat-square&logo=mysql&logoColor=4479A1"/>
@@ -144,6 +132,10 @@
     <a href="">
       <img src="https://img.shields.io/badge/-Notepad++-272727?style=flat-square&logo=notepad%2B%2B&logoColor="/>
     </a>
+  <!--[Microsoft Visual Basic]-->
+    <a href="">
+      <img src="https://img.shields.io/badge/-Microsoft%20VB-272727?style=flat-square&logo=microsoft-visual-basic&logoColor="/>
+    </a>
   <!--[IntelliJ IDEA]-->
     <a href="">
       <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-272727?style=flat-square&logo=intellij-idea&logoColor="/>
@@ -151,7 +143,15 @@
   <!--[Visual Studio Code]-->
     <a href="">
       <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-272727?style=flat-square&logo=visual-studio-code&logoColor=007ACC"/>
+    </a>  
+  <!--[Eclips]-->
+    <a href="">
+      <img src="https://img.shields.io/badge/-Eclipse-272727?style=flat-square&logo=Eclipse&logoColor="/>
     </a>
+  <!--[Android Studio]-->
+    <a href="">
+      <img src="https://img.shields.io/badge/-Android%20Studio-272727?style=flat-square&logo=Android-Studio&logoColor="/>
+    </a>  
   <!--[Replit]-->
     <a href="">
       <img src="https://img.shields.io/badge/-Replit-272727?style=flat-square&logo=replit&logoColor="/>
