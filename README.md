@@ -313,6 +313,7 @@
 
 <!--[Emojis]-->
   <!-- https://emojipedia.org/emoji/ -->
+  <!-- https://github-emoji-picker.rickstaa.dev/ -->
 
 <!--[HTML Emojis]-->
   <!-- https://www.fileformat.info/index.htm -->
