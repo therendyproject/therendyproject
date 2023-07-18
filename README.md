@@ -81,7 +81,7 @@
 
 <!--[Tech Stack]-->
 <h3 align="left">
-  <!--<img src="https://github.com/rensetiawanren/rensetiawanren/blob/main/image/emoji/desktop-computer_1f5a5-fe0f.png" width="15px" height="15px" />--> :computer: Tech Stack
+  <!--<img src="https://github.com/rensetiawanren/rensetiawanren/blob/main/image/emoji/desktop-computer_1f5a5-fe0f.png" width="15px" height="15px" />--> :toolbox: :stats: Tech Stack
 </h3>
 <p align="justify">
   <!--[HTML]-->
