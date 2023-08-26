@@ -94,7 +94,7 @@
     </a>
   <!--[CSS]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-CSS-272727?style=flat-square&logo=css3&logoColor="/>
+      <img src="https://img.shields.io/badge/-CSS-272727?style=flat-square&logo=css3&logoColor=1572B6"/>
     </a>
   <!--[PHP]-->
     <a href="">
@@ -104,10 +104,18 @@
     <a href="">
       <img src="https://img.shields.io/badge/-Java-272727?style=flat-square&logo=java&logoColor="/>
     </a>
-  <!--[Java Script] -->
+  <!--[Java Script]-->
     <a href="">
       <img src="https://img.shields.io/badge/-JavaScript-272727?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
     </a>
+  <!--[Python]
+    <a href="">
+      <img src="https://img.shields.io/badge/-Python-272727?style=flat-square&logo=python&logoColor="/>
+    </a>-->  
+  <!--[R]-->
+    <a href="">
+      <img src="https://img.shields.io/badge/-R-272727?style=flat-square&logo=r&logoColor=276DC3"/>
+    </a>  
   <!--[MySQL]-->
     <a href="">
       <img src="https://img.shields.io/badge/-MySQL-272727?style=flat-square&logo=mysql&logoColor=4479A1"/>
@@ -140,13 +148,17 @@
     <a href="">
       <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-272727?style=flat-square&logo=intellij-idea&logoColor="/>
     </a>
+  <!--[PyCharm]
+    <a href="">
+      <img src="https://img.shields.io/badge/-PyCharm-272727?style=flat-square&logo=pycharm&logoColor="/>
+    </a>-->
   <!--[Visual Studio Code]-->
     <a href="">
       <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-272727?style=flat-square&logo=visual-studio-code&logoColor=007ACC"/>
     </a>  
-  <!--[Eclips]-->
+  <!--[Eclipse]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-Eclipse-272727?style=flat-square&logo=Eclipse&logoColor="/>
+      <img src="https://img.shields.io/badge/-Eclipse-272727?style=flat-square&logo=Eclipse&logoColor=2C2255"/>
     </a>
   <!--[Android Studio]-->
     <a href="">
@@ -156,6 +168,10 @@
     <a href="">
       <img src="https://img.shields.io/badge/-Replit-272727?style=flat-square&logo=replit&logoColor="/>
     </a>
+  <!--Google Colab]
+    <a href="">
+      <img src="https://img.shields.io/badge/-Google%20Colaboratory-272727?style=flat-square&logo=google-colab&logoColor="/>
+    </a>-->
   <!--[Adobe Dreamweaver]-->
     <a href="">
       <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-272727?style=flat-square&logo=Adobe%20Dreamweaver&logoColor="/>
@@ -198,16 +214,16 @@
     </a>
   <!--[BigQuery]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-BigQuery-272727?style=flat-square&logo=bigquery&logoColor="/>
+      <img src="https://img.shields.io/badge/-BigQuery-272727?style=flat-square&logo=big-query&logoColor="/>
     </a>
   <!--[Tableau]-->
     <a href="">
       <img src="https://img.shields.io/badge/-Tableau-272727?style=flat-square&logo=tableau&logoColor=lightblue"/>
     </a>
-  <!--[R]-->
+  <!--[RStudio]
     <a href="">
-      <img src="https://img.shields.io/badge/-R-272727?style=flat-square&logo=r&logoColor=276DC3"/>
-    </a>
+      <img src="https://img.shields.io/badge/-RStudio-272727?style=flat-square&logo=rstudio&logoColor=276DC3"/>
+    </a>  --->
   <!--[Jira]-->
     <a href="">
       <img src="https://img.shields.io/badge/-Jira-272727?style=flat-square&logo=jira&logoColor=0052CC"/>
