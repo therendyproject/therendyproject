@@ -32,33 +32,33 @@
       <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30px" title="Rendy's LinkedIn"/>
     </a>
   <!--[Twitter]
-    <a href="https://www.twitter.com/rensetiawanren">
+    <a href="https://www.twitter.com/">
       <img src="https://cdn.simpleicons.org/twitter/1DA1F2" width="30px" title="Rendy's Twitter"/>
     </a>-->
   <!--[Mastodon]
-    <a href="https://techhub.social/@rndsetiawan">
+    <a href="https://techhub.social/@">
       <img src="https://cdn.simpleicons.org/mastodon/6364FF" width="30px" title="Rendy's Mastodon"/>
     </a>--->
   <!--[Instagram]
-    <a href="https://www.instagram.com/rensetiawanren/">
+    <a href="https://www.instagram.com//">
       <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30px" title="Rendy's Instagram"/>
     </a>--->
   <!--[Dev.To]-->
     <a href="https://dev.to/rensetiawanren">
       <img src="https://cdn.simpleicons.org/devdotto/grey" width="30px" title="Rendy's Dev.To"/>
     </a>
-  <!--[Hashnode]-->
+  <!--[Hashnode]
     <a href="https://rensetiawanren.hashnode.dev/">
       <img src="https://cdn.simpleicons.org/hashnode/2962FF" width="30px" title="Rendy's Hashnode"/>
-    </a>
+    </a> -->
   <!--[Medium]-->
     <a href="https://rensetiawanren.medium.com">
       <img src="https://cdn.simpleicons.org/medium/grey" width="30px" title="Rendy's Medium"/>
     </a>
-  <!--[Substack]-->
+  <!--[Substack]
     <a href="https://rensetiawanren.substack.com">
       <img src="https://cdn.simpleicons.org/substack" width="30px" title="Rendy's Substack"/>
-    </a>
+    </a> -->
   <!--[daily.dev]
     <a href="https://app.daily.dev/rndsetiawan">
       <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=daily.dev&logoColor=" title="Rendy's daily dev"/>
@@ -66,15 +66,15 @@
   <!--[Replit]
     <a href="https://replit.com/@rndsetiawan">
       <img src="https://cdn.simpleicons.org/replit/F26207" width="30px" title="Rendy's Replit"/>
-    </a>--->
+    </a> -->
   <!--[CodePen]
     <a href="">
       <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=codepen&logoColor=" title="Rendy's CodePen"/>
-  </a>-->
-    <!--[Tableau]-->
+    </a>-->
+  <!--[Tableau]
     <a href="https://public.tableau.com/app/profile/rendy.setiawan">
       <img src="https://cdn.simpleicons.org/tableau/lightblue" width="30px" title="Rendy's Tableau"/>
-    </a>
+    </a> -->
 </p>
 
 ---
