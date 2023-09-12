@@ -158,7 +158,7 @@
     </a>  
   <!--[Eclipse]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-Eclipse-272727?style=flat-square&logo=Eclipse&logoColor=2C2255"/>
+      <img src="https://img.shields.io/badge/-Eclipse-272727?style=flat-square&logo=Eclipse&logoColor="/>
     </a>
   <!--[Android Studio]-->
     <a href="">
