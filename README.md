@@ -7,9 +7,9 @@
 </p>
 
 <!--[Banner]-->
-<p align="center">
-  <img src="https://github.com/rensetiawanren/rensetiawanren/blob/main/image/banner/CMB-001d.png"/>
-</p>
+<kbd>
+  <img align="center" src="https://github.com/rensetiawanren/rensetiawanren/blob/main/image/banner/CMB-001d.png"/>
+</kbd>
 
 <!-- * 😄 Pronouns: he/him -->
 * 💼 I’m currently working as Freelancer 
@@ -305,6 +305,8 @@
   <!--<img src="https://profile-counter.glitch.me/rensetiawanren/count.svg" alt="" />-->
 
 </details>
+
+---
 
 <!----->
 
