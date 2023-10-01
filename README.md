@@ -279,17 +279,17 @@
 <p align="center">
   <!--[Rendy's GitHub streak-stats]-->
     <a href="https://git.io/streak-stats">
-      <img length+"250" width="350" src="https://streak-stats.demolab.com/?user=rensetiawanren&theme=radical&hide_border=true&border_radius=20&background=00000000&mode=weekly"/>
+      <img length="250" width="350" src="https://streak-stats.demolab.com/?user=rensetiawanren&theme=radical&hide_border=true&border_radius=20&background=00000000&mode=weekly"/>
     </a>
   <!--[Rendy's GitHub stats]
     <a href="https://github.com/rensetiawanren/github-readme-stats">
-      <img length+"250" width="350" src="https://github-readme-stats.vercel.app/api?username=rensetiawanren&count_private=true&show_icon=true&theme=radical&hide_border=true&border_radius=20"/>
+      <img length="250" width="350" src="https://github-readme-stats.vercel.app/api?username=rensetiawanren&count_private=true&show_icon=true&theme=radical&hide_border=true&border_radius=20"/>
     </a>
 </p>-->
 <p align="center">    
   <!--[Rendy's GitHub top-lang]-->
     <a href="https://github.com/rensetiawanren/github-readme-stats">
-      <img length+"250" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rensetiawanren&layout=compact&theme=radical&langs_count=10&hide_border=true&border_radius=20&bg_color=00000000"/>
+      <img length="250" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rensetiawanren&layout=compact&theme=radical&langs_count=10&hide_border=true&border_radius=20&bg_color=00000000"/>
     </a>
 </p>
 <p align="center">
