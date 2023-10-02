@@ -8,7 +8,7 @@
 
 <!--[Banner]-->
 <kbd>
-  <img align="center" src="https://github.com/rensetiawanren/rensetiawanren/blob/main/image/banner/CMB-001d.png"/>
+  <img align="center" src="assets/banner/CMB-001d.png"/>
 </kbd>
 
 <!-- * 😄 Pronouns: he/him -->
