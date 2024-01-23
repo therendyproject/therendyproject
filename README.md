@@ -23,50 +23,49 @@
 <!--* 📫 How to reach me:-->
 
 ---
-<!--
-<h3 align="center"/> 🤝 Connect with me:
-</h3> -->
 
-<!--[Social Media Badges]
-<!--
+<h3 align="center"/> 🤝 Connect with me:
+</h3>
+
+<!--[Social Media Badges]-->
 <p align="center"> 
-  <!--[LinkedIn]
+  <!--[LinkedIn]-->
     <a href="https://www.linkedin.com/in/rensetiawanren/">
-      <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30px" title="Rendy's LinkedIn"/>
-    </a>
-  <!--[Twitter]
+      <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="30px" title="Rendy's LinkedIn"/>
+   </a>
+  <!--[Twitter]-->
     <a href="https://www.twitter.com/rensetiawanren">
-      <img src="https://cdn.simpleicons.org/twitter/1DA1F2" width="30px" title="Rendy's Twitter"/>
+      <img src="https://skillicons.dev/icons?i=twitter&theme=light" width="30px" title="Rendy's LinkedIn"/>
     </a>
-  <!--[Instagram]
+  <!--[Instagram]-->
     <a href="https://www.instagram.com/rensetiawanren/">
-      <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30px" title="Rendy's Instagram"/>
-    </a>
-  <!--[TikTok]
+      <img src="https://skillicons.dev/icons?i=instagram&theme=light" width="30px" title="Rendy's LinkedIn"/>
+    </a>    
+  <!--[TikTok]-->
     <a href="http://tiktok.com/@rensetiawanren">
       <img src="https://cdn.simpleicons.org/tiktok/grey" width="30px" title="Rendy's YouTube"/>
     </a>
-  <!--[YouTube]
+  <!--[YouTube]-->
     <a href="http://www.youtube.com/@rensetiawanren">
       <img src="https://cdn.simpleicons.org/youtube/FF0000" width="30px" title="Rendy's YouTube"/>
     </a>
-  <!--[Dev.To]
+  <!--[Dev.To]-->
     <a href="https://dev.to/rensetiawanren">
-      <img src="https://cdn.simpleicons.org/devdotto/grey" width="30px" title="Rendy's Dev.To"/>
+      <img src="https://skillicons.dev/icons?i=devto&theme=light" width="30px" title="Rendy's LinkedIn"/>
     </a>
-  <!--[Hashnode]
+  <!--[Hashnode]-->
     <a href="https://rensetiawanren.hashnode.dev/">
       <img src="https://cdn.simpleicons.org/hashnode/2962FF" width="30px" title="Rendy's Hashnode"/>
     </a>
-  <!--[Medium]
+  <!--[Medium]-->
     <a href="https://rensetiawanren.medium.com">
       <img src="https://cdn.simpleicons.org/medium/grey" width="30px" title="Rendy's Medium"/>
     </a>
   <!--[Tableau]
     <a href="https://public.tableau.com/app/profile/rendy.setiawan">
       <img src="https://cdn.simpleicons.org/tableau/lightblue" width="30px" title="Rendy's Tableau"/>
-    </a>
-</p> -->
+    </a> -->
+</p>
 
 <!--![My Skills](https://skillicons.dev/icons?i=html,css,markdown,php,java,js,r,mysql,oracle,postgresql,git,github,notepad++,microsoftvisualbasic,idea,vscode,eclipse,androidstudio,adobedreamweaver,postman,katalonstudio,apachejmeter,appium,selenium,cucumber,serenity,restassured,microsoftexcel,bigquery,tableau,jira,testrail,trello,windows,linux,macos&theme=light)-->
 
