@@ -11,6 +11,8 @@
   <img align="center" src="assets/banner/CMB-001d.png"/>
 </kbd>
 
+---
+
 <!-- * 😄 Pronouns: he/him -->
 * 💼 I’m currently working as Freelancer 
 * 🔬 I’m currently learning DS/DA
@@ -21,63 +23,51 @@
 <!--* 📫 How to reach me:-->
 
 ---
-
+<!--
 <h3 align="center"/> 🤝 Connect with me:
-</h3>
+</h3> -->
 
 <!--[Social Media Badges]-->
+<!--
 <p align="center"> 
-  <!--[LinkedIn]-->
+  <!--[LinkedIn]
     <a href="https://www.linkedin.com/in/rensetiawanren/">
       <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30px" title="Rendy's LinkedIn"/>
     </a>
   <!--[Twitter]
-    <a href="https://www.twitter.com/">
+    <a href="https://www.twitter.com/rensetiawanren">
       <img src="https://cdn.simpleicons.org/twitter/1DA1F2" width="30px" title="Rendy's Twitter"/>
-    </a>-->
-  <!--[Mastodon]
-    <a href="https://techhub.social/@">
-      <img src="https://cdn.simpleicons.org/mastodon/6364FF" width="30px" title="Rendy's Mastodon"/>
-    </a>--->
+    </a>
   <!--[Instagram]
-    <a href="https://www.instagram.com//">
+    <a href="https://www.instagram.com/rensetiawanren/">
       <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30px" title="Rendy's Instagram"/>
-    </a>--->
-  <!--[Dev.To]-->
+    </a>
+  <!--[TikTok]
+    <a href="http://tiktok.com/@rensetiawanren">
+      <img src="https://cdn.simpleicons.org/tiktok/grey" width="30px" title="Rendy's YouTube"/>
+    </a>
+  <!--[YouTube]
+    <a href="http://www.youtube.com/@rensetiawanren">
+      <img src="https://cdn.simpleicons.org/youtube/FF0000" width="30px" title="Rendy's YouTube"/>
+    </a>
+  <!--[Dev.To]
     <a href="https://dev.to/rensetiawanren">
       <img src="https://cdn.simpleicons.org/devdotto/grey" width="30px" title="Rendy's Dev.To"/>
     </a>
   <!--[Hashnode]
     <a href="https://rensetiawanren.hashnode.dev/">
       <img src="https://cdn.simpleicons.org/hashnode/2962FF" width="30px" title="Rendy's Hashnode"/>
-    </a> -->
-  <!--[Medium]-->
+    </a>
+  <!--[Medium]
     <a href="https://rensetiawanren.medium.com">
       <img src="https://cdn.simpleicons.org/medium/grey" width="30px" title="Rendy's Medium"/>
     </a>
-  <!--[Substack]
-    <a href="https://rensetiawanren.substack.com">
-      <img src="https://cdn.simpleicons.org/substack" width="30px" title="Rendy's Substack"/>
-    </a> -->
-  <!--[daily.dev]
-    <a href="https://app.daily.dev/rndsetiawan">
-      <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=daily.dev&logoColor=" title="Rendy's daily dev"/>
-    </a>-->
-  <!--[Replit]
-    <a href="https://replit.com/@rndsetiawan">
-      <img src="https://cdn.simpleicons.org/replit/F26207" width="30px" title="Rendy's Replit"/>
-    </a> -->
-  <!--[CodePen]
-    <a href="">
-      <img src="https://img.shields.io/badge/rndsetiawan-white?style=social&logo=codepen&logoColor=" title="Rendy's CodePen"/>
-    </a>-->
   <!--[Tableau]
     <a href="https://public.tableau.com/app/profile/rendy.setiawan">
       <img src="https://cdn.simpleicons.org/tableau/lightblue" width="30px" title="Rendy's Tableau"/>
-    </a> -->
-</p>
+    </a>
+</p> -->
 
----
 
 <!--[Tech Stack]-->
 <h3 align="left">
