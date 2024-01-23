@@ -2,7 +2,7 @@
 <p align="left">
   <img src="https://github.com/rensetiawanren/rensetiawanren/blob/main/image/emoji/waving-hand_1f44b.gif" width="40px" height="40px" />
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F70A&vCenter=true&width=435&lines=Hi,+Welcome+To+My+Page!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F70A&vCenter=true&width=435&lines=Hi,+Welcome+To+My+GitHub+Pages!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 <h3 align="center"/> 🤝 Connect with me:
 </h3> -->
 
-<!--[Social Media Badges]-->
+<!--[Social Media Badges]
 <!--
 <p align="center"> 
   <!--[LinkedIn]
@@ -68,23 +68,25 @@
     </a>
 </p> -->
 
+<!--![My Skills](https://skillicons.dev/icons?i=html,css,markdown,php,java,js,r,mysql,oracle,postgresql,git,github,notepad++,microsoftvisualbasic,idea,vscode,eclipse,androidstudio,adobedreamweaver,postman,katalonstudio,apachejmeter,appium,selenium,cucumber,serenity,restassured,microsoftexcel,bigquery,tableau,jira,testrail,trello,windows,linux,macos&theme=light)-->
 
 <!--[Tech Stack]-->
 <h3 align="left">
   <!--<img src="https://github.com/rensetiawanren/rensetiawanren/blob/main/image/emoji/desktop-computer_1f5a5-fe0f.png" width="15px" height="15px" />--> 🧰 Tech Stack
 </h3>
+
 <p align="justify">
   <!--[HTML]-->
     <a href="">
       <img src="https://img.shields.io/badge/-HTML-272727?style=flat-square&logo=html5&logoColor="/>
     </a>
-  <!--[Markdown]-->
-    <a href="">
-      <img src="https://img.shields.io/badge/-Markdown-272727?style=flat-square&logo=markdown&logoColor="/>
-    </a>
   <!--[CSS]-->
     <a href="">
       <img src="https://img.shields.io/badge/-CSS-272727?style=flat-square&logo=css3&logoColor=1572B6"/>
+    </a>
+  <!--[Markdown]-->
+    <a href="">
+      <img src="https://img.shields.io/badge/-Markdown-272727?style=flat-square&logo=markdown&logoColor="/>
     </a>
   <!--[PHP]-->
     <a href="">
@@ -126,10 +128,6 @@
     <a href="">
       <img src="https://img.shields.io/badge/-GitHub-272727?style=flat-square&logo=github&logoColor="/>
     </a>
-  <!--[Notepad++]-->
-    <a href="">
-      <img src="https://img.shields.io/badge/-Notepad++-272727?style=flat-square&logo=notepad%2B%2B&logoColor="/>
-    </a>
   <!--[Microsoft Visual Basic]-->
     <a href="">
       <img src="https://img.shields.io/badge/-Microsoft%20VB-272727?style=flat-square&logo=microsoft-visual-basic&logoColor="/>
@@ -154,10 +152,6 @@
     <a href="">
       <img src="https://img.shields.io/badge/-Android%20Studio-272727?style=flat-square&logo=Android-Studio&logoColor="/>
     </a>  
-  <!--[Replit]-->
-    <a href="">
-      <img src="https://img.shields.io/badge/-Replit-272727?style=flat-square&logo=replit&logoColor="/>
-    </a>
   <!--Google Colab]
     <a href="">
       <img src="https://img.shields.io/badge/-Google%20Colaboratory-272727?style=flat-square&logo=google-colab&logoColor="/>
@@ -190,23 +184,15 @@
     <a href="">
       <img src="https://img.shields.io/badge/-Cucumber-272727?style=flat-square&logo=cucumber&logoColor=23D96C"/>
     </a>
-  <!--[Serenity]-->
-    <a href="">
-      <img src="https://img.shields.io/badge/-Serenity-272727?style=flat-square&logo=serenity&logoColor="/>
-    </a>
-  <!--[REST Assured]-->
-    <a href="">
-      <img src="https://img.shields.io/badge/-REST%20Assured-272727?style=flat-square&logo=rest-assured&logoColor="/>
-    </a>
   <!--[Microsoft Excel]-->
     <a href="">
       <img src="https://img.shields.io/badge/-Microsoft%20Excel-272727?style=flat-square&logo=microsoft-excel&logoColor=43B02A"/>
     </a>
-  <!--[BigQuery]-->
+  <!--[BigQuery]
     <a href="">
       <img src="https://img.shields.io/badge/-BigQuery-272727?style=flat-square&logo=big-query&logoColor="/>
     </a>
-  <!--[Tableau]-->
+  <!--[Tableau]
     <a href="">
       <img src="https://img.shields.io/badge/-Tableau-272727?style=flat-square&logo=tableau&logoColor=lightblue"/>
     </a>
