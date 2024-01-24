@@ -31,39 +31,39 @@
 <p align="center"> 
   <!--[LinkedIn]-->
     <a href="https://www.linkedin.com/in/rensetiawanren/">
-      <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="30px" title="Rendy's LinkedIn"/>
+      <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="" title="Rendy's LinkedIn"/>
    </a>
   <!--[Twitter]-->
     <a href="https://www.twitter.com/rensetiawanren">
-      <img src="https://skillicons.dev/icons?i=twitter&theme=light" width="30px" title="Rendy's LinkedIn"/>
+      <img src="https://skillicons.dev/icons?i=twitter&theme=light" width="" title="Rendy's LinkedIn"/>
     </a>
   <!--[Instagram]-->
     <a href="https://www.instagram.com/rensetiawanren/">
-      <img src="https://skillicons.dev/icons?i=instagram&theme=light" width="30px" title="Rendy's LinkedIn"/>
+      <img src="https://skillicons.dev/icons?i=instagram&theme=light" width="" title="Rendy's LinkedIn"/>
     </a>    
   <!--[TikTok]-->
     <a href="http://tiktok.com/@rensetiawanren">
-      <img src="https://cdn.simpleicons.org/tiktok/grey" width="30px" title="Rendy's YouTube"/>
+      <img src="https://cdn.simpleicons.org/tiktok/grey" width="45px" title="Rendy's YouTube"/>
     </a>
   <!--[YouTube]-->
     <a href="http://www.youtube.com/@rensetiawanren">
-      <img src="https://cdn.simpleicons.org/youtube/FF0000" width="30px" title="Rendy's YouTube"/>
+      <img src="https://cdn.simpleicons.org/youtube/FF0000" width="45px" title="Rendy's YouTube"/>
     </a>
   <!--[Dev.To]-->
     <a href="https://dev.to/rensetiawanren">
-      <img src="https://skillicons.dev/icons?i=devto&theme=light" width="30px" title="Rendy's LinkedIn"/>
+      <img src="https://skillicons.dev/icons?i=devto&theme=light" width="" title="Rendy's LinkedIn"/>
     </a>
   <!--[Hashnode]-->
     <a href="https://rensetiawanren.hashnode.dev/">
-      <img src="https://cdn.simpleicons.org/hashnode/2962FF" width="30px" title="Rendy's Hashnode"/>
+      <img src="https://cdn.simpleicons.org/hashnode/2962FF" width="45px" title="Rendy's Hashnode"/>
     </a>
   <!--[Medium]-->
     <a href="https://rensetiawanren.medium.com">
-      <img src="https://cdn.simpleicons.org/medium/grey" width="30px" title="Rendy's Medium"/>
+      <img src="https://cdn.simpleicons.org/medium/grey" width="45px" title="Rendy's Medium"/>
     </a>
   <!--[Tableau]
     <a href="https://public.tableau.com/app/profile/rendy.setiawan">
-      <img src="https://cdn.simpleicons.org/tableau/lightblue" width="30px" title="Rendy's Tableau"/>
+      <img src="https://cdn.simpleicons.org/tableau/lightblue" width="45px" title="Rendy's Tableau"/>
     </a> -->
 </p>
 
