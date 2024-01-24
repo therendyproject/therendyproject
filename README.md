@@ -71,7 +71,7 @@
 <!--[Tech Stack]-->
 ### <p align="left"> 🧰 Tech Stack </p>
 
-<p align="justify">
+<p align="center">
   <!--[HTML]-->
     <a href="">
       <img src="https://skillicons.dev/icons?i=html&theme=light" width="30" title="HTML"/>
