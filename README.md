@@ -377,25 +377,6 @@
 
 ---
 
-<!--[Blog & Video Posts]-->
-<table><tr><td valign="top">
-
-### <a href="https://rensetiawanren.medium.com/"><img src="https://cdn.simpleicons.org/medium/grey" width="15px" title="Rendy's Medium" alt="Medium"/> </a>Recent Post on Medium
-
-<!-- MEDIUM-BLOG-POST-LIST:START -->
-<!-- MEDIUM-BLOG-POST-LIST:END -->
-
-</td><td valign="top">
-
-###  <a href="https://www.youtube.com/channel/UCMcJGJJpLaPF6sMQAhR4WTQ"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="15px" title="Rendy's YouTube Channel" alt="Youtube Channel"/> </a>Recent Videos on YouTube
-
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-<!-- YOUTUBE-VIDEOS-LIST:END --> 
-
-</td></tr></table>
-
----
-
 <!--[My Stats]-->
 <details>
   <summary>
