@@ -361,6 +361,7 @@
 <!-- MEDIUM-BLOG-POST-LIST:END -->
 
 </td><td valign="top" width="50%">
+
 <h3>
   <a href="https://www.youtube.com/channel/UCMcJGJJpLaPF6sMQAhR4WTQ"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="15px" title="Rendy's YouTube Channel" alt="Youtube Channel"/> </a>Recent Videos on YouTube
 </h3>
