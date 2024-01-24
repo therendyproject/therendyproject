@@ -27,44 +27,43 @@
 ### <p align="center"/> 🤝 Connect with me: </p>
 
 <!--[Social Media Badges]-->
-<p align="center"> 
+<p align="center">
   <!--[LinkedIn]-->
-    <a href="https://www.linkedin.com/in/rensetiawanren/">
-      <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="" title="Rendy's LinkedIn"/>
-   </a>
+  <a href="https://www.linkedin.com/in/rensetiawanren/">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" title="Rendy's LinkedIn" alt="Linkedin"/>
+  </a>
   <!--[Twitter]-->
-    <a href="https://www.twitter.com/rensetiawanren">
-      <img src="https://skillicons.dev/icons?i=twitter&theme=light" width="" title="Rendy's LinkedIn"/>
-    </a>
-  <!--[Instagram]-->
-    <a href="https://www.instagram.com/rensetiawanren/">
-      <img src="https://skillicons.dev/icons?i=instagram&theme=light" width="" title="Rendy's LinkedIn"/>
-    </a>    
+  <a href="https://www.twitter.com/rensetiawanren">
+    <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Rendy's Twitter" alt="Twitter"/>
+  </a>
+  <!--[Instagram]
+  <a href="https://www.instagram.com/rensetiawanren/">
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Rendy's Instagram" alt="Instagram"/>
+  </a> -->
   <!--[TikTok]-->
-    <a href="http://tiktok.com/@rensetiawanren">
-      <img src="https://cdn.simpleicons.org/tiktok/grey" width="45px" title="Rendy's YouTube"/>
-    </a>
+  <a href="http://tiktok.com/@rensetiawanren">
+    <img src="https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white" title="Rendy's TikTok" alt="TikTok"/>
+  </a>
   <!--[YouTube]-->
-    <a href="http://www.youtube.com/@rensetiawanren">
-      <img src="https://cdn.simpleicons.org/youtube/FF0000" width="45px" title="Rendy's YouTube"/>
-    </a>
-  <!--[Dev.To]-->
-    <a href="https://dev.to/rensetiawanren">
-      <img src="https://skillicons.dev/icons?i=devto&theme=light" width="" title="Rendy's LinkedIn"/>
-    </a>
-  <!--[Hashnode]-->
-    <a href="https://rensetiawanren.hashnode.dev/">
-      <img src="https://cdn.simpleicons.org/hashnode/2962FF" width="45px" title="Rendy's Hashnode"/>
-    </a>
+  <a href="http://www.youtube.com/@rensetiawanren">
+    <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Rendy's YouTube" alt="YouTube"/>
+  </a>
+  <!--[DEV.TO]-->
+  <a href="https://dev.to/rensetiawanren">
+    <img src="https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" title="Rendy's DEV.TO" alt="DEV.TO"/>
+  </a>
+  <!--[Hashnode]
+  <a href="https://rensetiawanren.hashnode.dev/">
+    <img src="https://img.shields.io/badge/hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" title="Rendy's Hashnode" alt="Hashnode"/>
+  </a> -->
   <!--[Medium]-->
-    <a href="https://rensetiawanren.medium.com">
-      <img src="https://cdn.simpleicons.org/medium/grey" width="45px" title="Rendy's Medium"/>
-    </a>
+  <a href="https://rensetiawanren.medium.com">
+    <img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white" title="Rendy's Medium" alt="Medium"/>
+  </a>
   <!--[Tableau]
-    <a href="https://public.tableau.com/app/profile/rendy.setiawan">
-      <img src="https://cdn.simpleicons.org/tableau/lightblue" width="45px" title="Rendy's Tableau"/>
-    </a> -->
-</p>
+  <a href="https://public.tableau.com/app/profile/rendy.setiawan">
+    <img src="https://img.shields.io/badge/tableau-18BFFF?style=for-the-badge&logo=tableau&logoColor=white" title="Rendy's Tableau" alt="Tableau"/>
+  </a> -->
 
 ---
 
