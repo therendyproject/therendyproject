@@ -16,4 +16,5 @@ jobs:
       - name: Blog Post Workflow
         uses: gautamkrishnar/blog-post-workflow@master
         with:
+          comment_tag_name: "MEDIUM-BLOG-POST-LIST"
           feed_list: "https://medium.com/feed/@rensetiawanren"
