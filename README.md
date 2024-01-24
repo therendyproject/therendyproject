@@ -24,8 +24,7 @@
 
 ---
 
-<h3 align="center"/> 🤝 Connect with me:
-</h3>
+### <p align="center"/> 🤝 Connect with me: </p>
 
 <!--[Social Media Badges]-->
 <p align="center"> 
@@ -70,9 +69,7 @@
 ---
 
 <!--[Tech Stack]-->
-<h3 align="left">
-  <!--<img src="https://github.com/rensetiawanren/rensetiawanren/blob/main/image/emoji/desktop-computer_1f5a5-fe0f.png" width="15px" height="15px" />--> 🧰 Tech Stack
-</h3>
+### <p align="left"> 🧰 Tech Stack </p>
 
 <p align="justify">
   <!--[HTML]-->
@@ -353,9 +350,7 @@
 <!--[Blog & Video Posts]-->
 <table><tr><td valign="top" width="50%">
 
-<h3>
-  <a href="https://rensetiawanren.medium.com/"><img src="https://cdn.simpleicons.org/medium/grey" width="15px" title="Rendy's Medium" alt="Medium"/> </a>Recent Post on Medium
-</h3>
+### <a href="https://rensetiawanren.medium.com/"><img src="https://cdn.simpleicons.org/medium/grey" width="15px" title="Rendy's Medium" alt="Medium"/> </a>Recent Post on Medium
 
 <!-- MEDIUM-BLOG-POST-LIST:START -->
 - [Creating GitHub Template Repository](https://rensetiawanren.medium.com/creating-github-template-repository-53b0f4884970?source=rss-8e170bdaa06------2)
@@ -364,9 +359,7 @@
 
 </td><td valign="top" width="50%">
 
-<h3>
-  <a href="https://www.youtube.com/channel/UCMcJGJJpLaPF6sMQAhR4WTQ"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="15px" title="Rendy's YouTube Channel" alt="Youtube Channel"/> </a>Recent Videos on YouTube
-</h3>
+### <a href="https://www.youtube.com/channel/UCMcJGJJpLaPF6sMQAhR4WTQ"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="15px" title="Rendy's YouTube Channel" alt="Youtube Channel"/> </a>Recent Videos on YouTube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [[HOAX] V1ru$ M-Banking Apps](https://www.youtube.com/watch?v=e7GULDp8zUI)
