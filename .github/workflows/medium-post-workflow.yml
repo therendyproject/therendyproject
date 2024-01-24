@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest Medium Post Workflow
 on:
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour
@@ -8,12 +8,12 @@ permissions:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update this repo's README with latest Medium Posts
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Blog Post Workflow
-        uses: gautamkrishnar/blog-post-workflow@1.8.4
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://medium.com/feed/@rensetiawanren"
