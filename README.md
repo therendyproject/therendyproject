@@ -348,25 +348,38 @@
 ---
 
 <!--[Blog & Video Posts]-->
-<table><tr><td valign="top" width="50%">
-
-### <a href="https://rensetiawanren.medium.com/"><img src="https://cdn.simpleicons.org/medium/grey" width="15px" title="Rendy's Medium" alt="Medium"/> </a>Recent Post on Medium
+<table>
+  <tr>
+    <th>
+      <h3>
+        <a href="https://rensetiawanren.medium.com/"><img src="https://cdn.simpleicons.org/medium/grey" width="15px" title="Rendy's Medium" alt="Medium"/> </a> Recent Post on Medium
+      </h3>
+    </th>
+    <th>
+      <h3>
+        <a href="https://www.youtube.com/channel/UCMcJGJJpLaPF6sMQAhR4WTQ"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="15px" title="Rendy's YouTube Channel" alt="Youtube Channel"/> </a> Recent Videos on YouTube
+      </h3>
+    </th>
+  </tr>
+  <tr>
+  <td>
 
 <!-- MEDIUM-BLOG-POST-LIST:START -->
 - [Creating GitHub Template Repository](https://rensetiawanren.medium.com/creating-github-template-repository-53b0f4884970?source=rss-8e170bdaa06------2)
 - [How to Install Java on Manjaro Linux](https://rensetiawanren.medium.com/how-to-install-java-on-manjaro-linux-2afe47c2276?source=rss-8e170bdaa06------2)
 <!-- MEDIUM-BLOG-POST-LIST:END -->
 
-</td><td valign="top" width="50%">
-
-### <a href="https://www.youtube.com/channel/UCMcJGJJpLaPF6sMQAhR4WTQ"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="15px" title="Rendy's YouTube Channel" alt="Youtube Channel"/> </a>Recent Videos on YouTube
+  </td>
+  <td>
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [[HOAX] V1ru$ M-Banking Apps](https://www.youtube.com/watch?v=e7GULDp8zUI)
 - [[EAF] Beware of Ph1$hing Websites - part 1](https://www.youtube.com/watch?v=Or-2bFT_Ak8)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
 
-</td></tr></table>
+  </td>
+  </tr>
+</table>
 
 ---
 
