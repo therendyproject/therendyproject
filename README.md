@@ -350,15 +350,25 @@
 
 ---
 
-<!--[Blog Posts]-->
+<!--[Blog & Video Posts]-->
+<table><tr><td valign="top" width="50%">
+
 <h3>
-<a href="https://rensetiawanren.medium.com/"><img src="https://cdn.simpleicons.org/medium/grey" width="15px" title="Rendy's Medium"/></a> Recent Blog Post on Medium
+  <a href="https://rensetiawanren.medium.com/"><img src="https://cdn.simpleicons.org/medium/grey" width="15px" title="Rendy's Medium" alt="Medium"/> </a>Recent Post on Medium
 </h3>
 
-<!-- BLOG-POST-LIST:START -->
-- [Creating GitHub Template Repository](https://rensetiawanren.medium.com/creating-github-template-repository-53b0f4884970?source=rss-8e170bdaa06------2)
-- [How to Install Java on Manjaro Linux](https://rensetiawanren.medium.com/how-to-install-java-on-manjaro-linux-2afe47c2276?source=rss-8e170bdaa06------2)
-<!-- BLOG-POST-LIST:END -->
+<!-- MEDIUM-BLOG-POST-LIST:START -->
+<!-- MEDIUM-BLOG-POST-LIST:END -->
+
+</td><td valign="top" width="50%">
+<h3>
+  <a href="https://www.youtube.com/channel/UCMcJGJJpLaPF6sMQAhR4WTQ"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="15px" title="Rendy's YouTube Channel" alt="Youtube Channel"/> </a>Recent Videos on YouTube
+</h3>
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:END --> 
+
+</td></tr></table>
 
 ---
 
