@@ -77,122 +77,122 @@
 <p align="justify">
   <!--[HTML]-->
     <a href="">
-      <img height="30" src="https://skillicons.dev/icons?i=html&theme=light" alt='html'>
+      <img src="https://skillicons.dev/icons?i=html&theme=light" width="30" title="HTML"/>
     </a>
     <!--[CSS]-->
     <a href="">
-      <img height="30" src="https://skillicons.dev/icons?i=css&theme=light" alt='css'>
+      <img src="https://skillicons.dev/icons?i=css&theme=light" width="30" title="CSS"/>
     </a>
     <!--[Markdown]-->
     <a href="">
-      <img height="30" src="https://skillicons.dev/icons?i=markdown&theme=light" alt='markdown'>
+      <img src="https://skillicons.dev/icons?i=markdown&theme=light" width="30" title="Markdown"/>
     </a>
     <!--[php]-->
     <a href="">
-      <img height="30" src="https://skillicons.dev/icons?i=php&theme=light" alt='php'>
+      <img src="https://skillicons.dev/icons?i=php&theme=light" width="30" title="php"/>
     </a>
     <!--[java]-->
     <a href="">
-      <img height="30" src="https://skillicons.dev/icons?i=java&theme=light" alt='java'>
+      <img src="https://skillicons.dev/icons?i=java&theme=light" width="30" title="Java"/>
     </a>
     <!--[JavaScript]-->
     <a href="">
-      <img height="30" src="https://skillicons.dev/icons?i=javascript&theme=light" alt='javascript'>
-    <!--[R language]-->
+      <img src="https://skillicons.dev/icons?i=javascript&theme=light" width="30" title="JavaScript"/>
+    <!--[R Language]-->
     <a href="">
-      <img height="30" src="https://skillicons.dev/icons?i=r&theme=light" alt='r'>
+      <img src="https://skillicons.dev/icons?i=r&theme=light" width="30" title="R Language"/>
     </a>      
     <!--[MySQL]-->
     <a href="">
-      <img height="30" src="https://skillicons.dev/icons?i=mysql&theme=light" alt='mysql'>
+      <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="30" title="MyQL"/>
     </a>
     <!--[Oracle]-->
     <a href="">
-      <img height="30" src="https://www.svgrepo.com/show/354152/oracle.svg" alt='oracle'>
+      <img width="30" src="https://cdn.simpleicons.org/oracle" width="30" title="Oracle"/>
     </a>
     <!--[PostgreSQL]-->
     <a href="">
-      <img height="30" src="https://skillicons.dev/icons?i=postgresql&theme=light" alt='postgresql'>
+      <img src="https://skillicons.dev/icons?i=postgresql&theme=light" width="30" title="PostgreSQL"/>
     </a>
     <!--[Git]-->
     <a href="">
-      <img height="30" src="https://skillicons.dev/icons?i=git&theme=light" alt='git'>
+      <img src="https://skillicons.dev/icons?i=git&theme=light" width="30" title="Git"/>
     </a>
     <!--[GitHub]-->
     <a href="">
-      <img height="30" src="https://skillicons.dev/icons?i=github&theme=light" alt='github'>
+      <img src="https://skillicons.dev/icons?i=github&theme=light" width="30" title="GitHub"/>
     </a>
     <!--[VB]-->
     <a href="">
-      <img height="30" src="https://www.svgrepo.com/show/374157/vb.svg" alt='vb'>
+      <img src="https://www.svgrepo.com/show/374157/vb.svg" width="30" title="VB"/>
     </a>
-    <!--[IntellijIdea]-->
+    <!--[IntelliJ IDEA]-->
     <a href="">
-      <img height="30" src="https://skillicons.dev/icons?i=idea&theme=light" alt='idea'>
+      <img src="https://skillicons.dev/icons?i=idea&theme=light" width="30" title="IntelliJ IDEA"/>
     </a>
     <!--[VSCode]-->
     <a href="">
-      <img height="30" src="https://skillicons.dev/icons?i=vscode&theme=light" alt='vscode'>
+      <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="30" title="VSCode"/>
     </a>
     <!--[Eclipse]-->
     <a href="">
-      <img height="30" src="https://skillicons.dev/icons?i=eclipse&theme=light" alt='eclipse'>
+      <img src="https://skillicons.dev/icons?i=eclipse&theme=light" width="30" title="Eclipse"/>
     </a>
     <!--[Android Studio]-->
     <a href="">
-      <img height="30" src="https://skillicons.dev/icons?i=androidstudio&theme=light" alt='android-studio'></code>
+      <img src="https://skillicons.dev/icons?i=androidstudio&theme=light" width="30" title="Android Studio"/>
     </a>      
     <!--[Adobe Dreamweaver]-->
     <a href="">
-      <img height="30" src="https://www.svgrepo.com/show/452146/adobe-dreamweaver.svg" alt='adobe-dreamweaver'>
+      <img height="30" src="https://www.svgrepo.com/show/452146/adobe-dreamweaver.svg" width="30" title="Adobe Dreamweaver"/>
     </a>
     <a href="">
     <!--[Postman]-->
-      <img height="30" src="https://skillicons.dev/icons?i=postman&theme=light" alt='postman'>
+      <img src="https://skillicons.dev/icons?i=postman&theme=light" width="30" title="Postman"/>
     </a>
     <!--[Katalon Studio]
     <a href="">
-      <img height="30" src="https://simpleicons.org/icons/katalon.svg" alt='katalon'>
+      <img src="https://simpleicons.org/icons/katalon.svg" width="30" title="Katalon Studio"/>
     </a> -->
     <!--[Apache JMeter]-->
     <a href="">
-      <img height="30" src="https://cdn.simpleicons.org/apachejmeter" alt='apachejmeter'>
+      <img src="https://cdn.simpleicons.org/apachejmeter" width="30" title="Apache JMeter"/>
     </a>
     <!--[Appium]
     <a href="">
-      <img height="30" src="https://skillicons.dev/icons?i=appium&theme=light" alt='appium'>
+      <img src="https://skillicons.dev/icons?i=appium&theme=light" width="30" title="Appium"/>
     </a> -->
     <!--[Selenium]-->
     <a href="">
-      <img height="30" src="https://skillicons.dev/icons?i=selenium&theme=light" alt='selenium'>
+      <img src="https://skillicons.dev/icons?i=selenium&theme=light" width="30" title="Selenium"/>
     </a>
     <!--[Cucumber]-->
     <a href="">
-      <img height="30" src="https://www.svgrepo.com/show/353625/cucumber.svg" alt='cucumber'>
+      <img src="https://www.svgrepo.com/show/353625/cucumber.svg" width="30" title="Cucumber"/>
     </a>
     <!--[Microsoft Excel]-->
     <a href="">
-      <img height="30" src="https://www.svgrepo.com/show/452066/ms-excel.svg" alt='microsoft-excel'>
+      <img src="https://www.svgrepo.com/show/452066/ms-excel.svg" width="30" title="Microsoft Excel"/>
     </a>
     <!--[Jira]-->
     <a href="">
-      <img height="30" src="https://cdn.simpleicons.org/jira" alt='jira'>
+      <img src="https://cdn.simpleicons.org/jira" width="27" title="Jira"/>
     </a>
-    <!--[TestRail]
+    <!--[TestRail]-->
     <a href="">
-      <img height="30" src="https://skillicons.dev/icons?i=testrail&theme=light" alt='test-rail'>
-    </a> -->
+      <img src="https://cdn.simpleicons.org/testrail" width="27" title="TestRail"/>
+    </a>
+    <!--[Windows]-->
     <a href="">
-        <!--[Windows]-->
-      <img height="30" src="https://www.svgrepo.com/show/382713/windows-applications.svg" alt='windows'>
+      <img src="https://www.svgrepo.com/show/382713/windows-applications.svg" width="25" title="Windows"/>
     </a>
     <!--[Linux]-->
     <a href="">
-      <img height="30" src="https://www.svgrepo.com/show/354004/linux-tux.svg" alt='linux'>
+      <img src="https://www.svgrepo.com/show/354004/linux-tux.svg" width="25" title="Linux"/>
     </a>
     <!--[MacOS]-->
     <a href="">
-      <img height="30" src="https://www.svgrepo.com/show/349442/macos.svg" alt='macos'>
+      <img src="https://cdn.simpleicons.org/macos/white" width="30" title="macOS"/>
     </a>
 </p>
 
@@ -392,16 +392,15 @@
 </p>
 <p align="center">
   <!--[GitHub Activity Graph]
-    <img src="https://activity-graph.herokuapp.com/graph?username=rensetiawanren"/>
+    <img src="https://activity-graph.herokuapp.com/graph?username=rensetiawanren"/>-->
   <!--[GitHub metrics]
     <img src="https://metrics.lecoq.io/rensetiawanren"/> -->
 </p>
-
 <p align="center">
-  <!--[Rendy's WakaTime Stats]-->
+  <!--[Rendy's WakaTime Stats]
   <a href="https://github.com/rensetiawanren/github-readme-stats">
     <img length="250" width="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=rensetiawanren&layout=compact&theme=radical&langs_count=10&hide_border=true&border_radius=20&bg_color=00000000"/>
-  </a>
+  </a> -->
 </p>
 
 <p align="center">
