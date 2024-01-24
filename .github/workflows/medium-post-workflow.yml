@@ -17,4 +17,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "MEDIUM-BLOG-POST-LIST"
+          max_post_count: "5"
           feed_list: "https://medium.com/feed/@rensetiawanren"
