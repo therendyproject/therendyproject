@@ -367,6 +367,8 @@
 </h3>
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [[HOAX] V1ru$ M-Banking Apps](https://www.youtube.com/watch?v=e7GULDp8zUI)
+- [[EAF] Beware of Ph1$hing Websites - part 1](https://www.youtube.com/watch?v=Or-2bFT_Ak8)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
 
 </td></tr></table>
