@@ -16,4 +16,5 @@ jobs:
       - name: Blog Post Workflow
         uses: gautamkrishnar/blog-post-workflow@master
         with:
+          comment_tag_name: "YOUTUBE-VIDEOS-LIST"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCMcJGJJpLaPF6sMQAhR4WTQ"
