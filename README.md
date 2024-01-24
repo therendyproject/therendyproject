@@ -2,7 +2,7 @@
 <p align="left">
   <img src="assets/emoji/waving-hand_1f44b.gif" width="40px" height="40px" />
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F70A&vCenter=true&width=450&lines=Hi,+Welcome+To+My+GitHub!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F70A&vCenter=true&width=450&lines=Hi,+Welcome+to+My+GitHub!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -67,7 +67,7 @@
     </a> -->
 </p>
 
-<!--![My Skills](https://skillicons.dev/icons?i=html,css,markdown,php,java,js,r,mysql,oracle,postgresql,git,github,notepad++,microsoftvisualbasic,idea,vscode,eclipse,androidstudio,adobedreamweaver,postman,katalonstudio,apachejmeter,appium,selenium,cucumber,serenity,restassured,microsoftexcel,bigquery,tableau,jira,testrail,trello,windows,linux,macos&theme=light)-->
+---
 
 <!--[Tech Stack]-->
 <h3 align="left">
@@ -77,152 +77,275 @@
 <p align="justify">
   <!--[HTML]-->
     <a href="">
-      <img src="https://img.shields.io/badge/-HTML-272727?style=flat-square&logo=html5&logoColor="/>
+      <img height="30" src="https://skillicons.dev/icons?i=html&theme=light" alt='html'>
     </a>
-  <!--[CSS]-->
+    <!--[CSS]-->
+    <a href="">
+      <img height="30" src="https://skillicons.dev/icons?i=css&theme=light" alt='css'>
+    </a>
+    <!--[Markdown]-->
+    <a href="">
+      <img height="30" src="https://skillicons.dev/icons?i=markdown&theme=light" alt='markdown'>
+    </a>
+    <!--[php]-->
+    <a href="">
+      <img height="30" src="https://skillicons.dev/icons?i=php&theme=light" alt='php'>
+    </a>
+    <!--[java]-->
+    <a href="">
+      <img height="30" src="https://skillicons.dev/icons?i=java&theme=light" alt='java'>
+    </a>
+    <!--[JavaScript]-->
+    <a href="">
+      <img height="30" src="https://skillicons.dev/icons?i=javascript&theme=light" alt='javascript'>
+    <!--[R language]-->
+    <a href="">
+      <img height="30" src="https://skillicons.dev/icons?i=r&theme=light" alt='r'>
+    </a>      
+    <!--[MySQL]-->
+    <a href="">
+      <img height="30" src="https://skillicons.dev/icons?i=mysql&theme=light" alt='mysql'>
+    </a>
+    <!--[Oracle]-->
+    <a href="">
+      <img height="30" src="https://www.svgrepo.com/show/354152/oracle.svg" alt='oracle'>
+    </a>
+    <!--[PostgreSQL]-->
+    <a href="">
+      <img height="30" src="https://skillicons.dev/icons?i=postgresql&theme=light" alt='postgresql'>
+    </a>
+    <!--[Git]-->
+    <a href="">
+      <img height="30" src="https://skillicons.dev/icons?i=git&theme=light" alt='git'>
+    </a>
+    <!--[GitHub]-->
+    <a href="">
+      <img height="30" src="https://skillicons.dev/icons?i=github&theme=light" alt='github'>
+    </a>
+    <!--[VB]-->
+    <a href="">
+      <img height="30" src="https://www.svgrepo.com/show/374157/vb.svg" alt='vb'>
+    </a>
+    <!--[IntellijIdea]-->
+    <a href="">
+      <img height="30" src="https://skillicons.dev/icons?i=idea&theme=light" alt='idea'>
+    </a>
+    <!--[VSCode]-->
+    <a href="">
+      <img height="30" src="https://skillicons.dev/icons?i=vscode&theme=light" alt='vscode'>
+    </a>
+    <!--[Eclipse]-->
+    <a href="">
+      <img height="30" src="https://skillicons.dev/icons?i=eclipse&theme=light" alt='eclipse'>
+    </a>
+    <!--[Android Studio]-->
+    <a href="">
+      <img height="30" src="https://skillicons.dev/icons?i=androidstudio&theme=light" alt='android-studio'></code>
+    </a>      
+    <!--[Adobe Dreamweaver]-->
+    <a href="">
+      <img height="30" src="https://www.svgrepo.com/show/452146/adobe-dreamweaver.svg" alt='adobe-dreamweaver'>
+    </a>
+    <a href="">
+    <!--[Postman]-->
+      <img height="30" src="https://skillicons.dev/icons?i=postman&theme=light" alt='postman'>
+    </a>
+    <!--[Katalon Studio]
+    <a href="">
+      <img height="30" src="https://simpleicons.org/icons/katalon.svg" alt='katalon'>
+    </a> -->
+    <!--[Apache JMeter]-->
+    <a href="">
+      <img height="30" src="https://cdn.simpleicons.org/apachejmeter" alt='apachejmeter'>
+    </a>
+    <!--[Appium]
+    <a href="">
+      <img height="30" src="https://skillicons.dev/icons?i=appium&theme=light" alt='appium'>
+    </a> -->
+    <!--[Selenium]-->
+    <a href="">
+      <img height="30" src="https://skillicons.dev/icons?i=selenium&theme=light" alt='selenium'>
+    </a>
+    <!--[Cucumber]-->
+    <a href="">
+      <img height="30" src="https://www.svgrepo.com/show/353625/cucumber.svg" alt='cucumber'>
+    </a>
+    <!--[Microsoft Excel]-->
+    <a href="">
+      <img height="30" src="https://www.svgrepo.com/show/452066/ms-excel.svg" alt='microsoft-excel'>
+    </a>
+    <!--[Jira]-->
+    <a href="">
+      <img height="30" src="https://cdn.simpleicons.org/jira" alt='jira'>
+    </a>
+    <!--[TestRail]
+    <a href="">
+      <img height="30" src="https://skillicons.dev/icons?i=testrail&theme=light" alt='test-rail'>
+    </a> -->
+    <a href="">
+        <!--[Windows]-->
+      <img height="30" src="https://www.svgrepo.com/show/382713/windows-applications.svg" alt='windows'>
+    </a>
+    <!--[Linux]-->
+    <a href="">
+      <img height="30" src="https://www.svgrepo.com/show/354004/linux-tux.svg" alt='linux'>
+    </a>
+    <!--[MacOS]-->
+    <a href="">
+      <img height="30" src="https://www.svgrepo.com/show/349442/macos.svg" alt='macos'>
+    </a>
+</p>
+
+
+<p align="justify">
+  <!--[HTML]
+    <a href="">
+      <img src="https://img.shields.io/badge/-HTML-272727?style=flat-square&logo=html5&logoColor="/>
+    </a> -->
+  <!--[CSS]
     <a href="">
       <img src="https://img.shields.io/badge/-CSS-272727?style=flat-square&logo=css3&logoColor=1572B6"/>
-    </a>
-  <!--[Markdown]-->
+    </a> -->
+  <!--[Markdown]
     <a href="">
       <img src="https://img.shields.io/badge/-Markdown-272727?style=flat-square&logo=markdown&logoColor="/>
-    </a>
-  <!--[PHP]-->
+    </a> -->
+  <!--[PHP]
     <a href="">
       <img src="https://img.shields.io/badge/-php-272727?style=flat-square&logo=php&logoColor=777BB4"/>
-    </a>
-  <!--[Java]-->
+    </a> -->
+  <!--[Java]
     <a href="">
       <img src="https://img.shields.io/badge/-Java-272727?style=flat-square&logo=java&logoColor="/>
-    </a>
-  <!--[Java Script]-->
+    </a> -->
+  <!--[Java Script]
     <a href="">
       <img src="https://img.shields.io/badge/-JavaScript-272727?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-    </a>
+    </a> -->
   <!--[Python]
     <a href="">
       <img src="https://img.shields.io/badge/-Python-272727?style=flat-square&logo=python&logoColor="/>
     </a>-->  
-  <!--[R]-->
+  <!--[R]
     <a href="">
       <img src="https://img.shields.io/badge/-R-272727?style=flat-square&logo=r&logoColor=276DC3"/>
-    </a>  
-  <!--[MySQL]-->
+    </a>  -->
+  <!--[MySQL]
     <a href="">
       <img src="https://img.shields.io/badge/-MySQL-272727?style=flat-square&logo=mysql&logoColor=4479A1"/>
-    </a>
-  <!--[Oracle]-->
+    </a> -->
+  <!--[Oracle]
     <a href="">
       <img src="https://img.shields.io/badge/-Oracle-272727?style=flat-square&logo=oracle&logoColor=F80000"/>
-    </a>
-  <!--[PostgreSQL]-->
+    </a> -->
+  <!--[PostgreSQL]
     <a href="">
       <img src="https://img.shields.io/badge/-PostgreSQL-272727?style=flat-square&logo=postgresql&logoColor="/>
-    </a>  
-  <!--[Git]-->
+    </a>  -->
+  <!--[Git]
     <a href="">
       <img src="https://img.shields.io/badge/-Git-272727?style=flat-square&logo=git&logoColor="/>
-    </a>
-  <!--[GitHub]-->
+    </a> -->
+  <!--[GitHub]
     <a href="">
       <img src="https://img.shields.io/badge/-GitHub-272727?style=flat-square&logo=github&logoColor="/>
-    </a>
-  <!--[Microsoft Visual Basic]-->
+    </a> -->
+  <!--[Microsoft Visual Basic]
     <a href="">
-      <img src="https://img.shields.io/badge/-Microsoft%20VB-272727?style=flat-square&logo=microsoft-visual-basic&logoColor="/>
-    </a>
-  <!--[IntelliJ IDEA]-->
+      <img src="https://img.shields.io/badge/-Microsoft%20VB-272727?style=flat-square&logo=vb&logoColor="/>
+    </a> -->
+  <!--[IntelliJ IDEA]
     <a href="">
       <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-272727?style=flat-square&logo=intellij-idea&logoColor="/>
-    </a>
+    </a> -->
   <!--[PyCharm]
     <a href="">
       <img src="https://img.shields.io/badge/-PyCharm-272727?style=flat-square&logo=pycharm&logoColor="/>
     </a>-->
-  <!--[Visual Studio Code]-->
+  <!--[Visual Studio Code]
     <a href="">
       <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-272727?style=flat-square&logo=visual-studio-code&logoColor=007ACC"/>
-    </a>  
-  <!--[Eclipse]-->
+    </a>  -->
+  <!--[Eclipse]
     <a href="">
       <img src="https://img.shields.io/badge/-Eclipse-272727?style=flat-square&logo=Eclipse&logoColor="/>
-    </a>
-  <!--[Android Studio]-->
+    </a> -->
+  <!--[Android Studio]
     <a href="">
       <img src="https://img.shields.io/badge/-Android%20Studio-272727?style=flat-square&logo=Android-Studio&logoColor="/>
-    </a>  
+    </a>  -->
   <!--Google Colab]
     <a href="">
       <img src="https://img.shields.io/badge/-Google%20Colaboratory-272727?style=flat-square&logo=google-colab&logoColor="/>
     </a>-->
-  <!--[Adobe Dreamweaver]-->
+  <!--[Adobe Dreamweaver]
     <a href="">
       <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-272727?style=flat-square&logo=Adobe%20Dreamweaver&logoColor="/>
-    </a>
-  <!--[Postman]-->
+    </a> -->
+  <!--[Postman]
     <a href="">
       <img src="https://img.shields.io/badge/-Postman-272727?style=flat-square&logo=postman&logoColor=FF6C37"/>
-    </a>
-  <!--[Katalon Studio]-->
+    </a> -->
+  <!--[Katalon Studio]
     <a href="">
       <img src="https://img.shields.io/badge/-Katalon%20Studio-272727?style=flat-square&logo=katalon-studio&logoColor="/>
-    </a>
-  <!--[Apache JMeter]-->
+    </a> -->
+  <!--[Apache JMeter]
     <a href="">
       <img src="https://img.shields.io/badge/-Apache%20JMeter-272727?style=flat-square&logo=apache-jmeter&logoColor=D22128"/>
-    </a>
-  <!--[Appium]-->
+    </a> -->
+  <!--[Appium]
     <a href="">
       <img src="https://img.shields.io/badge/-Appium-272727?style=flat-square&logo=appium&logoColor="/>
-    </a>
-  <!--[Selenium Webdriver]-->
+    </a> -->
+  <!--[Selenium Webdriver]
     <a href="">
       <img src="https://img.shields.io/badge/-Selenium-272727?style=flat-square&logo=selenium&logoColor=43B02A"/>
-    </a>
-  <!--[Cucumber]-->
+    </a> -->
+  <!--[Cucumber]
     <a href="">
       <img src="https://img.shields.io/badge/-Cucumber-272727?style=flat-square&logo=cucumber&logoColor=23D96C"/>
-    </a>
-  <!--[Microsoft Excel]-->
+    </a> -->
+  <!--[Microsoft Excel]
     <a href="">
       <img src="https://img.shields.io/badge/-Microsoft%20Excel-272727?style=flat-square&logo=microsoft-excel&logoColor=43B02A"/>
-    </a>
+    </a> --->
   <!--[BigQuery]
     <a href="">
       <img src="https://img.shields.io/badge/-BigQuery-272727?style=flat-square&logo=big-query&logoColor="/>
-    </a>
+    </a> -->
   <!--[Tableau]
     <a href="">
       <img src="https://img.shields.io/badge/-Tableau-272727?style=flat-square&logo=tableau&logoColor=lightblue"/>
-    </a>
+    </a> -->
   <!--[RStudio]
     <a href="">
       <img src="https://img.shields.io/badge/-RStudio-272727?style=flat-square&logo=rstudio&logoColor=276DC3"/>
     </a>  --->
-  <!--[Jira]-->
+  <!--[Jira]
     <a href="">
       <img src="https://img.shields.io/badge/-Jira-272727?style=flat-square&logo=jira&logoColor=0052CC"/>
-    </a>
-  <!--[TestRail]-->
+    </a> -->
+  <!--[TestRail]
     <a href="">
       <img src="https://img.shields.io/badge/-TestRail-272727?style=flat-square&logo=testrail&logoColor="/>
-    </a>
-  <!--[Trello]-->
+    </a> -->
+  <!--[Trello]-
     <a href="">
       <img src="https://img.shields.io/badge/-Trello-272727?style=flat-square&logo=trello&logoColor=0052CC"/>
-    </a>
-  <!--[Windows]-->
+    </a> -->
+  <!--[Windows]
     <a href="">
       <img src="https://img.shields.io/badge/-Windows-272727?style=flat-square&logo=windows&logoColor=0078D6"/>
-    </a>
-  <!--[Linux]-->
+    </a> -->
+  <!--[Linux]
     <a href="">
       <img src="https://img.shields.io/badge/-Linux-272727?style=flat-square&logo=linux&logoColor="/>
-    </a>
-  <!--[MacOS]-->
+    </a> -->
+  <!--[MacOS]
     <a href="">
       <img src="https://img.shields.io/badge/-MacOS-272727?style=flat-square&logo=Apple&logoColor="/>
-    </a>
+    </a> -->
 </p>
 
 ---
@@ -258,9 +381,9 @@
     </a>
   <!--[Rendy's GitHub stats]
     <a href="https://github.com/rensetiawanren/github-readme-stats">
-      <img length="250" width="350" src="https://github-readme-stats.vercel.app/api?username=rensetiawanren&count_private=true&show_icon=true&theme=radical&hide_border=true&border_radius=20"/>
+      <img length="250" width="350" src="https://github-readme-stats.vercel.app/api?username=rensetiawanren&count_private=true&show_icon=true&theme=radical&hide_border=true&border_radius=20"/> -->
     </a>
-</p>-->
+</p>
 <p align="center">    
   <!--[Rendy's GitHub top-lang]-->
     <a href="https://github.com/rensetiawanren/github-readme-stats">
@@ -269,16 +392,24 @@
 </p>
 <p align="center">
   <!--[GitHub Activity Graph]
-    <img src="https://activity-graph.herokuapp.com/graph?username=rensetiawanren"/>-->
+    <img src="https://activity-graph.herokuapp.com/graph?username=rensetiawanren"/>
   <!--[GitHub metrics]
-    <img src="https://metrics.lecoq.io/rensetiawanren"/>-->
+    <img src="https://metrics.lecoq.io/rensetiawanren"/> -->
 </p>
 
+<p align="center">
+  <!--[Rendy's WakaTime Stats]-->
+  <a href="https://github.com/rensetiawanren/github-readme-stats">
+    <img length="250" width="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=rensetiawanren&layout=compact&theme=radical&langs_count=10&hide_border=true&border_radius=20&bg_color=00000000"/>
+  </a>
+</p>
+
+<p align="center">
 <!--[Rendy's GitHub profile-views-counter]
   <img src="https://komarev.com/ghpvc/?username=rensetiawanren&color=lightgray&style=flat-square&label=👀+VISITORS"/>
 
   <!--<img src="https://profile-counter.glitch.me/rensetiawanren/count.svg" alt="" />-->
-
+</p>
 </details>
 
 ---
@@ -307,8 +438,6 @@
 <!--[Emojis]-->
   <!-- https://emojipedia.org/emoji/ -->
   <!-- https://github-emoji-picker.rickstaa.dev/ -->
-
-<!--[HTML Emojis]-->
   <!-- https://www.fileformat.info/index.htm -->
 
 <!--[Shields]-->
@@ -319,6 +448,7 @@
   <!-- https://logos.fandom.com/wiki/Logopedia -->
   <!-- https://simpleicons.org/ -->
   <!-- https://simpleicons.vercel.app/ -->
+  <!-- https://github.com/tandpfun/skill-icons#readme -->
 
 <!--[Create Self Updating README.md]-->
   <!-- https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91 -->
