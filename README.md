@@ -52,16 +52,16 @@
   <a href="https://dev.to/rensetiawanren">
     <img src="https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" title="Rendy's DEV.TO" alt="DEV.TO"/>
   </a>
-  <!--[Hashnode]
+  <!--[Hashnode]-->
   <a href="https://rensetiawanren.hashnode.dev/">
     <img src="https://img.shields.io/badge/hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" title="Rendy's Hashnode" alt="Hashnode"/>
-  </a> -->
+  </a>
   <!--[Medium]-->
   <a href="https://rensetiawanren.medium.com">
     <img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white" title="Rendy's Medium" alt="Medium"/>
   </a>
   <!--[Tableau]
-  <a href="https://public.tableau.com/app/profile/rendy.setiawan">
+  <a href="">
     <img src="https://img.shields.io/badge/tableau-18BFFF?style=for-the-badge&logo=tableau&logoColor=white" title="Rendy's Tableau" alt="Tableau"/>
   </a> -->
 
@@ -72,276 +72,124 @@
 
 <p align="center">
   <!--[HTML]-->
-    <a href="">
-      <img src="https://skillicons.dev/icons?i=html&theme=light" width="30" title="HTML"/>
-    </a>
-    <!--[CSS]-->
-    <a href="">
-      <img src="https://skillicons.dev/icons?i=css&theme=light" width="30" title="CSS"/>
-    </a>
-    <!--[Markdown]-->
-    <a href="">
-      <img src="https://skillicons.dev/icons?i=markdown&theme=light" width="30" title="Markdown"/>
-    </a>
-    <!--[php]-->
-    <a href="">
-      <img src="https://skillicons.dev/icons?i=php&theme=light" width="30" title="php"/>
-    </a>
-    <!--[java]-->
-    <a href="">
-      <img src="https://skillicons.dev/icons?i=java&theme=light" width="30" title="Java"/>
-    </a>
+  <a href="https://html.spec.whatwg.org/">
+    <img src="https://skillicons.dev/icons?i=html&theme=light" width="30" title="HTML"/>
+  </a>
+  <!--[CSS]-->
+  <a href="https://www.w3.org/TR/CSS/#css">
+    <img src="https://skillicons.dev/icons?i=css&theme=light" width="30" title="CSS"/>
+  </a>
+  <!--[Markdown]-->
+  <a href="https://www.markdownguide.org/">
+    <img src="https://skillicons.dev/icons?i=markdown&theme=light" width="30" title="Markdown"/>
+  </a>
+  <!--[php]-->
+  <a href="https://www.php.net/">
+    <img src="https://skillicons.dev/icons?i=php&theme=light" width="30" title="php"/>
+  </a>
+  <!--[java]-->
+  <a href="https://www.java.com/">
+    <img src="https://skillicons.dev/icons?i=java&theme=light" width="30" title="Java"/>
+  </a>
     <!--[JavaScript]-->
     <a href="">
       <img src="https://skillicons.dev/icons?i=javascript&theme=light" width="30" title="JavaScript"/>
-    <!--[R Language]-->
-    <a href="">
-      <img src="https://skillicons.dev/icons?i=r&theme=light" width="30" title="R Language"/>
-    </a>      
-    <!--[MySQL]-->
-    <a href="">
-      <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="30" title="MyQL"/>
-    </a>
-    <!--[Oracle]-->
-    <a href="">
-      <img width="30" src="https://cdn.simpleicons.org/oracle" width="30" title="Oracle"/>
-    </a>
-    <!--[PostgreSQL]-->
-    <a href="">
-      <img src="https://skillicons.dev/icons?i=postgresql&theme=light" width="30" title="PostgreSQL"/>
-    </a>
-    <!--[Git]-->
-    <a href="">
-      <img src="https://skillicons.dev/icons?i=git&theme=light" width="30" title="Git"/>
-    </a>
-    <!--[GitHub]-->
-    <a href="">
-      <img src="https://skillicons.dev/icons?i=github&theme=light" width="30" title="GitHub"/>
-    </a>
-    <!--[VB]-->
-    <a href="">
-      <img src="https://www.svgrepo.com/show/374157/vb.svg" width="30" title="VB"/>
-    </a>
-    <!--[IntelliJ IDEA]-->
-    <a href="">
-      <img src="https://skillicons.dev/icons?i=idea&theme=light" width="30" title="IntelliJ IDEA"/>
-    </a>
-    <!--[VSCode]-->
-    <a href="">
-      <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="30" title="VSCode"/>
-    </a>
-    <!--[Eclipse]-->
-    <a href="">
-      <img src="https://skillicons.dev/icons?i=eclipse&theme=light" width="30" title="Eclipse"/>
-    </a>
-    <!--[Android Studio]-->
-    <a href="">
-      <img src="https://skillicons.dev/icons?i=androidstudio&theme=light" width="30" title="Android Studio"/>
-    </a>      
-    <!--[Adobe Dreamweaver]-->
-    <a href="">
-      <img height="30" src="https://www.svgrepo.com/show/452146/adobe-dreamweaver.svg" width="30" title="Adobe Dreamweaver"/>
-    </a>
-    <a href="">
-    <!--[Postman]-->
-      <img src="https://skillicons.dev/icons?i=postman&theme=light" width="30" title="Postman"/>
-    </a>
-    <!--[Katalon Studio]
-    <a href="">
-      <img src="https://simpleicons.org/icons/katalon.svg" width="30" title="Katalon Studio"/>
-    </a> -->
-    <!--[Apache JMeter]-->
-    <a href="">
-      <img src="https://cdn.simpleicons.org/apachejmeter" width="30" title="Apache JMeter"/>
-    </a>
-    <!--[Appium]
-    <a href="">
-      <img src="https://skillicons.dev/icons?i=appium&theme=light" width="30" title="Appium"/>
-    </a> -->
-    <!--[Selenium]-->
-    <a href="">
-      <img src="https://skillicons.dev/icons?i=selenium&theme=light" width="30" title="Selenium"/>
-    </a>
-    <!--[Cucumber]-->
-    <a href="">
-      <img src="https://www.svgrepo.com/show/353625/cucumber.svg" width="30" title="Cucumber"/>
-    </a>
-    <!--[Microsoft Excel]-->
-    <a href="">
-      <img src="https://www.svgrepo.com/show/452066/ms-excel.svg" width="30" title="Microsoft Excel"/>
-    </a>
-    <!--[Jira]-->
-    <a href="">
-      <img src="https://cdn.simpleicons.org/jira" width="27" title="Jira"/>
-    </a>
-    <!--[TestRail]-->
-    <a href="">
-      <img src="https://cdn.simpleicons.org/testrail" width="27" title="TestRail"/>
-    </a>
-    <!--[Windows]-->
-    <a href="">
-      <img src="https://www.svgrepo.com/show/382713/windows-applications.svg" width="25" title="Windows"/>
-    </a>
-    <!--[Linux]-->
-    <a href="">
-      <img src="https://www.svgrepo.com/show/354004/linux-tux.svg" width="25" title="Linux"/>
-    </a>
-    <!--[MacOS]-->
-    <a href="">
-      <img src="https://cdn.simpleicons.org/macos/white" width="30" title="macOS"/>
-    </a>
-</p>
-
-
-<p align="justify">
-  <!--[HTML]
-    <a href="">
-      <img src="https://img.shields.io/badge/-HTML-272727?style=flat-square&logo=html5&logoColor="/>
-    </a> -->
-  <!--[CSS]
-    <a href="">
-      <img src="https://img.shields.io/badge/-CSS-272727?style=flat-square&logo=css3&logoColor=1572B6"/>
-    </a> -->
-  <!--[Markdown]
-    <a href="">
-      <img src="https://img.shields.io/badge/-Markdown-272727?style=flat-square&logo=markdown&logoColor="/>
-    </a> -->
-  <!--[PHP]
-    <a href="">
-      <img src="https://img.shields.io/badge/-php-272727?style=flat-square&logo=php&logoColor=777BB4"/>
-    </a> -->
-  <!--[Java]
-    <a href="">
-      <img src="https://img.shields.io/badge/-Java-272727?style=flat-square&logo=java&logoColor="/>
-    </a> -->
-  <!--[Java Script]
-    <a href="">
-      <img src="https://img.shields.io/badge/-JavaScript-272727?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-    </a> -->
-  <!--[Python]
-    <a href="">
-      <img src="https://img.shields.io/badge/-Python-272727?style=flat-square&logo=python&logoColor="/>
-    </a>-->  
-  <!--[R]
-    <a href="">
-      <img src="https://img.shields.io/badge/-R-272727?style=flat-square&logo=r&logoColor=276DC3"/>
-    </a>  -->
-  <!--[MySQL]
-    <a href="">
-      <img src="https://img.shields.io/badge/-MySQL-272727?style=flat-square&logo=mysql&logoColor=4479A1"/>
-    </a> -->
-  <!--[Oracle]
-    <a href="">
-      <img src="https://img.shields.io/badge/-Oracle-272727?style=flat-square&logo=oracle&logoColor=F80000"/>
-    </a> -->
-  <!--[PostgreSQL]
-    <a href="">
-      <img src="https://img.shields.io/badge/-PostgreSQL-272727?style=flat-square&logo=postgresql&logoColor="/>
-    </a>  -->
-  <!--[Git]
-    <a href="">
-      <img src="https://img.shields.io/badge/-Git-272727?style=flat-square&logo=git&logoColor="/>
-    </a> -->
-  <!--[GitHub]
-    <a href="">
-      <img src="https://img.shields.io/badge/-GitHub-272727?style=flat-square&logo=github&logoColor="/>
-    </a> -->
-  <!--[Microsoft Visual Basic]
-    <a href="">
-      <img src="https://img.shields.io/badge/-Microsoft%20VB-272727?style=flat-square&logo=vb&logoColor="/>
-    </a> -->
-  <!--[IntelliJ IDEA]
-    <a href="">
-      <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-272727?style=flat-square&logo=intellij-idea&logoColor="/>
-    </a> -->
-  <!--[PyCharm]
-    <a href="">
-      <img src="https://img.shields.io/badge/-PyCharm-272727?style=flat-square&logo=pycharm&logoColor="/>
-    </a>-->
-  <!--[Visual Studio Code]
-    <a href="">
-      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-272727?style=flat-square&logo=visual-studio-code&logoColor=007ACC"/>
-    </a>  -->
-  <!--[Eclipse]
-    <a href="">
-      <img src="https://img.shields.io/badge/-Eclipse-272727?style=flat-square&logo=Eclipse&logoColor="/>
-    </a> -->
-  <!--[Android Studio]
-    <a href="">
-      <img src="https://img.shields.io/badge/-Android%20Studio-272727?style=flat-square&logo=Android-Studio&logoColor="/>
-    </a>  -->
-  <!--Google Colab]
-    <a href="">
-      <img src="https://img.shields.io/badge/-Google%20Colaboratory-272727?style=flat-square&logo=google-colab&logoColor="/>
-    </a>-->
-  <!--[Adobe Dreamweaver]
-    <a href="">
-      <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-272727?style=flat-square&logo=Adobe%20Dreamweaver&logoColor="/>
-    </a> -->
-  <!--[Postman]
-    <a href="">
-      <img src="https://img.shields.io/badge/-Postman-272727?style=flat-square&logo=postman&logoColor=FF6C37"/>
-    </a> -->
+  <!--[R Language]-->
+  <a href="https://www.r-project.org/">
+    <img src="https://skillicons.dev/icons?i=r&theme=light" width="30" title="R Language"/>
+  </a>      
+  <!--[MySQL]-->
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="30" title="MyQL"/>
+  </a>
+  <!--[Oracle]-->
+  <a href="https://www.oracle.com/">
+    <img width="30" src="https://cdn.simpleicons.org/oracle" width="30" title="Oracle"/>
+  </a>
+  <!--[PostgreSQL]-->
+  <a href="https://www.postgresql.org/">
+    <img src="https://skillicons.dev/icons?i=postgresql&theme=light" width="30" title="PostgreSQL"/>
+  </a>
+  <!--[Git]-->
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git&theme=light" width="30" title="Git"/>
+  </a>
+  <!--[GitHub]-->
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github&theme=light" width="30" title="GitHub"/>
+  </a>
+  <!--[VB]-->
+  <a href="https://learn.microsoft.com/en-Us/dotnet/visual-basic/getting-started/">
+    <img src="https://www.svgrepo.com/show/374157/vb.svg" width="30" title="VB"/>
+  </a>
+  <!--[IntelliJ IDEA]-->
+  <a href="https://www.jetbrains.com/idea/">
+    <img src="https://skillicons.dev/icons?i=idea&theme=light" width="30" title="IntelliJ IDEA"/>
+  </a>
+  <!--[VSCode]-->
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="30" title="VSCode"/>
+  </a>
+  <!--[Eclipse]-->
+  <a href="https://www.eclipse.org/">
+    <img src="https://skillicons.dev/icons?i=eclipse&theme=light" width="30" title="Eclipse"/>
+  </a>
+  <!--[Android Studio]-->
+  <a href="https://developer.android.com/studio/">
+    <img src="https://skillicons.dev/icons?i=androidstudio&theme=light" width="30" title="Android Studio"/>
+  </a>      
+  <!--[Adobe Dreamweaver]-->
+  <a href="https://www.adobe.com/products/dreamweaver.html">
+    <img height="30" src="https://www.svgrepo.com/show/452146/adobe-dreamweaver.svg" width="30" title="Adobe Dreamweaver"/>
+  </a>
+  <!--[Postman]-->
+  <a href="https://www.postman.com/">
+    <img src="https://skillicons.dev/icons?i=postman&theme=light" width="30" title="Postman"/>
+  </a>
   <!--[Katalon Studio]
-    <a href="">
-      <img src="https://img.shields.io/badge/-Katalon%20Studio-272727?style=flat-square&logo=katalon-studio&logoColor="/>
-    </a> -->
-  <!--[Apache JMeter]
-    <a href="">
-      <img src="https://img.shields.io/badge/-Apache%20JMeter-272727?style=flat-square&logo=apache-jmeter&logoColor=D22128"/>
-    </a> -->
+  <a href="https://katalon.com/katalon-studio/">
+    <img src="https://simpleicons.org/icons/katalon.svg" width="30" title="Katalon Studio"/>
+  </a> -->
+  <!--[Apache JMeter]-->
+  <a href="https://jmeter.apache.org/">
+    <img src="https://cdn.simpleicons.org/apachejmeter" width="30" title="Apache JMeter"/>
+  </a>
   <!--[Appium]
-    <a href="">
-      <img src="https://img.shields.io/badge/-Appium-272727?style=flat-square&logo=appium&logoColor="/>
-    </a> -->
-  <!--[Selenium Webdriver]
-    <a href="">
-      <img src="https://img.shields.io/badge/-Selenium-272727?style=flat-square&logo=selenium&logoColor=43B02A"/>
-    </a> -->
-  <!--[Cucumber]
-    <a href="">
-      <img src="https://img.shields.io/badge/-Cucumber-272727?style=flat-square&logo=cucumber&logoColor=23D96C"/>
-    </a> -->
-  <!--[Microsoft Excel]
-    <a href="">
-      <img src="https://img.shields.io/badge/-Microsoft%20Excel-272727?style=flat-square&logo=microsoft-excel&logoColor=43B02A"/>
-    </a> --->
-  <!--[BigQuery]
-    <a href="">
-      <img src="https://img.shields.io/badge/-BigQuery-272727?style=flat-square&logo=big-query&logoColor="/>
-    </a> -->
-  <!--[Tableau]
-    <a href="">
-      <img src="https://img.shields.io/badge/-Tableau-272727?style=flat-square&logo=tableau&logoColor=lightblue"/>
-    </a> -->
-  <!--[RStudio]
-    <a href="">
-      <img src="https://img.shields.io/badge/-RStudio-272727?style=flat-square&logo=rstudio&logoColor=276DC3"/>
-    </a>  --->
-  <!--[Jira]
-    <a href="">
-      <img src="https://img.shields.io/badge/-Jira-272727?style=flat-square&logo=jira&logoColor=0052CC"/>
-    </a> -->
-  <!--[TestRail]
-    <a href="">
-      <img src="https://img.shields.io/badge/-TestRail-272727?style=flat-square&logo=testrail&logoColor="/>
-    </a> -->
-  <!--[Trello]-
-    <a href="">
-      <img src="https://img.shields.io/badge/-Trello-272727?style=flat-square&logo=trello&logoColor=0052CC"/>
-    </a> -->
-  <!--[Windows]
-    <a href="">
-      <img src="https://img.shields.io/badge/-Windows-272727?style=flat-square&logo=windows&logoColor=0078D6"/>
-    </a> -->
-  <!--[Linux]
-    <a href="">
-      <img src="https://img.shields.io/badge/-Linux-272727?style=flat-square&logo=linux&logoColor="/>
-    </a> -->
-  <!--[MacOS]
-    <a href="">
-      <img src="https://img.shields.io/badge/-MacOS-272727?style=flat-square&logo=Apple&logoColor="/>
-    </a> -->
+  <a href="https://appium.io/">
+    <img src="https://skillicons.dev/icons?i=appium&theme=light" width="30" title="Appium"/>
+  </a> -->
+  <!--[Selenium]-->
+  <a href="https://www.selenium.dev/">
+    <img src="https://skillicons.dev/icons?i=selenium&theme=light" width="30" title="Selenium"/>
+  </a>
+  <!--[Cucumber]-->
+  <a href="https://cucumber.io/">
+    <img src="https://www.svgrepo.com/show/353625/cucumber.svg" width="30" title="Cucumber"/>
+  </a>
+  <!--[Microsoft Excel]-->
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
+    <img src="https://www.svgrepo.com/show/452066/ms-excel.svg" width="30" title="Microsoft Excel"/>
+  </a>
+  <!--[Jira]-->
+  <a href="https://www.atlassian.com/software/jira">
+    <img src="https://cdn.simpleicons.org/jira" width="27" title="Jira"/>
+  </a>
+  <!--[TestRail]-->
+  <a href="https://www.testrail.com/">
+    <img src="https://cdn.simpleicons.org/testrail" width="27" title="TestRail"/>
+  </a>
+  <!--[Windows]-->
+  <a href="https://www.microsoft.com/en-id/windows">
+    <img src="https://www.svgrepo.com/show/382713/windows-applications.svg" width="25" title="Windows"/>
+  </a>
+  <!--[Linux]-->
+  <a href="https://www.linux.org/">
+    <img src="https://www.svgrepo.com/show/354004/linux-tux.svg" width="25" title="Linux"/>
+  </a>
+  <!--[MacOS]-->
+  <a href="https://www.apple.com/id/macos/">
+    <img src="https://cdn.simpleicons.org/macos/white" width="30" title="macOS"/>
+  </a>
 </p>
 
 ---
