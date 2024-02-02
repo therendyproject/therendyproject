@@ -212,6 +212,7 @@
   <td>
 
 <!-- MEDIUM-BLOG-POST-LIST:START -->
+- [HTML — cheatsheet](https://rensetiawanren.medium.com/html-cheatsheet-bb4c0ba45598?source=rss-8e170bdaa06------2)
 - [Beware of Phishing Website — part 1](https://rensetiawanren.medium.com/beware-of-phishing-website-part-1-cases-31ec1ea6431b?source=rss-8e170bdaa06------2)
 - [Creating GitHub Template Repository](https://rensetiawanren.medium.com/creating-github-template-repository-53b0f4884970?source=rss-8e170bdaa06------2)
 - [How to Install Java on Manjaro Linux](https://rensetiawanren.medium.com/how-to-install-java-on-manjaro-linux-2afe47c2276?source=rss-8e170bdaa06------2)
