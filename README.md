@@ -221,6 +221,7 @@
   <td>
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [[TUTORIAL] HTML - cheatsheet](https://www.youtube.com/watch?v=bb2Sqdmx1wo)
 - [[HOAX] V1ru$ M-Banking Apps](https://www.youtube.com/watch?v=e7GULDp8zUI)
 - [[EAF] Beware of Ph1$hing Websites | e-commerce job invitation interviews](https://www.youtube.com/watch?v=Or-2bFT_Ak8)
 - [[HOAX] Mobile Banking Apps V1ru$](https://www.youtube.com/watch?v=6EGsE7LioZg)
