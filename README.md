@@ -209,7 +209,7 @@
     </th>
   </tr>
   <tr>
-  <td>
+  <td valign="top" width="50%">
 
 <!-- MEDIUM-BLOG-POST-LIST:START -->
 - [HTML — cheatsheet](https://rensetiawanren.medium.com/html-cheatsheet-bb4c0ba45598?source=rss-8e170bdaa06------2)
@@ -219,7 +219,7 @@
 <!-- MEDIUM-BLOG-POST-LIST:END -->
 
   </td>
-  <td>
+  <td valign="top" width="50%">
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [[TUTORIAL] HTML - cheatsheet](https://www.youtube.com/watch?v=bb2Sqdmx1wo)
