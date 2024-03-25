@@ -36,10 +36,10 @@
   <a href="https://www.twitter.com/rensetiawanren">
     <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Rendy's Twitter" alt="Twitter"/>
   </a>
-  <!--[Instagram]
+  <!--[Instagram]-->
   <a href="https://www.instagram.com/rensetiawanren/">
     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Rendy's Instagram" alt="Instagram"/>
-  </a> -->
+  </a>
   <!--[TikTok]-->
   <a href="http://tiktok.com/@rensetiawanren">
     <img src="https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white" title="Rendy's TikTok" alt="TikTok"/>
@@ -91,9 +91,12 @@
   <a href="https://www.java.com/">
     <img src="https://skillicons.dev/icons?i=java&theme=light" width="30" title="Java"/>
   </a>
-    <!--[JavaScript]-->
+  <!--[JavaScript]-->
     <a href="">
       <img src="https://skillicons.dev/icons?i=javascript&theme=light" width="30" title="JavaScript"/>
+  <!--[Python]-->
+    <a href="">
+      <img src="https://skillicons.dev/icons?i=python?&theme=light" width="30" title="Python"/>      
   <!--[R Language]-->
   <a href="https://www.r-project.org/">
     <img src="https://skillicons.dev/icons?i=r&theme=light" width="30" title="R Language"/>
@@ -110,6 +113,9 @@
   <a href="https://www.postgresql.org/">
     <img src="https://skillicons.dev/icons?i=postgresql&theme=light" width="30" title="PostgreSQL"/>
   </a>
+  <!--[Google Colaboratory]-->
+    <a href="">
+      <img src="https://www.svgrepo.com/show/349325/colaboratory.svg" width="30" title="Google Colaboratory"/>  
   <!--[Git]-->
   <a href="https://git-scm.com/">
     <img src="https://skillicons.dev/icons?i=git&theme=light" width="30" title="Git"/>
@@ -126,6 +132,9 @@
   <a href="https://www.jetbrains.com/idea/">
     <img src="https://skillicons.dev/icons?i=idea&theme=light" width="30" title="IntelliJ IDEA"/>
   </a>
+  <!--[PyCharm]-->
+    <a href="">
+      <img src="https://skillicons.dev/icons?i=pycharm&theme=light" width="30" title="PyCharm"/>  
   <!--[VSCode]-->
   <a href="https://code.visualstudio.com/">
     <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="30" title="VSCode"/>
