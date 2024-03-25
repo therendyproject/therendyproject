@@ -260,10 +260,9 @@
 
 <!--[My Stats]-->
 <details>
-  <summary>
-    <h3>📊 My Github Statistics</h3>
-  </summary>
+  <summary>Click Me! </summary>
 
+### 📊 My Github Statistics
 <p align="center">
   <!--[trophy]-->
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -305,6 +304,7 @@
 
   <!--<img src="https://profile-counter.glitch.me/rensetiawanren/count.svg" alt="" />-->
 </p>
+
 </details>
 
 ---
