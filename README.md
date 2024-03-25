@@ -48,6 +48,8 @@
   <a href="http://www.youtube.com/@rensetiawanren">
     <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Rendy's YouTube" alt="YouTube"/>
   </a>
+</p>
+<p align="center">
   <!--[DEV.TO]-->
   <a href="https://dev.to/rensetiawanren">
     <img src="https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" title="Rendy's DEV.TO" alt="DEV.TO"/>
@@ -64,6 +66,7 @@
   <a href="">
     <img src="https://img.shields.io/badge/tableau-18BFFF?style=for-the-badge&logo=tableau&logoColor=white" title="Rendy's Tableau" alt="Tableau"/>
   </a> -->
+</p>
 
 ---
 
@@ -96,7 +99,7 @@
       <img src="https://skillicons.dev/icons?i=javascript&theme=light" width="30" title="JavaScript"/>
   <!--[Python]-->
     <a href="">
-      <img src="https://skillicons.dev/icons?i=python?&theme=light" width="30" title="Python"/>      
+      <img src="https://skillicons.dev/icons?i=python&theme=light" width="30" title="Python"/>      
   <!--[R Language]-->
   <a href="https://www.r-project.org/">
     <img src="https://skillicons.dev/icons?i=r&theme=light" width="30" title="R Language"/>
