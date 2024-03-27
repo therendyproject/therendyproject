@@ -110,7 +110,7 @@
   </a>
   <!--[Oracle]-->
   <a href="https://www.oracle.com/">
-    <img width="30" src="https://cdn.simpleicons.org/oracle" width="30" title="Oracle"/>
+    <img width="30" src="https://www.svgrepo.com/show/354152/oracle.svg" width="30" title="Oracle"/>
   </a>
   <!--[PostgreSQL]-->
   <a href="https://www.postgresql.org/">
@@ -118,7 +118,10 @@
   </a>
   <!--[Google Colaboratory]-->
     <a href="">
-      <img src="https://www.svgrepo.com/show/349325/colaboratory.svg" width="30" title="Google Colaboratory"/>  
+      <img src="https://www.svgrepo.com/show/349325/colaboratory.svg" width="30" title="Google Colaboratory"/>
+  <!--[jupyter Notebook]-->
+    <a href="">
+      <img src="https://www.svgrepo.com/show/353949/jupyter.svg" width="30" title="Google Colaboratory"/>        
   <!--[Git]-->
   <a href="https://git-scm.com/">
     <img src="https://skillicons.dev/icons?i=git&theme=light" width="30" title="Git"/>
@@ -166,10 +169,10 @@
   <a href="https://jmeter.apache.org/">
     <img src="https://cdn.simpleicons.org/apachejmeter" width="30" title="Apache JMeter"/>
   </a>
-  <!--[Appium]
+  <!--[Appium]-->
   <a href="https://appium.io/">
-    <img src="https://skillicons.dev/icons?i=appium&theme=light" width="30" title="Appium"/>
-  </a> -->
+    <img src="https://www.svgrepo.com/show/353413/appium.svg" width="30" title="Appium"/>
+  </a>
   <!--[Selenium]-->
   <a href="https://www.selenium.dev/">
     <img src="https://skillicons.dev/icons?i=selenium&theme=light" width="30" title="Selenium"/>
