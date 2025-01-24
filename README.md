@@ -269,13 +269,13 @@
 <p align="center">
   <!--[trophy]-->
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=rensetiawanren&theme=radical&column=-1&no-bg=true&no-frame=true&rank=-?,-C"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=therendyproject&theme=radical&column=-1&no-bg=true&no-frame=true&rank=-?,-C"/>
     </a>
 </p>
 <p align="center">
   <!--[Rendy's GitHub streak-stats]-->
     <a href="https://git.io/streak-stats">
-      <img length="250" width="350" src="https://streak-stats.demolab.com/?user=rensetiawanren&theme=radical&hide_border=true&border_radius=20&background=00000000&mode=weekly"/>
+      <img length="250" width="350" src="https://streak-stats.demolab.com/?user=therendyproject&theme=radical&hide_border=true&border_radius=20&background=00000000&mode=weekly"/>
     </a>
   <!--[Rendy's GitHub stats]
     <a href="https://github.com/rensetiawanren/github-readme-stats">
@@ -284,28 +284,28 @@
 </p>
 <p align="center">    
   <!--[Rendy's GitHub top-lang]-->
-    <a href="https://github.com/rensetiawanren/github-readme-stats">
-      <img length="250" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rensetiawanren&layout=compact&theme=radical&langs_count=10&hide_border=true&border_radius=20&bg_color=00000000"/>
+    <a href="https://github.com/therendyproject/github-readme-stats">
+      <img length="250" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therendyproject&layout=compact&theme=radical&langs_count=10&hide_border=true&border_radius=20&bg_color=00000000"/>
     </a>
 </p>
 <p align="center">
   <!--[GitHub Activity Graph]
-    <img src="https://activity-graph.herokuapp.com/graph?username=rensetiawanren"/>-->
+    <img src="https://activity-graph.herokuapp.com/graph?username=therendyproject"/>-->
   <!--[GitHub metrics]
-    <img src="https://metrics.lecoq.io/rensetiawanren"/> -->
+    <img src="https://metrics.lecoq.io/therendyproject"/> -->
 </p>
 <p align="center">
   <!--[Rendy's WakaTime Stats]
-  <a href="https://github.com/rensetiawanren/github-readme-stats">
-    <img length="250" width="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=rensetiawanren&layout=compact&theme=radical&langs_count=10&hide_border=true&border_radius=20&bg_color=00000000"/>
+  <a href="https://github.com/therendyproject/github-readme-stats">
+    <img length="250" width="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=therendyproject&layout=compact&theme=radical&langs_count=10&hide_border=true&border_radius=20&bg_color=00000000"/>
   </a> -->
 </p>
 
 <p align="center">
 <!--[Rendy's GitHub profile-views-counter]
-  <img src="https://komarev.com/ghpvc/?username=rensetiawanren&color=lightgray&style=flat-square&label=👀+VISITORS"/>
+  <img src="https://komarev.com/ghpvc/?username=therendyproject&color=lightgray&style=flat-square&label=👀+VISITORS"/>
 
-  <!--<img src="https://profile-counter.glitch.me/rensetiawanren/count.svg" alt="" />-->
+  <!--<img src="https://profile-counter.glitch.me/therendyproject/count.svg" alt="" />-->
 </p>
 
 </details>
