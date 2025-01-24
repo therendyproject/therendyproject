@@ -29,15 +29,15 @@
 <!--[Social Media Badges]-->
 <p align="center">
   <!--[LinkedIn]-->
-  <a href="https://www.linkedin.com/in/rensetiawanren/">
+  <a href="https://www.linkedin.com/in/therendyproject/">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" title="Rendy's LinkedIn" alt="Linkedin"/>
   </a>
   <!--[Twitter]-->
-  <a href="https://www.twitter.com/rensetiawanren">
+  <a href="https://www.twitter.com/therendyproject">
     <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Rendy's Twitter" alt="Twitter"/>
   </a>
   <!--[Instagram]-->
-  <a href="https://www.instagram.com/rensetiawanren/">
+  <a href="https://www.instagram.com/therendyproject/">
     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Rendy's Instagram" alt="Instagram"/>
   </a>
   <!--[TikTok]-->
@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white" title="Rendy's TikTok" alt="TikTok"/>
   </a>
   <!--[YouTube]-->
-  <a href="http://www.youtube.com/@rensetiawanren">
+  <a href="http://www.youtube.com/@therendyproject">
     <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Rendy's YouTube" alt="YouTube"/>
   </a>
 </p>
