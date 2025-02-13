@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Rendy's Instagram" alt="Instagram"/>
   </a>
   <!--[TikTok]-->
-  <a href="http://tiktok.com/@rensetiawanren">
+  <a href="http://tiktok.com/@therendyproject">
     <img src="https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white" title="Rendy's TikTok" alt="TikTok"/>
   </a>
   <!--[YouTube]-->
